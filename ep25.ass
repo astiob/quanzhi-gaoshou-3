@@ -29,95 +29,95 @@ Style: Bright,Arial,60,&H00FFFFFF,&H00FFFFFF,&H60000000,&H00000000,0,0,0,0,100,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:03:01.31,0:03:02.94,Default,,0,0,0,,Do you want to become\Na professional player?
+Dialogue: 0,0:03:01.31,0:03:02.94,Default,,0,0,0,,Want to be a pro player?
 Dialogue: 0,0:03:03.56,0:03:04.44,Default,,0,0,0,,A new journey
 Dialogue: 0,0:03:04.44,0:03:05.44,Default,,0,0,0,,is about to begin.
-Dialogue: 0,0:03:06.44,0:03:07.94,Default,,0,0,0,,The gate to becoming a pro
-Dialogue: 0,0:03:07.94,0:03:09.31,Default,,0,0,0,,is already open for you.
-Dialogue: 0,0:03:11.44,0:03:12.31,Default,,0,0,0,,Well,
-Dialogue: 0,0:03:12.56,0:03:13.81,Default,,0,0,0,,are you ready?
-Dialogue: 0,0:03:15.44,0:03:16.69,Default,,0,0,0,,Embark on the journey
-Dialogue: 0,0:03:17.56,0:03:18.94,Default,,0,0,0,,to climb to the top.
-Dialogue: 0,0:03:19.44,0:03:21.81,Default,,0,0,0,,To touch the glory on the summit.
-Dialogue: 0,0:03:24.56,0:03:25.31,Default,,0,0,0,,To climb,
-Dialogue: 0,0:03:25.81,0:03:27.69,Default,,0,0,0,,one does not necessarily\Nhave to be a veteran.
-Dialogue: 0,0:03:29.56,0:03:30.56,Default,,0,0,0,,Climbing again
-Dialogue: 0,0:03:30.94,0:03:33.19,Default,,0,0,0,,without fear of how the fates\Nturned out in the past.
-Dialogue: 0,0:03:33.69,0:03:34.94,Default,,0,0,0,,Maybe it’s your first time,
-Dialogue: 0,0:03:36.19,0:03:37.94,Default,,0,0,0,,but dreams are not impossible!
-Dialogue: 0,0:03:38.31,0:03:40.06,Default,,0,0,0,,Glory Professional Alliance\NChallenge League
+Dialogue: 0,0:03:06.44,0:03:07.94,Default,,0,0,0,,The door to going pro
+Dialogue: 0,0:03:07.94,0:03:09.31,Default,,0,0,0,,is now open to you.
+Dialogue: 0,0:03:11.44,0:03:12.31,Default,,0,0,0,,So?
+Dialogue: 0,0:03:12.56,0:03:13.81,Default,,0,0,0,,Are you ready?
+Dialogue: 0,0:03:15.44,0:03:16.69,Default,,0,0,0,,Embark on the journey.
+Dialogue: 0,0:03:17.56,0:03:18.94,Default,,0,0,0,,Reach the very top
+Dialogue: 0,0:03:19.44,0:03:21.81,Default,,0,0,0,,and feel the glory of the summit.
+Dialogue: 0,0:03:24.56,0:03:25.31,Default,,0,0,0,,To climb up,
+Dialogue: 0,0:03:25.81,0:03:27.69,Default,,0,0,0,,you don’t have to be a veteran.
+Dialogue: 0,0:03:29.56,0:03:30.56,Default,,0,0,0,,Past failures
+Dialogue: 0,0:03:30.94,0:03:33.19,Default,,0,0,0,,shouldn’t stop you from trying again.
+Dialogue: 0,0:03:33.69,0:03:34.94,Default,,0,0,0,,Even if it’s your first time,
+Dialogue: 0,0:03:36.19,0:03:37.94,Default,,0,0,0,,every dream is possible.
+Dialogue: 0,0:03:38.31,0:03:40.06,Default,,0,0,0,,Glory{ Professional Alliance}’s Challengers League season
 Dialogue: 0,0:03:40.31,0:03:41.31,Default,,0,0,0,,is about to begin.
 Dialogue: 0,0:03:41.69,0:03:42.94,Default,,0,0,0,,The glorious crown
 Dialogue: 0,0:03:43.19,0:03:44.69,Default,,0,0,0,,awaits you.
-Comment: 0,0:03:43.19,0:03:44.69,Default,,0,0,0,,[Glory Challenge League]
+Comment: 0,0:03:43.19,0:03:44.69,Default,,0,0,0,,[Glory Challengers League]
 Dialogue: 0,0:03:48.90,0:03:49.69,Default,,0,0,0,,Hey, Ms. Chen.
-Dialogue: 0,0:03:50.06,0:03:51.56,Default,,0,0,0,,I wanted to join\Nthe competition with you.
-Dialogue: 0,0:03:52.06,0:03:54.31,Default,,0,0,0,,I heard that you formed\Nyour own team for the challenge league.
+Dialogue: 0,0:03:50.06,0:03:51.56,Default,,0,0,0,,I was gonna ask you to play with me,
+Dialogue: 0,0:03:52.06,0:03:54.31,Default,,0,0,0,,but I heard you made your own team?
 Dialogue: 0,0:03:56.60,0:03:57.60,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:04:11.06,0:04:14.15,Default,,0,0,0,,[157 days until Challenge League\Nregistration. Let’s do our best!]
-Dialogue: 0,0:04:21.23,0:04:22.86,Default,,0,0,0,,After the end of the regular season\Nlast month
-Dialogue: 0,0:04:22.86,0:04:24.73,Default,,0,0,0,,and determining the top eight teams,
-Dialogue: 0,0:04:24.73,0:04:26.23,Default,,0,0,0,,the former powerhouse Excellent Era
-Dialogue: 0,0:04:26.23,0:04:27.35,Default,,0,0,0,,was unfortunately eliminated.
+Dialogue: 0,0:04:11.06,0:04:14.15,Default,,0,0,0,,[157 days until Challengers League\Nregistration. Let’s do our best!]
+Dialogue: 0,0:04:21.23,0:04:22.86,Default,,0,0,0,,Based on the top-eight ranking
+Dialogue: 0,0:04:22.86,0:04:24.73,Default,,0,0,0,,as the regular season ended last month,
+Dialogue: 0,0:04:24.73,0:04:26.23,Default,,0,0,0,,the former powerhouse {\i1}Excellent Era
+Dialogue: 0,0:04:26.23,0:04:27.35,Default,,0,0,0,,has been eliminated.
 Dialogue: 0,0:04:27.35,0:04:29.10,Default,,0,0,0,,It’s a big upset indeed.
-Dialogue: 0,0:04:29.23,0:04:30.60,Default,,0,0,0,,Let’s connect with Excellent Era
-Dialogue: 0,0:04:30.60,0:04:32.35,Default,,0,0,0,,and listen to what they have to say.
-Dialogue: 0,0:04:32.35,0:04:33.60,Default,,0,0,0,,After Excellent Era’s elimination,
-Dialogue: 0,0:04:33.60,0:04:35.48,Default,,0,0,0,,will there be any changes\Nor adjustments to the roster?
-Dialogue: 0,0:04:36.10,0:04:37.10,Default,,0,0,0,,I will stay with Excellent Era
-Dialogue: 0,0:04:37.23,0:04:38.85,Default,,0,0,0,,and endure this difficult time together.
-Dialogue: 0,0:04:38.98,0:04:40.35,Default,,0,0,0,,In the next season,
-Dialogue: 0,0:04:40.35,0:04:41.35,Default,,0,0,0,,I will lead Excellent Era
-Dialogue: 0,0:04:41.48,0:04:42.85,Default,,0,0,0,,and return to this stage.
-Dialogue: 0,0:04:43.10,0:04:44.10,Default,,0,0,0,,Excellent Era
-Dialogue: 0,0:04:44.35,0:04:46.60,Default,,0,0,0,,is currently\Nin an unprecedented predicament.
-Dialogue: 0,0:04:46.85,0:04:48.23,Default,,0,0,0,,I also tried to contact
+Dialogue: 0,0:04:29.23,0:04:30.60,Default,,0,0,0,,Let’s check in with {\i1}Excellent Era
+Dialogue: 0,0:04:30.60,0:04:32.35,Default,,0,0,0,,and see what they have to say.
+Dialogue: 0,0:04:32.35,0:04:33.60,Default,,0,0,0,,After the relegation,
+Dialogue: 0,0:04:33.60,0:04:35.48,Default,,0,0,0,,will your roster see any changes?
+Dialogue: 0,0:04:36.10,0:04:37.10,Default,,0,0,0,,I’ll stay with {\i1}Excellent Era
+Dialogue: 0,0:04:37.23,0:04:38.85,Default,,0,0,0,,as we endure this difficult time.
+Dialogue: 0,0:04:38.98,0:04:40.35,Default,,0,0,0,,In next season’s Challengers,
+Dialogue: 0,0:04:40.35,0:04:41.35,Default,,0,0,0,,I will lead {\i1}Excellent Era
+Dialogue: 0,0:04:41.48,0:04:42.85,Default,,0,0,0,,back onto this stage.
+Dialogue: 0,0:04:43.10,0:04:44.10,Default,,0,0,0,,Our team is
+Dialogue: 0,0:04:44.35,0:04:46.60,Default,,0,0,0,,in an unprecedented predicament.
+Dialogue: 0,0:04:46.85,0:04:48.23,Default,,0,0,0,,We’ve tried to contact
 Dialogue: 0,0:04:48.23,0:04:49.73,Default,,0,0,0,,the retired former captain,
 Dialogue: 0,0:04:49.85,0:04:50.60,Default,,0,0,0,,Ye Qiu.
-Dialogue: 0,0:04:50.60,0:04:51.60,Default,,0,0,0,,I hope Ye Qiu
-Dialogue: 0,0:04:51.73,0:04:52.98,Default,,0,0,0,,can join us as a consultant
-Dialogue: 0,0:04:52.98,0:04:53.85,Default,,0,0,0,,and aid Excellent Era
-Dialogue: 0,0:04:54.10,0:04:55.60,Default,,0,0,0,,in finding out the root cause\Nof our problems.
-Dialogue: 0,0:04:55.73,0:04:56.85,Default,,0,0,0,,However, it’s a pity.
-Dialogue: 0,0:04:57.60,0:04:59.48,Default,,0,0,0,,After trying our best to reach Ye Qiu,
-Dialogue: 0,0:04:59.60,0:05:00.98,Default,,0,0,0,,we were decisively rejected.
-Dialogue: 0,0:05:01.40,0:05:02.65,Top,,0,0,0,,We will try our best to make up
-Dialogue: 0,0:05:01.48,0:05:02.23,Default,,0,0,0,,Shameless!
-Dialogue: 0,0:05:02.23,0:05:03.85,Default,,0,0,0,,They were the ones who drove you away!
-Dialogue: 0,0:05:02.65,0:05:04.27,Top,,0,0,0,,for the hole he left behind.
-Dialogue: 0,0:05:04.23,0:05:06.10,Default,,0,0,0,,They make it sound like you left them!
-Dialogue: 0,0:05:04.27,0:05:06.15,Top,,0,0,0,,Excellent Era’s lineup will be stronger
-Dialogue: 0,0:05:06.35,0:05:07.48,Default,,0,0,0,,for the next round of competition.
+Dialogue: 0,0:04:50.60,0:04:51.60,Default,,0,0,0,,We had hoped Ye Qiu
+Dialogue: 0,0:04:51.73,0:04:52.98,Default,,0,0,0,,could act as a consultant
+Dialogue: 0,0:04:52.98,0:04:53.85,Default,,0,0,0,,and help {\i1}Excellent Era
+Dialogue: 0,0:04:54.10,0:04:55.60,Default,,0,0,0,,identify the cause of our failures.
+Dialogue: 0,0:04:55.73,0:04:56.85,Default,,0,0,0,,Unfortunately,
+Dialogue: 0,0:04:57.60,0:04:59.48,Default,,0,0,0,,all our efforts to reach Ye Qiu
+Dialogue: 0,0:04:59.60,0:05:00.98,Default,,0,0,0,,were met with flat refusal.
+Dialogue: 0,0:05:01.40,0:05:02.65,Top,,0,0,0,,We’ll do our best to make up
+Dialogue: 0,0:05:01.48,0:05:02.23,Default,,0,0,0,,Incredible!
+Dialogue: 0,0:05:02.23,0:05:03.85,Default,,0,0,0,,They’re the ones who threw you out!
+Dialogue: 0,0:05:02.65,0:05:04.27,Top,,0,0,0,,for the gap that he left behind.
+Dialogue: 0,0:05:04.23,0:05:06.10,Default,,0,0,0,,They make it sound like you abandoned them!
+Dialogue: 0,0:05:04.27,0:05:06.15,Top,,0,0,0,,{\i1}Excellent Era{\i0} will approach the next round
+Dialogue: 0,0:05:06.35,0:05:07.48,Default,,0,0,0,,with a stronger lineup.
 Dialogue: 0,0:05:07.85,0:05:09.35,Default,,0,0,0,,Please accompany us on this journey.
-Dialogue: 0,0:05:09.35,0:05:12.65,Default,,0,0,0,,[Excellent Era is the only team for me,\NI’ve never heard of the other teams!]
+Dialogue: 0,0:05:09.35,0:05:12.65,Default,,0,0,0,,[{\i1}Excellent Era{\i0} is the only team for me,\NI’ve never heard of the other teams!]
 Dialogue: 0,0:05:12.65,0:05:14.60,Default,,0,0,0,,[Ye Qiu is such a traitor!]
-Dialogue: 0,0:05:15.48,0:05:16.85,Default,,0,0,0,,Excellent Era’s momentum\Nis growing strong.
-Dialogue: 0,0:05:17.35,0:05:19.10,Default,,0,0,0,,Excellent Era’s momentum is strong.
-Dialogue: 0,0:05:19.23,0:05:20.85,Default,,0,0,0,,But we are doomed!
+Dialogue: 0,0:05:15.48,0:05:16.85,Default,,0,0,0,,They’re looking good.
+Dialogue: 0,0:05:17.35,0:05:19.10,Default,,0,0,0,,They’re plenty good.
+Dialogue: 0,0:05:19.23,0:05:20.85,Default,,0,0,0,,But {\i1}we{\i0}’re doomed!
 Dialogue: 0,0:05:21.98,0:05:23.11,Default,,0,0,0,,Look at the news.
-Dialogue: 0,0:05:23.36,0:05:24.61,Default,,0,0,0,,Excellent Era is eliminated.
-Dialogue: 0,0:05:24.61,0:05:25.73,Default,,0,0,0,,They are going to join\Nthe Challenge League.
-Dialogue: 0,0:05:26.48,0:05:28.48,Default,,0,0,0,,He called me here before\Nand told me to form a team.
-Dialogue: 0,0:05:28.48,0:05:29.48,Default,,0,0,0,,That sounded like a nice plan.
+Dialogue: 0,0:05:23.36,0:05:24.61,Default,,0,0,0,,{\i1}Excellent Era{\i0}’s dropped
+Dialogue: 0,0:05:24.61,0:05:25.73,Default,,0,0,0,,to the Challengers League.
+Dialogue: 0,0:05:26.48,0:05:28.48,Default,,0,0,0,,When you called me\Nand said you’d form a team,
+Dialogue: 0,0:05:28.48,0:05:29.48,Default,,0,0,0,,it sounded great.
 Dialogue: 0,0:05:30.27,0:05:32.02,Default,,0,0,0,,{\pos(503.67,720)\fad(563,522)}[Player: Wei Chen, Happy.Windward\NFormation, Job: Warlock]
-Dialogue: 0,0:05:32.73,0:05:33.23,Default,,0,0,0,,How does it sound?
+Dialogue: 0,0:05:32.73,0:05:33.23,Default,,0,0,0,,Well?
 Dialogue: 0,0:05:32.77,0:05:34.52,Default,,0,0,0,,{\pos(513,676)\fad(563,562)}[Player: Ye Xiu, Happy.Lord Grim,\NJob: Unspecialized]
-Dialogue: 0,0:05:33.73,0:05:34.98,Default,,0,0,0,,Let me give you a lift.
-Dialogue: 0,0:05:35.10,0:05:35.60,Default,,0,0,0,,What now?
-Dialogue: 0,0:05:36.02,0:05:37.15,Default,,0,0,0,,Are you aiming to become the champion?
+Dialogue: 0,0:05:33.73,0:05:34.98,Default,,0,0,0,,Want a ride, buddy?
+Dialogue: 0,0:05:35.10,0:05:35.60,Default,,0,0,0,,What?
+Dialogue: 0,0:05:36.02,0:05:37.15,Default,,0,0,0,,You wanna be champion?
 Dialogue: 0,0:05:37.85,0:05:39.73,Default,,0,0,0,,Is there anything more interesting?
-Dialogue: 0,0:05:40.94,0:05:42.98,Default,,0,0,0,,[Challenge League]
-Dialogue: 0,0:05:42.98,0:05:44.23,Default,,0,0,0,,And then?
-Dialogue: 0,0:05:44.60,0:05:46.98,Default,,0,0,0,,We have to face Excellent Era\Nin the Challenge League!
-Dialogue: 0,0:05:47.35,0:05:48.35,Default,,0,0,0,,What should we do now?
-Dialogue: 0,0:05:48.60,0:05:49.60,Default,,0,0,0,,Champion? In your dreams!
-Dialogue: 0,0:05:49.98,0:05:51.73,Default,,0,0,0,,We might not even make it\Nout of group stage!
-Dialogue: 0,0:05:54.73,0:05:56.10,Default,,0,0,0,,Who could have predicted that?
-Dialogue: 0,0:05:56.48,0:05:58.10,Default,,0,0,0,,They were so bad\Nthat they were eliminated?
-Dialogue: 0,0:05:59.23,0:06:00.98,Default,,0,0,0,,I was wondering why you were not\Nin the right state these days.
-Dialogue: 0,0:06:01.23,0:06:02.48,Default,,0,0,0,,So this is bothering you.
-Dialogue: 0,0:06:02.86,0:06:04.48,Default,,0,0,0,,How can I not be anxious?
-Dialogue: 0,0:06:04.61,0:06:05.86,Default,,0,0,0,,It’s Excellent Era we’re talking about.
+Dialogue: 0,0:05:40.94,0:05:42.98,Default,,0,0,0,,[Challengers League]
+Dialogue: 0,0:05:42.98,0:05:44.23,Default,,0,0,0,,And now?
+Dialogue: 0,0:05:44.60,0:05:46.98,Default,,0,0,0,,We must face {\i1}Excellent Era{\i0}\Nin the Challengers League!
+Dialogue: 0,0:05:47.35,0:05:48.35,Default,,0,0,0,,What do we do now?
+Dialogue: 0,0:05:48.60,0:05:49.60,Default,,0,0,0,,Champion?
+Dialogue: 0,0:05:49.98,0:05:51.73,Default,,0,0,0,,We might not qualify at all!
+Dialogue: 0,0:05:54.73,0:05:56.10,Default,,0,0,0,,Who could’ve thought?
+Dialogue: 0,0:05:56.48,0:05:58.10,Default,,0,0,0,,They’re so bad they got relegated!
+Dialogue: 0,0:05:59.23,0:06:00.98,Default,,0,0,0,,You haven’t been yourself lately.
+Dialogue: 0,0:06:01.23,0:06:02.48,Default,,0,0,0,,Are you worried about this?
+Dialogue: 0,0:06:02.86,0:06:04.48,Default,,0,0,0,,Of course I am!
+Dialogue: 0,0:06:04.61,0:06:05.86,Default,,0,0,0,,It’s {\i1}Excellent Era!
 Dialogue: 0,0:06:06.11,0:06:07.86,Default,,0,0,0,,Just consider the stats\Nof our characters.
 Dialogue: 0,0:06:08.11,0:06:09.48,Default,,0,0,0,,Ignoring the differences\Nin player skills,
 Dialogue: 0,0:06:09.86,0:06:11.73,Default,,0,0,0,,the offensive stats\Nof Excellent Era’s characters
