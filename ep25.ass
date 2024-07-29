@@ -17,9 +17,9 @@ Video File: 🎮 EP25 ｜ 备战荣耀挑战赛！叶修带领兴欣队员狂刷
 Video AR Mode: 4
 Video AR Value: 2.370370
 Video Zoom Percent: 0.750000
-Scroll Position: 413
-Active Line: 423
-Video Position: 28694
+Scroll Position: 87
+Active Line: 93
+Video Position: 9003
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -105,7 +105,7 @@ Dialogue: 0,0:05:32.77,0:05:34.52,Default,,0,0,0,,{\pos(513,676)\fad(563,562)}[P
 Dialogue: 0,0:05:33.73,0:05:34.98,Default,,0,0,0,,Want a ride, buddy?
 Dialogue: 0,0:05:35.10,0:05:35.60,Default,,0,0,0,,What?
 Dialogue: 0,0:05:36.02,0:05:37.15,Default,,0,0,0,,You wanna be champion?
-Dialogue: 0,0:05:37.85,0:05:39.73,Default,,0,0,0,,Is there anything more interesting?
+Dialogue: 0,0:05:37.85,0:05:39.73,Default,,0,0,0,,{Is there anything more interesting?\N}Could anything else be as fun?
 Dialogue: 0,0:05:40.94,0:05:42.98,Default,,0,0,0,,[Challengers League]
 Dialogue: 0,0:05:42.98,0:05:44.23,Default,,0,0,0,,And now?
 Dialogue: 0,0:05:44.60,0:05:46.98,Default,,0,0,0,,We must face {\i1}Excellent Era{\i0}\Nin the Challengers League!
@@ -118,11 +118,11 @@ Dialogue: 0,0:05:59.23,0:06:00.98,Default,,0,0,0,,You haven’t been yourself la
 Dialogue: 0,0:06:01.23,0:06:02.48,Default,,0,0,0,,Are you worried about this?
 Dialogue: 0,0:06:02.86,0:06:04.48,Default,,0,0,0,,Of course I am!
 Dialogue: 0,0:06:04.61,0:06:05.86,Default,,0,0,0,,It’s {\i1}Excellent Era!
-Dialogue: 0,0:06:06.11,0:06:07.86,Default,,0,0,0,,Just consider the stats\Nof our characters.
-Dialogue: 0,0:06:08.11,0:06:09.48,Default,,0,0,0,,Ignoring the differences\Nin player skills,
-Dialogue: 0,0:06:09.86,0:06:11.73,Default,,0,0,0,,the offensive stats\Nof Excellent Era’s characters
+Dialogue: 0,0:06:06.11,0:06:07.86,Default,,0,0,0,,Just look at character stats,
+Dialogue: 0,0:06:08.11,0:06:09.48,Default,,0,0,0,,never mind player skills.
+Dialogue: 0,0:06:09.86,0:06:11.73,Default,,0,0,0,,Their characters’ offensive stats
 Dialogue: 0,0:06:11.73,0:06:13.11,Default,,0,0,0,,are way better than ours!
-Dialogue: 0,0:06:15.11,0:06:16.11,Default,,0,0,0,,Indeed.
+Dialogue: 0,0:06:15.11,0:06:16.11,Default,,0,0,0,,That’s true.
 Dialogue: 0,0:06:16.23,0:06:17.98,Default,,0,0,0,,Excellent Era is a luxurious team.
 Dialogue: 0,0:06:18.23,0:06:20.61,Default,,0,0,0,,Their players and accounts are\Nall top-tier.
 Dialogue: 0,0:06:21.11,0:06:23.48,Default,,0,0,0,,They even have One Autumn Leaf,\Nalso known as Battle God.
