@@ -16,10 +16,10 @@ Audio File: 🎮 EP25 ｜ 备战荣耀挑战赛！叶修带领兴欣队员狂刷
 Video File: 🎮 EP25 ｜ 备战荣耀挑战赛！叶修带领兴欣队员狂刷技能点！ ｜《全职高手第三季》The King's Avatar S3 ｜ 阅文动漫 ｜ 官方Official【会员专享热门动画剧集抢先看】 [fO-lTpWtdR4].webm
 Video AR Mode: 4
 Video AR Value: 2.370370
-Video Zoom Percent: 0.750000
-Scroll Position: 87
-Active Line: 93
-Video Position: 9003
+Video Zoom Percent: 0.375000
+Scroll Position: 91
+Active Line: 110
+Video Position: 9666
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -124,19 +124,19 @@ Dialogue: 0,0:06:08.11,0:06:09.48,Default,,0,0,0,,never mind player skills.
 Dialogue: 0,0:06:09.86,0:06:11.73,Default,,0,0,0,,Their characters’ offensive stats
 Dialogue: 0,0:06:11.73,0:06:13.11,Default,,0,0,0,,are way better than ours!
 Dialogue: 0,0:06:15.11,0:06:16.11,Default,,0,0,0,,That’s true.
-Dialogue: 0,0:06:16.23,0:06:17.98,Default,,0,0,0,,Excellent Era is a luxurious team.
-Dialogue: 0,0:06:18.23,0:06:20.61,Default,,0,0,0,,Their players and accounts are\Nall top-tier.
-Dialogue: 0,0:06:21.11,0:06:23.48,Default,,0,0,0,,They even have One Autumn Leaf,\Nalso known as Battle God.
-Dialogue: 0,0:06:24.23,0:06:25.36,Default,,0,0,0,,God-level characters like this
-Dialogue: 0,0:06:25.36,0:06:26.73,Default,,0,0,0,,have their whole bodies\Ncovered with silver weapons.
-Dialogue: 0,0:06:28.85,0:06:29.98,Default,,0,0,0,,As for us,
-Dialogue: 0,0:06:30.48,0:06:31.60,Default,,0,0,0,,we only have two silver weapons.
+Dialogue: 0,0:06:16.23,0:06:17.98,Default,,0,0,0,,{\i1}Excellent Era{\i0} is a wealthy team.
+Dialogue: 0,0:06:18.23,0:06:20.61,Default,,0,0,0,,Their players and accounts are all top-tier.
+Dialogue: 0,0:06:21.11,0:06:23.48,Default,,0,0,0,,They even have the Battle God, One Autumn Leaf.
+Dialogue: 0,0:06:24.23,0:06:25.36,Default,,0,0,0,,God-level accounts
+Dialogue: 0,0:06:25.36,0:06:26.73,Default,,0,0,0,,are covered in silver equipment.
+Dialogue: 0,0:06:28.85,0:06:29.98,Default,,0,0,0,,Yet our silver equipment
+Dialogue: 0,0:06:30.48,0:06:31.60,Default,,0,0,0,,is just two weapons.
 Dialogue: 0,0:06:36.48,0:06:37.73,Default,,0,0,0,,But we still have you, Ye Xiu.
 Dialogue: 0,0:06:37.85,0:06:38.73,Default,,0,0,0,,And Mumu!
 Dialogue: 0,0:06:38.06,0:06:38.85,Default,,0,0,0,,{\pos(1982,579)}[Ally]
 Dialogue: 0,0:06:39.48,0:06:40.23,Default,,0,0,0,,Su Mucheng?
-Dialogue: 0,0:06:40.35,0:06:41.48,Default,,0,0,0,,Your best partner?
-Dialogue: 0,0:06:41.98,0:06:42.60,Default,,0,0,0,,Will she join us?
+Dialogue: 0,0:06:40.35,0:06:41.48,Default,,0,0,0,,Your {\i1}Best Partner?
+Dialogue: 0,0:06:41.98,0:06:42.60,Default,,0,0,0,,She’ll join us?
 Dialogue: 0,0:06:42.73,0:06:44.60,Default,,0,0,0,,She has to wait until next season.
 Dialogue: 0,0:06:44.23,0:06:45.23,Default,,0,0,0,,{\pos(2075,470)}[Ally]
 Dialogue: 0,0:06:45.23,0:06:46.19,Default,,0,0,0,,{\pos(2075,470)}[Enemy]
