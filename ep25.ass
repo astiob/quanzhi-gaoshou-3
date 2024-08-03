@@ -23,7 +23,7 @@ Video Position: 9666
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,60,&H00FFFFFF,&H00FFFFFF,&H40000000,&H00000000,0,0,0,0,100,100,0,0,1,2.13,0,2,40,0,100,1
+Style: Default,Source Sans 3,78,&H00FFFFFF,&H00FFFFFF,&H40000000,&H00000000,0,0,0,0,100,100,0,0,1,2.13,0,2,40,0,92,1
 Style: Top,Arial,60,&H00FFFFFF,&H00FFFFFF,&H40000000,&H00000000,0,0,0,0,100,100,0,0,1,2.13,0,8,40,0,132,1
 Style: Bright,Arial,60,&H00FFFFFF,&H00FFFFFF,&H60000000,&H00000000,0,0,0,0,100,100,0,0,1,2.13,0,2,40,0,100,1
 Style: Noto,Noto Sans,76,&H00FFFFFF,&H00FFFFFF,&H40000000,&H00000000,0,0,0,0,100,100,0,0,1,2.13,0,2,40,0,92,1
@@ -98,7 +98,7 @@ Dialogue: 0,0:05:19.23,0:05:20.85,Default,,0,0,0,,But {\i1}we{\i0}’re doomed!
 Dialogue: 0,0:05:21.98,0:05:23.11,Default,,0,0,0,,Look at the news.
 Dialogue: 0,0:05:23.36,0:05:24.61,Default,,0,0,0,,{\i1}Excellent Era{\i0}’s dropped
 Dialogue: 0,0:05:24.61,0:05:25.73,Default,,0,0,0,,to the Challengers League.
-Dialogue: 0,0:05:26.48,0:05:28.48,Default,,0,0,0,,When you called me\Nand said you’d form a team,
+Dialogue: 0,0:05:26.48,0:05:28.48,Default,,0,0,0,,When you called me and said you’d form a team,
 Dialogue: 0,0:05:28.48,0:05:29.48,Default,,0,0,0,,it sounded great.
 Dialogue: 0,0:05:30.27,0:05:32.02,Default,,0,0,0,,{\pos(503.67,720)\fad(563,522)}[Player: Wei Chen, Happy.Windward\NFormation, Job: Warlock]
 Dialogue: 0,0:05:32.73,0:05:33.23,Default,,0,0,0,,Well?
@@ -109,7 +109,7 @@ Dialogue: 0,0:05:36.02,0:05:37.15,Default,,0,0,0,,You wanna be champion?
 Dialogue: 0,0:05:37.85,0:05:39.73,Default,,0,0,0,,{Is there anything more interesting?\N}Could anything else be as fun?
 Dialogue: 0,0:05:40.94,0:05:42.98,Default,,0,0,0,,[Challengers League]
 Dialogue: 0,0:05:42.98,0:05:44.23,Default,,0,0,0,,And now?
-Dialogue: 0,0:05:44.60,0:05:46.98,Default,,0,0,0,,We must face {\i1}Excellent Era{\i0}\Nin the Challengers League!
+Dialogue: 0,0:05:44.60,0:05:46.98,Default,,0,0,0,,We must face {\i1}Excellent Era{\i0} in the Challengers League!
 Dialogue: 0,0:05:47.35,0:05:48.35,Default,,0,0,0,,What do we do now?
 Dialogue: 0,0:05:48.60,0:05:49.60,Default,,0,0,0,,Champion?
 Dialogue: 0,0:05:49.98,0:05:51.73,Default,,0,0,0,,We might not qualify at all!
