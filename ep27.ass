@@ -14,13 +14,14 @@ Video File: [Q] The King's Avatar S3 - 03 (1080p HBR HEVC).mkv
 Video AR Mode: 4
 Video AR Value: 2.370370
 Video Zoom Percent: 1.000000
-Scroll Position: 112
-Active Line: 126
-Video Position: 11373
+Scroll Position: 343
+Active Line: 358
+Video Position: 21226
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Source Sans 3,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,0,69,1
+Style: Top,Source Sans 3,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,0,97,1
 Style: Chatbox,Source Sans 3,24,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,30,0,69,1
 
 [Events]
@@ -183,24 +184,23 @@ Dialogue: 0,0:07:43.85,0:07:45.06,Default,,0,0,0,,There are a few materials.
 Dialogue: 0,0:07:45.31,0:07:46.52,Default,,0,0,0,,[Player: Mo Fan. Deception. Job: Ninja]
 Dialogue: 0,0:07:50.40,0:07:51.31,Default,,0,0,0,,The guild leader is ousted.
 Dialogue: 0,0:07:51.31,0:07:52.69,Default,,0,0,0,,His materials are taken away!
-Dialogue: 0,0:07:52.69,0:07:53.81,Default,,0,0,0,,- It’s Deception.
-Dialogue: 0,0:07:52.90,0:07:54.15,Default,,0,0,0,,- Who is he?
-Dialogue: 0,0:07:53.85,0:07:55.94,Default,,0,0,0,,He’s a scavenger who always\Nraids and robs others, Deception.
+Comment: 0,0:07:52.69,0:07:53.81,Top,,25,1,1,,{\fs30.5}\N\N{\fnNoto Sans CJK SC\fs69\fsp1.796875\an8}是毁人不倦
+Dialogue: 1,0:07:52.69,0:07:53.81,Top,,0,0,97,,It’s Deception.
+Dialogue: 0,0:07:52.90,0:07:54.15,Default,,0,0,0,,Who is he?
+Dialogue: 0,0:07:53.85,0:07:55.94,Top,,0,0,0,,He’s a scavenger who always\Nraids and robs others, Deception.{那个专搞偷袭打劫的拾荒者}
 Dialogue: 0,0:07:55.69,0:07:56.27,Default,,0,0,0,,Bao.
-Dialogue: 0,0:07:55.90,0:07:57.15,Default,,0,0,0,,- No wonder he looks sleazy.
-Dialogue: 0,0:07:56.69,0:07:57.65,Default,,0,0,0,,- Hurry up and guard the door.
+Dialogue: 0,0:07:55.94,0:07:57.19,Top,,0,0,0,edited,No wonder he’s so creepy.{怪不得这么猥琐}
+Dialogue: 0,0:07:56.69,0:07:57.65,Default,,0,0,0,,Hurry up and guard the door.
 Dialogue: 0,0:08:01.90,0:08:03.85,Default,,0,0,0,,I’m telling you\Nto guard the door in the game.
 Dialogue: 0,0:08:08.98,0:08:11.48,Default,,0,0,0,,This is definitely our weak point.
-Dialogue: 0,0:08:12.44,0:08:13.48,Default,,0,0,0,,Disperse and search for it.
+Dialogue: 0,0:08:12.40,0:08:13.48,Default,,0,0,0,,Disperse and search for it.
 Dialogue: 0,0:08:13.48,0:08:15.35,Default,,0,0,0,,If he’s alone, it’d be great\Nif we can lure him.
-Dialogue: 0,0:08:15.73,0:08:16.31,Default,,0,0,0,,Over here.
-Dialogue: 0,0:08:16.31,0:08:16.56,Default,,0,0,0,,- Over here.\N- If the battle is over, he’ll sign out.
-Dialogue: 0,0:08:16.56,0:08:17.94,Default,,0,0,0,,If the battle is over, he’ll sign out.
+Dialogue: 0,0:08:15.77,0:08:16.60,Top,,0,0,0,,Over here.
+Dialogue: 0,0:08:16.31,0:08:17.94,Default,,0,0,0,,If the battle is over, he’ll sign out.
 Dialogue: 0,0:08:18.02,0:08:19.52,Default,,0,0,0,,If we’re unable\Nto locate him for a long while,
-Dialogue: 0,0:08:19.52,0:08:20.02,Default,,0,0,0,,it’d be hard for us to locate him again.
-Dialogue: 0,0:08:20.02,0:08:20.44,Default,,0,0,0,,- Stop.\N- It’d be hard for us
-Dialogue: 0,0:08:20.44,0:08:21.27,Default,,0,0,0,,- Stop!\N- to locate him again.
-Dialogue: 0,0:08:21.27,0:08:22.27,Default,,0,0,0,,Stop!
+Dialogue: 0,0:08:19.52,0:08:20.44,Default,,0,0,0,,it’d be hard for us
+Dialogue: 0,0:08:20.44,0:08:21.27,Default,,0,0,0,,to locate him again.
+Dialogue: 0,0:08:20.06,0:08:22.31,Top,,0,0,0,,Stop!
 Dialogue: 0,0:08:22.81,0:08:24.19,Default,,0,0,0,,His job is Ninja.
 Dialogue: 0,0:08:24.19,0:08:25.56,Default,,0,0,0,,His name is Deception.
 Dialogue: 0,0:08:26.15,0:08:27.06,Default,,0,0,0,,Specialized in scavenging.
@@ -253,7 +253,7 @@ Dialogue: 0,0:10:23.56,0:10:26.06,Default,,0,0,0,,he lost two agile equipment to
 Dialogue: 0,0:10:26.10,0:10:27.60,Default,,0,0,0,,His speed has decreased.
 Dialogue: 0,0:10:29.65,0:10:31.02,Default,,0,0,0,,Can you give me some equipment?
 Dialogue: 0,0:10:31.02,0:10:32.40,Default,,0,0,0,,For speed.
-Dialogue: 0,0:10:32.85,0:10:33.65,Default,,0,0,0,,Sure!
+Dialogue: 0,0:10:32.77,0:10:33.65,Default,,0,0,0,,Sure!
 Dialogue: 0,0:10:33.65,0:10:35.02,Default,,0,0,0,,I have one with me.
 Dialogue: 0,0:10:35.65,0:10:37.27,Default,,0,0,0,,Thanks for that.
 Dialogue: 0,0:10:37.90,0:10:38.52,Default,,0,0,0,,Everyone.
@@ -294,8 +294,8 @@ Dialogue: 0,0:11:47.02,0:11:49.27,Default,,0,0,0,,It’s a waste for you to be a
 Dialogue: 0,0:11:49.31,0:11:51.31,Default,,0,0,0,,I never collect trash.
 Dialogue: 0,0:11:52.31,0:11:54.19,Default,,0,0,0,,That is because you’ve never\Nseen the true Ultimate materials.
 Dialogue: 0,0:11:54.56,0:11:56.31,Default,,0,0,0,,For instance, my weapon.
-Dialogue: 0,0:11:56.44,0:11:57.90,Default,,0,0,0,,Have you seen it?
-Dialogue: 0,0:11:58.10,0:11:59.69,Default,,0,0,0,,You’re so annoying.
+Dialogue: 0,0:11:56.44,0:11:57.81,Default,,0,0,0,,Have you seen it?
+Dialogue: 0,0:11:58.06,0:11:59.69,Default,,0,0,0,,You’re so annoying.
 Dialogue: 0,0:12:00.31,0:12:01.31,Default,,0,0,0,,Calm down.
 Dialogue: 0,0:12:01.31,0:12:02.56,Default,,0,0,0,,I haven’t shown you everything yet.
 Dialogue: 0,0:12:07.02,0:12:08.27,Default,,0,0,0,,He’s dead.
@@ -309,8 +309,8 @@ Dialogue: 0,0:12:19.52,0:12:21.15,Default,,0,0,0,,Small guild?
 Dialogue: 0,0:12:22.60,0:12:24.10,Default,,0,0,0,,I suddenly have an idea.
 Dialogue: 0,0:12:24.52,0:12:25.40,Default,,0,0,0,,[Chatting with Loulan Slash]\NWhat?
 Dialogue: 0,0:12:25.40,0:12:26.65,Default,,0,0,0,,Extend our collaboration.
-Dialogue: 0,0:12:26.65,0:12:27.90,Default,,0,0,0,,[Hesin City’s sewer. LV55 Training Zone]
-Dialogue: 0,0:12:27.90,0:12:28.90,Default,,0,0,0,,[Hesin City’s sewer. LV55 Training Zone]\NHurry up.
+Dialogue: 0,0:12:26.65,0:12:28.90,Default,,0,0,0,,[Hesin City’s sewer. LV55 Training Zone]
+Dialogue: 0,0:12:27.90,0:12:28.90,Default,,0,0,0,,Hurry up.
 Dialogue: 0,0:12:28.90,0:12:29.90,Default,,0,0,0,,Increase the firepower.
 Dialogue: 0,0:12:29.90,0:12:31.40,Default,,0,0,0,,Else when the big guilds come,\Nwe won’t be able to get anything.
 Dialogue: 0,0:12:33.85,0:12:34.98,Default,,0,0,0,,Hello there!
@@ -325,9 +325,8 @@ Dialogue: 0,0:12:53.69,0:12:55.02,Default,,0,0,0,,Each of you will get the mater
 Dialogue: 0,0:12:56.10,0:12:59.02,Default,,0,0,0,,The big guilds always get the bosses.
 Dialogue: 0,0:12:59.31,0:13:00.65,Default,,0,0,0,,We couldn’t snatch the bosses\Nfrom the big guilds.
 Dialogue: 0,0:13:00.65,0:13:02.48,Default,,0,0,0,,Only when they are\Nhaving internal disputes
-Dialogue: 0,0:13:02.48,0:13:03.48,Default,,0,0,0,,can we get to oust the boss.
-Dialogue: 0,0:13:03.48,0:13:03.81,Default,,0,0,0,,- Hurry up and attack!\N- can we get to oust the boss.
-Dialogue: 0,0:13:03.81,0:13:04.48,Default,,0,0,0,,Hurry up and attack!
+Dialogue: 0,0:13:02.48,0:13:03.81,Default,,0,0,0,,can we get to oust the boss.
+Dialogue: 0,0:13:03.52,0:13:04.52,Top,,0,0,0,,Hurry up and attack!
 Dialogue: 0,0:13:04.60,0:13:06.48,Default,,0,0,0,,Someone stole the boss.
 Dialogue: 0,0:13:08.52,0:13:10.02,Default,,0,0,0,,Aren’t you upset?
 Dialogue: 0,0:13:13.15,0:13:16.40,Default,,0,0,0,,Why can’t the small guilds\Nget the chance to oust the bosses?
@@ -343,13 +342,15 @@ Dialogue: 0,0:13:32.60,0:13:35.48,Default,,0,0,0,,Looking forward to working wit
 Dialogue: 0,0:13:36.85,0:13:37.85,Default,,0,0,0,,God Ye.
 Dialogue: 0,0:13:37.85,0:13:40.85,Default,,0,0,0,,Our team has\Nmore members than Blue Brook Guild now.
 Dialogue: 0,0:13:46.56,0:13:48.40,Default,,0,0,0,,[LV 60. Over-world boss.\NOcean Nightwalker. Gan Lie]
-Dialogue: 0,0:13:48.40,0:13:49.73,Default,,0,0,0,,[Player: Xu Boyuan. Blue Brook Guild.]\NThere are a lot of guilds
-Dialogue: 0,0:13:49.73,0:13:51.06,Default,,0,0,0,,[Blue Bridge Spring Snow. Job: Blade Master.]\Nthat came today.
+Dialogue: 0,0:13:48.40,0:13:49.73,Default,,0,0,0,,[Player: Xu Boyuan. Blue Brook Guild.]
+Dialogue: 0,0:13:48.40,0:13:51.06,Default,,0,0,0,,There are a lot of guilds that came today.
+Dialogue: 0,0:13:49.73,0:13:51.06,Default,,0,0,0,,[Blue Bridge Spring Snow. Job: Blade Master.]
 Dialogue: 0,0:13:51.06,0:13:52.73,Default,,0,0,0,,It seems like\Nit requires more effort now.
 Dialogue: 0,0:13:53.77,0:13:54.31,Default,,0,0,0,,Buddy.
-Dialogue: 0,0:13:54.31,0:13:55.48,Default,,0,0,0,,[Chatting with Electric Youfeng]\NLet’s join forces
-Dialogue: 0,0:13:55.48,0:13:56.65,Default,,0,0,0,,[Chatting with Electric Youfeng]\Nto oust the Excellent Dynasty.
-Dialogue: 0,0:13:56.65,0:13:57.90,Default,,0,0,0,,[Chatting with Araceae]\NTyranny sent us a message earlier.
+Dialogue: 0,0:13:54.31,0:13:56.65,Default,,0,0,0,,[Chatting with Electric Youfeng]
+Dialogue: 0,0:13:54.31,0:13:56.65,Default,,0,0,0,,Let’s join forces to oust the Excellent Dynasty.
+Dialogue: 0,0:13:56.65,0:13:57.90,Default,,0,0,0,,[Chatting with Araceae]
+Dialogue: 0,0:13:56.65,0:13:57.90,Default,,0,0,0,,Tyranny sent us a message earlier.
 Dialogue: 0,0:13:57.94,0:13:59.48,Default,,0,0,0,,They want to join forces to attack you.
 Dialogue: 0,0:13:59.48,0:14:01.48,Default,,0,0,0,,I don’t really like this act.
 Dialogue: 0,0:14:01.48,0:14:02.60,Default,,0,0,0,,Let’s join forces to oust them then.
