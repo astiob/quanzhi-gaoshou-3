@@ -4,6 +4,7 @@
 ScriptType: v4.00+
 PlayResX: 1920
 PlayResY: 810
+Kerning: yes
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
@@ -20,9 +21,9 @@ Video Position: 21226
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Source Sans 3,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,0,69,1
-Style: Top,Source Sans 3,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,0,97,1
-Style: Chatbox,Source Sans 3,24,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,30,0,69,1
+Style: Default,SourceSans3Uniscribe,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,0,69,1
+Style: Top,SourceSans3Uniscribe,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,0,97,1
+Style: Chatbox,SourceSans3Uniscribe,24,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,30,0,69,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -55,7 +56,7 @@ Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HFAFDFF&\an4\pos(533
 Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HE8ECF0&\3c&HE6EBEA&\an5\bord0\pos(1200,255)\blur0.75\fs40}.
 Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HE6E9F0&\3c&HE6EBEA&\an5\bord0\pos(1248,252)\blur0.75\fs54}.
 Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HE6E9F0&\3c&HE6EBEA&\an5\bord0\pos(1248,278)\blur0.75\fs40}.
-Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\blur1\fnSource Sans 3 Medium\c&H6A6B65&\fs106\an4\pos(533,285.5)}# Team Samsara places first! #
+Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\blur1\fnSourceSans3Uniscribe Medium\c&H6A6B65&\fs106\an4\pos(533,285.5)}# Team Samsara places first! #
 Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,TS,{\bord0\blur1fnNoto Sans\c&HB5BAB9&\fs70\an4\pos(533,388)}Summary: Samsara wins 1st round of Glory Playoffs!{TODO TS background dots behind this line}
 Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HFAFDFF&\an7\p1\pos(266,622)}m -96 -50 l 96 -50 96 50 -96 50
 Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HFAFDFF&\an7\p1\pos(592,622)}m -96 -50 l 96 -50 96 50 -96 50
