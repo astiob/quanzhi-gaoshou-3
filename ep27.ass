@@ -390,71 +390,71 @@ Dialogue: 0,0:02:40.56,0:02:43.56,Name OSD,,0,0,0,,{\pos(287.07,501)\fnSourceSan
 Dialogue: 0,0:02:40.56,0:02:43.56,Name OSD,,0,0,0,,{\fs30\fnSourceSans3Uniscribe Medium\i1\fscx95.5\fsp-0.5\blur0.6\an6\pos(435,455)}Player: Chen Guo
 Dialogue: 0,0:02:40.56,0:02:43.56,Name OSD,,0,0,0,,{\fs30\fnSourceSans3Uniscribe Medium\i1\fscx95.5\fsp-0.5\blur0.6\an4\pos(138,549.5)}Class: Launcher
 Dialogue: 0,0:02:40.56,0:02:43.56,Name OSD,,0,0,0,,{\fs30\fnSourceSans3Uniscribe Semibold\i1\blur0.6\an4\pos(137,425)\c&H483AFF&}Happy
-Dialogue: 0,0:02:40.98,0:02:42.48,Default,,0,0,0,,Seems like the grand champion’s war
+Dialogue: 0,0:02:40.98,0:02:42.48,Default,Ye Xiu,0,0,0,,They’re even fighting over it
 Dialogue: 0,0:02:40.98,0:02:41.27,Default,,0,0,0,,[Player: Tang Rou. Happy.Soft Mist.]
 Dialogue: 0,0:02:41.27,0:02:41.60,Default,,0,0,0,,[Job: Battle Mage.]
 Dialogue: 0,0:02:41.60,0:02:42.02,Default,,0,0,0,,[Player: Bao Rongxin.]
 Dialogue: 0,0:02:42.02,0:02:42.48,Default,,0,0,0,,[Happy.Steamed Bun Invasion. Job: Brawler.]
-Dialogue: 0,0:02:42.48,0:02:43.73,Default,,0,0,0,,has spread into the game.
-Dialogue: 0,0:02:44.35,0:02:45.48,Default,,0,0,0,,There’s a boss.
-Dialogue: 0,0:02:45.48,0:02:47.73,Default,,0,0,0,,The Dark Light of the Dark Palace has been updated.
+Dialogue: 0,0:02:42.48,0:02:43.73,Default,Ye Xiu,0,0,0,,in the public game now.
+Dialogue: 0,0:02:44.35,0:02:45.48,Default,Lou Guanning,0,0,0,,We have a boss!
+Dialogue: 0,0:02:45.48,0:02:47.73,Default,Lou Guanning,0,0,0,,The Dark Light of the Dark Temple has been updated.
 Dialogue: 0,0:02:45.48,0:02:47.73,Default,,0,0,0,,[Chatting with Loulan Slash]
-Dialogue: 0,0:02:47.73,0:02:48.48,Default,,0,0,0,,Great.
-Dialogue: 0,0:02:48.48,0:02:49.48,Default,,0,0,0,,What a good timing!
-Dialogue: 0,0:02:49.48,0:02:50.60,Default,,0,0,0,,There’s a new boss\Nright after we finished the competition.
-Dialogue: 0,0:02:51.23,0:02:52.48,Default,,0,0,0,,It’s updated earlier.
+Dialogue: 0,0:02:47.73,0:02:48.48,Default,Ye Xiu,0,0,0,TLC,Guys!{prosubs had "Great"}
+Dialogue: 0,0:02:48.48,0:02:49.48,Default,Ye Xiu,0,0,0,,Well done getting it
+Dialogue: 0,0:02:49.48,0:02:50.60,Default,Ye Xiu,0,0,0,,right as the match ended.
+Dialogue: 0,0:02:51.23,0:02:52.48,Default,Lou Guanning,0,0,0,,It appeared earlier,
 Dialogue: 0,0:02:51.23,0:02:51.85,Default,,0,0,0,,[Player: Lou Guanning. Heavenly Justice.]
 Dialogue: 0,0:02:51.85,0:02:52.48,Default,,0,0,0,,[Loulan Slash. Job: Berserker.]
-Dialogue: 0,0:02:52.48,0:02:53.73,Default,,0,0,0,,But the game was too intense.
+Dialogue: 0,0:02:52.48,0:02:53.73,Default,Lou Guanning,0,0,0,,but the match was so intense
 Dialogue: 0,0:02:52.48,0:02:53.73,Default,,0,0,0,,[Chatting with Lord Grim]
-Dialogue: 0,0:02:53.73,0:02:54.98,Default,,0,0,0,,I forgot to check the updates.
-Dialogue: 0,0:02:55.15,0:02:57.23,Default,,0,0,0,,Now, all the guilds have arrived.
-Dialogue: 0,0:02:57.23,0:02:58.73,Default,,0,0,0,,Blue Brook Guild is there too.
-Dialogue: 0,0:02:59.10,0:03:00.35,Default,,0,0,0,,My apologies.
-Dialogue: 0,0:03:00.77,0:03:01.77,Default,,0,0,0,,Have they killed the boss?
-Dialogue: 0,0:03:02.60,0:03:03.48,Default,,0,0,0,,The boss is still alive.
-Dialogue: 0,0:03:04.81,0:03:05.94,Default,,0,0,0,,Blue Brook Guild is taking action first.
+Dialogue: 0,0:02:53.73,0:02:54.98,Default,Lou Guanning,0,0,0,,I forgot to watch my game.
+Dialogue: 0,0:02:55.15,0:02:57.23,Default,Lou Guanning,0,0,0,,Now, all the guilds are here.
+Dialogue: 0,0:02:57.23,0:02:58.73,Default,Lou Guanning,0,0,0,,{\i1}Blue Brook Guild,{\i0} too.
+Dialogue: 0,0:02:59.10,0:03:00.35,Default,Lou Guanning,0,0,0,,I’m really sorry.
+Dialogue: 0,0:03:00.77,0:03:01.77,Default,Ye Xiu,0,0,0,,How’s the boss?
+Dialogue: 0,0:03:02.60,0:03:03.48,Default,Lou Guanning,0,0,0,,It’s still alive.
+Dialogue: 0,0:03:04.81,0:03:05.94,Default,Lou Guanning,0,0,0,,{\i1}Blue Brook{\i0} is going first!
 Dialogue: 0,0:03:07.52,0:03:10.44,Default,,0,0,0,,{\an5\pos(747.5,607)\bord0\p1\c&HC08C15&\clip(529,582,966,620)}m 0 0 l 437 0 437 50 0 50
 Dialogue: 0,0:03:07.52,0:03:10.44,Default,,0,0,0,,{\an5\pos(747.5,607)\bord0\p1\c&HD1AD4C&}m 0 0 l 437 0 437 50 0 50
 Dialogue: 0,0:03:07.52,0:03:10.44,Name OSD,,0,0,0,,{\an5\3c&HFFFFFF\fnSourceSans3Uniscribe\b1\i1\fscx94\yshad1.5\pos(747,606)}Blue{\fsp-1} {\fsp}Bridge{\fsp-1} {\fsp}Spring{\fsp-1} {\fsp}Snow
 Comment: 0,0:03:07.52,0:03:10.44,Default,,0,0,0,,{\an5\fax-0.2\fnNoto Sans CJK SC\fs75\pos(902.97,603)}春雪
 Dialogue: 0,0:03:07.44,0:03:08.02,Default,,0,0,0,,[Player: Xu Boyuan. Blue Brook Guild.]
-Dialogue: 0,0:03:07.48,0:03:08.60,Default,,0,0,0,,Attract the boss, Knight.
+Dialogue: 0,0:03:07.48,0:03:08.60,Default,Xu Boyuan,0,0,0,,Knight, draw the aggro.
 Dialogue: 0,0:03:08.02,0:03:08.60,Default,,0,0,0,,[Blue Bridge Spring Snow. Job: Blade Master]
-Dialogue: 0,0:03:09.31,0:03:10.35,Default,,0,0,0,,Keep attacking, Mage.
-Dialogue: 0,0:03:10.60,0:03:11.85,Default,,0,0,0,,Reinforcement is on its way.
-Dialogue: 0,0:03:12.77,0:03:14.90,Default,,0,0,0,,The finalists are indeed impressive.
-Dialogue: 0,0:03:16.15,0:03:16.98,Default,,0,0,0,,Come on.
-Dialogue: 0,0:03:16.98,0:03:17.56,Default,,0,0,0,,Let’s join them too.
-Dialogue: 0,0:03:20.44,0:03:22.02,Default,,0,0,0,,Let’s go to the Dark Palace.
+Dialogue: 0,0:03:09.31,0:03:10.35,Default,Xu Boyuan,0,0,0,,Mage, keep attacking.
+Dialogue: 0,0:03:10.60,0:03:11.85,Default,Xu Boyuan,0,0,0,,Reinforcements are coming.
+Dialogue: 0,0:03:12.77,0:03:14.90,Default,Ye Xiu,0,0,0,,That’s finalists for you.
+Dialogue: 0,0:03:16.15,0:03:16.98,Default,Ye Xiu,0,0,0,,Come on,
+Dialogue: 0,0:03:16.98,0:03:17.56,Default,Ye Xiu,0,0,0,,let’s join them.
+Dialogue: 0,0:03:20.44,0:03:22.02,Default,Bao Rongxin,0,0,0,,Off to the Dark Temple we go!
 Comment: 0,0:03:21.77,0:03:23.52,Default,,0,0,0,,{\3c&HFFFFFF\fnSourceSans3Uniscribe Medium\bord0.5\blur6\fs40\pos(1245.98,789)}TRAIN ZONE
 Dialogue: 0,0:03:21.77,0:03:23.73,Default,,0,0,0,,{\3c&HFFFFFF\fnTimes New Roman\b1\bord0\fs14\fsp1\pos(1112,752)\t(918,1751,\alpha&HC4)\t(1751,1751,\alpha&HCE)\t(1751,1959,\alpha&HFF)}TRAIN ZONE
-Dialogue: 0,0:03:26.69,0:03:27.35,Default,,0,0,0,,Let’s go.
-Dialogue: 0,0:03:27.52,0:03:28.77,Default,,0,0,0,,Captain and the rest\Nare attacking now.
-Dialogue: 0,0:03:29.19,0:03:29.98,Default,,0,0,0,,Aren’t we
-Dialogue: 0,0:03:29.98,0:03:30.98,Default,,0,0,0,,going inside?
-Dialogue: 0,0:03:31.94,0:03:33.94,Default,,0,0,0,,Let’s settle\NBlue Brook Guild’s reinforcement
-Dialogue: 0,0:03:34.06,0:03:34.85,Default,,0,0,0,,first.
-Dialogue: 0,0:03:45.31,0:03:46.56,Default,,0,0,0,,What’s going on?
-Dialogue: 0,0:03:46.56,0:03:48.56,Default,,0,0,0,,Why were our reinforcements eliminated?
-Dialogue: 0,0:03:51.85,0:03:53.60,Default,,0,0,0,,Lord Grim?
-Dialogue: 0,0:03:53.94,0:03:55.10,Default,,0,0,0,,Why are you here?
-Dialogue: 0,0:03:58.98,0:03:59.60,Default,,0,0,0,,God Ye.
-Dialogue: 0,0:03:59.60,0:04:00.73,Default,,0,0,0,,You’re finally here.
-Dialogue: 0,0:04:00.73,0:04:02.48,Default,,0,0,0,,Should we attack\Nthe team or the boss first?
-Dialogue: 0,0:04:02.90,0:04:04.52,Default,,0,0,0,,Let’s do it at once.
-Dialogue: 0,0:04:04.52,0:04:05.27,Default,,0,0,0,,Come on.
-Dialogue: 0,0:04:05.40,0:04:07.02,Default,,0,0,0,,Let’s reshuffle the team
-Dialogue: 0,0:04:07.10,0:04:07.94,Default,,0,0,0,,according to the jobs.
-Dialogue: 0,0:04:08.02,0:04:08.40,Default,,0,0,0,,Attack!
-Dialogue: 0,0:04:27.27,0:04:28.40,Default,,0,0,0,,Bao, Tang Rou.
-Dialogue: 0,0:04:28.40,0:04:29.40,Default,,0,0,0,,Kill the Cleric.
-Dialogue: 0,0:04:29.40,0:04:30.52,Default,,0,0,0,,Attract the boss\Nby attacking it, Heavenly Justice.
-Dialogue: 0,0:05:08.56,0:05:09.44,Default,,0,0,0,,Follow me, Bao.
-Dialogue: 0,0:05:27.85,0:05:28.85,Default,,0,0,0,,Buddy.
-Dialogue: 0,0:05:28.85,0:05:30.81,Default,,0,0,0,,You’re too much,\Nsnatching the boss like this.
-Dialogue: 0,0:05:31.35,0:05:32.23,Default,,0,0,0,,Stop exclaiming.
-Dialogue: 0,0:05:32.23,0:05:33.73,Default,,0,0,0,,Take over the boss now.
+Dialogue: 0,0:03:26.69,0:03:27.35,Default,Guy,0,0,0,,Let’s go.
+Dialogue: 0,0:03:27.52,0:03:28.77,Default,Guy,0,0,0,,Captain’s group is attacking.
+Dialogue: 0,0:03:29.19,0:03:29.98,Default,Chen Guo,0,0,0,,Aren’t we
+Dialogue: 0,0:03:29.98,0:03:30.98,Default,Chen Guo,0,0,0,,going inside?
+Dialogue: 0,0:03:31.94,0:03:33.94,Default,Ye Xiu,0,0,0,,Let’s deal with {\i1}Blue Brook’{\i0}s reinforcements
+Dialogue: 0,0:03:34.06,0:03:34.85,Default,Ye Xiu,0,0,0,,while we’re here.
+Dialogue: 0,0:03:45.31,0:03:46.56,Default,Xu Boyuan,0,0,0,,What’s going on?
+Dialogue: 0,0:03:46.56,0:03:48.56,Default,Xu Boyuan,0,0,0,,Our reinforcements were eliminated?
+Dialogue: 0,0:03:51.85,0:03:53.60,Default,Xu Boyuan,0,0,0,,Lord Grim?
+Dialogue: 0,0:03:53.94,0:03:55.10,Default,Xu Boyuan,0,0,0,,Why are you here?
+Dialogue: 0,0:03:58.98,0:03:59.60,Default,Lou Guanning,0,0,0,,God Ye!
+Dialogue: 0,0:03:59.60,0:04:00.73,Default,Lou Guanning,0,0,0,,You’re finally here.
+Dialogue: 0,0:04:00.73,0:04:02.48,Default,Lou Guanning,0,0,0,,Do we attack the team or the boss?
+Dialogue: 0,0:04:02.90,0:04:04.52,Default,Ye Xiu,0,0,0,,Let’s do both at once.
+Dialogue: 0,0:04:04.52,0:04:05.27,Default,Ye Xiu,0,0,0,,Come on.
+Dialogue: 0,0:04:05.40,0:04:07.02,Default,Ye Xiu,0,0,0,,Let’s reorganize.
+Dialogue: 0,0:04:07.10,0:04:07.94,Default,Ye Xiu,0,0,0,,Split by class.
+Dialogue: 0,0:04:08.02,0:04:08.40,Default,Ye Xiu,0,0,0,,Go!
+Dialogue: 0,0:04:27.27,0:04:28.40,Default,Ye Xiu,0,0,0,,Bao, Tang Rou.
+Dialogue: 0,0:04:28.40,0:04:29.40,Default,Ye Xiu,0,0,0,,Kill the Cleric.
+Dialogue: 0,0:04:29.40,0:04:30.52,Default,Ye Xiu,0,0,0,,{\i1}Heavenly Justice,{\i0} aggro the boss.
+Dialogue: 0,0:05:08.56,0:05:09.44,Default,Tang Rou,0,0,0,,Bao, come with me.
+Dialogue: 0,0:05:27.85,0:05:28.85,Default,Lou Guanning,0,0,0,,Buddy.
+Dialogue: 0,0:05:28.85,0:05:30.81,Default,Lou Guanning,0,0,0,,You’re too much, snatching the boss like this.
+Dialogue: 0,0:05:31.35,0:05:32.23,Default,Ye Xiu,0,0,0,,Less talking.
+Dialogue: 0,0:05:32.23,0:05:33.73,Default,Ye Xiu,0,0,0,,Go get the boss now.
 Dialogue: 0,0:05:45.02,0:05:46.90,Default,,0,0,0,,Isn’t that his account?
 Dialogue: 0,0:05:47.48,0:05:49.10,Default,,0,0,0,,How is Blue River doing recently?
 Dialogue: 0,0:05:49.35,0:05:50.77,Default,,0,0,0,,I am Blue River.
@@ -501,11 +501,11 @@ Dialogue: 0,0:07:45.31,0:07:46.52,Default,,0,0,0,,[Player: Mo Fan. Deception. Jo
 Dialogue: 0,0:07:50.40,0:07:51.31,Default,,0,0,0,,The guild leader is ousted.
 Dialogue: 0,0:07:51.31,0:07:52.69,Default,,0,0,0,,His materials are taken away!
 Comment: 0,0:07:52.69,0:07:53.81,Top,,25,1,1,,{\fs30.5}\N\N{\fnNoto Sans CJK SC\fs69\fsp1.796875\an8}是毁人不倦
-Dialogue: 1,0:07:52.69,0:07:53.81,Top,,0,0,97,,It’s Deception.
-Dialogue: 0,0:07:52.90,0:07:54.15,Default,,0,0,0,,Who is he?
+Dialogue: 1,0:07:52.69,0:07:53.81,Top,,0,0,0,,It’s Deception!
+Dialogue: 0,0:07:52.90,0:07:54.15,Default,Ye Xiu,0,0,0,,That guy…{The Chinese subs don't match the audio!}
 Dialogue: 0,0:07:53.85,0:07:55.94,Top,,0,0,0,,He’s a scavenger who always\Nraids and robs others.{那个专搞偷袭打劫的拾荒者}
-Dialogue: 0,0:07:54.40,0:07:55.52,Default,,0,0,0,,Deception!
-Dialogue: 0,0:07:55.69,0:07:56.27,Default,,0,0,0,,Bao.
+Dialogue: 0,0:07:54.40,0:07:55.52,Default,Ye Xiu,0,0,0,,Deception?
+Dialogue: 0,0:07:55.69,0:07:56.27,Default,Ye Xiu,0,0,0,,Bao.
 Dialogue: 0,0:07:55.94,0:07:57.19,Top,,0,0,0,edited,No wonder he’s so creepy.{怪不得这么猥琐}
 Dialogue: 0,0:07:56.69,0:07:57.65,Default,,0,0,0,,Hurry up and guard the door.
 Dialogue: 0,0:08:01.90,0:08:03.85,Default,,0,0,0,,I’m telling you\Nto guard the door in the game.
