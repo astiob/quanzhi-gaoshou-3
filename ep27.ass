@@ -403,11 +403,15 @@ Dialogue: 0,0:02:47.73,0:02:48.48,Default,Ye Xiu,0,0,0,TLC,Guys!{prosubs had "Gr
 Dialogue: 0,0:02:48.48,0:02:49.48,Default,Ye Xiu,0,0,0,,Well done getting it
 Dialogue: 0,0:02:49.48,0:02:50.60,Default,Ye Xiu,0,0,0,,right as the match ended.
 Dialogue: 0,0:02:51.23,0:02:52.48,Default,Lou Guanning,0,0,0,,It appeared earlier,
+Dialogue: 0,0:02:51.90,0:02:54.90,Default,,0,0,0,TS,{same as the dialogue lines: It appeared earlier, but the match was so intense I forgot to watch my game.}
 Dialogue: 0,0:02:51.23,0:02:51.85,Default,,0,0,0,,[Player: Lou Guanning. Heavenly Justice.]
 Dialogue: 0,0:02:51.85,0:02:52.48,Default,,0,0,0,,[Loulan Slash. Job: Berserker.]
 Dialogue: 0,0:02:52.48,0:02:53.73,Default,Lou Guanning,0,0,0,,but the match was so intense
 Dialogue: 0,0:02:52.48,0:02:53.73,Default,,0,0,0,,[Chatting with Lord Grim]
 Dialogue: 0,0:02:53.73,0:02:54.98,Default,Lou Guanning,0,0,0,,I forgot to watch my game.
+Comment: 0,0:02:54.65,0:02:54.90,Chatbox,,0,0,0,TS,{\an4\fs28\fax0.205008\fscx108.77\fscy139.28\frz-2.2432\frx1.4270\fry-176.8834\org(1305.96,568.43)\pos(1079.82,568.43)}You even offered to team up and split the boss\Nmaterials in half. I’m really sorry.
+Comment: 0,0:02:54.65,0:02:54.90,Chinese,,0,0,0,TS,{=28}{\an4\fs30\fax0.175332\fscx86.89\fscy91.84\frz-2.1833\frx1.8435\fry-177.1234\org(1308.67,567.25)\pos(1107.26,567.25)}明明大神你还主动提出跟我联手抢BOSS材料对半\N分的，真是不好意思
+Dialogue: 0,0:02:54.65,0:02:54.90,Chatbox,,0,0,0,TS,{=28}{\an4\fs30\fax0.175332\fscx86.89\fscy91.84\frz-2.1833\frx1.8435\fry-177.1234\org(1308.67,567.25)\pos(1107.26,567.25)\fsp0\fnNoto Sans CJK SC}You even offered to team up and split the boss\Nmaterials in half. I’m really sorry.
 Dialogue: 0,0:02:55.15,0:02:57.23,Default,Lou Guanning,0,0,0,,Now, all the guilds are here.
 Dialogue: 0,0:02:57.23,0:02:58.73,Default,Lou Guanning,0,0,0,,{\i1}Blue Brook Guild,{\i0} too.
 Dialogue: 0,0:02:59.10,0:03:00.35,Default,Lou Guanning,0,0,0,,I’m really sorry.
@@ -435,6 +439,17 @@ Dialogue: 0,0:03:29.19,0:03:29.98,Default,Chen Guo,0,0,0,,Aren’t we
 Dialogue: 0,0:03:29.98,0:03:30.98,Default,Chen Guo,0,0,0,,going inside?
 Dialogue: 0,0:03:31.94,0:03:33.94,Default,Ye Xiu,0,0,0,,Let’s deal with {\i1}Blue Brook’{\i0}s reinforcements
 Dialogue: 0,0:03:34.06,0:03:34.85,Default,Ye Xiu,0,0,0,,while we’re here.
+Dialogue: 0,0:03:44.23,0:03:47.23,Chinese,,0,0,0,TS,WWang：野怪刷经验组我++++++++
+Dialogue: 0,0:03:44.23,0:03:47.23,Chinese,,0,0,0,TS,琴音飘渺：勇者无畏公会诚邀各位有志之士加入！我们公会氛围融洽，\n活动丰富，一起征服这个世界吧！
+Dialogue: 0,0:03:44.23,0:03:47.23,Chinese,,0,0,0,TS,绕岸垂杨　死亡
+Dialogue: 0,0:03:44.23,0:03:47.23,Chinese,,0,0,0,TS,［地图］［羽化］：刚从南边儿回来，那里真是值得打卡一去！
+Dialogue: 0,0:03:44.23,0:03:47.23,Chinese,,0,0,0,TS,雷鸣电光　死亡
+Dialogue: 0,0:03:44.23,0:03:47.23,Chinese,,0,0,0,TS,幻梦影：请问哪里可以捕捉到珍稀的材料？
+Dialogue: 0,0:03:44.23,0:03:47.23,Chinese,,0,0,0,TS,云归　死亡
+Dialogue: 0,0:03:44.23,0:03:47.23,Chinese,,0,0,0,TS,知月倾城　死亡
+Dialogue: 0,0:03:44.23,0:03:47.23,Chinese,,0,0,0,TS,曙光旋冰　死亡
+Dialogue: 0,0:03:44.23,0:03:47.23,Chinese,,0,0,0,TS,＜·系统公告＞　每日日常活动己经开启，各位玩家可前往活动区域接取\n任务。
+Dialogue: 0,0:03:44.23,0:03:47.23,Chinese,,0,0,0,TS,绕岸垂杨　死亡
 Dialogue: 0,0:03:45.31,0:03:46.56,Default,Xu Boyuan,0,0,0,,What’s going on?
 Dialogue: 0,0:03:46.56,0:03:48.56,Default,Xu Boyuan,0,0,0,,Our reinforcements were eliminated?
 Dialogue: 0,0:03:51.85,0:03:53.60,Default,Xu Boyuan,0,0,0,,Lord Grim?
@@ -704,17 +719,20 @@ Dialogue: 0,0:16:45.10,0:16:46.56,Default,,0,0,0,,They’re against so many peop
 Dialogue: 0,0:16:46.98,0:16:48.48,Default,,0,0,0,,Of course they couldn’t win.
 
 [Aegisub Extradata]
-Data: 0,_aegi_folddata,e0;1;1
-Data: 1,_aegi_folddata,e1;1;1
-Data: 4,_aegi_folddata,e0;1;2
-Data: 5,_aegi_folddata,e1;1;2
 Data: 6,_aegi_folddata,e0;1;3
 Data: 7,_aegi_folddata,e1;1;3
-Data: 8,_aegi_folddata,e0;0;2
-Data: 9,_aegi_folddata,e1;0;2
-Data: 10,_aegi_folddata,e0;0;1
-Data: 11,_aegi_folddata,e1;0;1
 Data: 12,_aegi_folddata,e0;1;4
 Data: 13,_aegi_folddata,e1;1;4
 Data: 16,_aegi_folddata,e0;1;5
 Data: 17,_aegi_folddata,e1;1;5
+Data: 18,_aegi_perspective_ambient_plane,e1727.00;502.21#7C1030.25;312.88#7C820.84;622.21#7C1727.00;622.21
+Data: 19,_aegi_perspective_ambient_plane,e1727.00;502.21#7C1030.25;312.88#7C992.24;623.54#7C1727.00;622.21
+Data: 20,_aegi_perspective_ambient_plane,e1659.64;310.88#7C1030.25;312.88#7C992.23;623.54#7C1727.00;622.21
+Data: 21,_aegi_perspective_ambient_plane,e1659.64;310.88#7C1030.25;312.88#7C992.23;623.54#7C1612.29;597.54
+Data: 22,_aegi_perspective_ambient_plane,e1659.64;310.88#7C1024.79;310.70#7C992.23;623.54#7C1612.30;597.54
+Data: 23,_aegi_perspective_ambient_plane,e1659.64;310.88#7C1025.52;310.70#7C992.23;623.54#7C1612.30;597.54
+Data: 24,_aegi_perspective_ambient_plane,e1658.19;312.33#7C1025.52;310.70#7C992.23;623.54#7C1612.30;597.54
+Data: 25,_aegi_perspective_ambient_plane,e1658.19;312.33#7C1025.52;310.70#7C992.23;623.54#7C1614.12;595.72
+Data: 26,_aegi_perspective_ambient_plane,e1658.19;312.33#7C1025.52;310.70#7C992.60;623.54#7C1614.12;595.72
+Data: 27,_aegi_perspective_ambient_plane,e1658.19;312.33#7C1024.79;310.70#7C992.60;623.54#7C1614.12;595.72
+Data: 28,_aegi_perspective_ambient_plane,e1657.83;311.97#7C1024.79;310.70#7C992.60;623.54#7C1614.12;595.72
