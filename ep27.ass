@@ -21,8 +21,8 @@ Video Position: 3854
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,SourceSans3Uniscribe,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,0,69,1
-Style: Top,SourceSans3Uniscribe,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,30,0,97,1
+Style: Default,SourceSans3Uniscribe,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,23,0,69,1
+Style: Top,SourceSans3Uniscribe,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,23,0,97,1
 Style: Chatbox,SourceSans3Uniscribe,24,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,30,0,69,1
 Style: Chinese,Noto Sans CJK SC,43,&H000000FF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0.25,0,1,0,0,5,0,0,0,1
 Style: Chat OSD,SourceSans3Uniscribe,43,&H00000000,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
