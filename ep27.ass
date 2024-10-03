@@ -503,7 +503,8 @@ Dialogue: 0,0:07:51.31,0:07:52.69,Default,,0,0,0,,His materials are taken away!
 Comment: 0,0:07:52.69,0:07:53.81,Top,,25,1,1,,{\fs30.5}\N\N{\fnNoto Sans CJK SC\fs69\fsp1.796875\an8}是毁人不倦
 Dialogue: 1,0:07:52.69,0:07:53.81,Top,,0,0,97,,It’s Deception.
 Dialogue: 0,0:07:52.90,0:07:54.15,Default,,0,0,0,,Who is he?
-Dialogue: 0,0:07:53.85,0:07:55.94,Top,,0,0,0,,He’s a scavenger who always\Nraids and robs others, Deception.{那个专搞偷袭打劫的拾荒者}
+Dialogue: 0,0:07:53.85,0:07:55.94,Top,,0,0,0,,He’s a scavenger who always\Nraids and robs others.{那个专搞偷袭打劫的拾荒者}
+Dialogue: 0,0:07:54.40,0:07:55.52,Default,,0,0,0,,Deception!
 Dialogue: 0,0:07:55.69,0:07:56.27,Default,,0,0,0,,Bao.
 Dialogue: 0,0:07:55.94,0:07:57.19,Top,,0,0,0,edited,No wonder he’s so creepy.{怪不得这么猥琐}
 Dialogue: 0,0:07:56.69,0:07:57.65,Default,,0,0,0,,Hurry up and guard the door.
