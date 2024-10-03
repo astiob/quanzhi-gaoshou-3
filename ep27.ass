@@ -30,7 +30,7 @@ Style: Name OSD,SourceSans3Uniscribe,58,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:09.31,0:02:12.44,Default,,0,0,0,,This is game\h1 of the 8th\hGrand Finals of Glory,
+Dialogue: 0,0:02:09.31,0:02:12.44,Default,Announcer,0,0,0,,This is game\h1 of the 8th\hGrand Finals of Glory,
 Dialogue: 0,0:02:12.15,0:02:12.52,Chatbox,,0,0,0,,All in the world shall be reborn
 Comment: 0,0:02:12.15,0:02:12.77,Chatbox,,0,0,0,,{\fs26.71875\fsp-1.0625\pos(287.7,550.125)\c&HF0ECF4&}SAMSARAyyds!{\pos(300,300)}
 Dialogue: 0,0:02:12.15,0:02:12.98,Chatbox,,0,0,0,TS,samsara champ!
@@ -51,8 +51,8 @@ Dialogue: 0,0:02:14.27,0:02:15.48,Chatbox,,0,0,0,TS,I always believe that Samsar
 Dialogue: 0,0:02:14.27,0:02:15.48,Chatbox,,0,0,0,TS,Dear Zhou, I love you!{小周周，我爱你}
 Dialogue: 0,0:02:15.02,0:02:15.48,Chatbox,,0,0,0,TS,Samsara is the champion!!
 Dialogue: 0,0:02:15.44,0:02:15.48,Chatbox,,0,0,0,TS,I cried. Has Samsara reached the end?{哭了，这就是轮回的尽头么}
-Dialogue: 0,0:02:12.44,0:02:13.69,Default,,0,0,0,,and Samsara
-Dialogue: 0,0:02:13.69,0:02:15.94,Default,,0,0,0,,have just won their home match.
+Dialogue: 0,0:02:12.44,0:02:13.69,Default,Announcer,0,0,0,,and Samsara
+Dialogue: 0,0:02:13.69,0:02:15.94,Default,Announcer,0,0,0,,have just won their home match.
 Comment: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&H6A6B65&\fnNoto Sans CJK SC\fs106\fsp1.1\an4\pos(533,282)}{\fsp-1.5}#{\fsp1.1} 轮回战队夺得第一！#
 Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HFAFDFF&\an4\pos(533,282)\p1}m -15.43 7.69 l 564.96 7.69 573.53 16.84 575.19 36.55 649.88 36.79 657.46 19.1 682.41 18.93 682.5 79.45 693.61 79.14 698.57 15.3 731.47 15.13 731.94 30.52 739.31 39.66 733.54 44.99 734.33 98.07 -15.43 97.5
 Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HFAFDFF&\an4\pos(533,282)\p1}m -9.37 107.38 l 981.76 107.38 981.76 157.01 -9.37 157.01
@@ -67,9 +67,9 @@ Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HFAFDFF&\an7\p1\pos(
 Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&H6A6B65&\fs80\blur1\an5\pos(263,622)}All
 Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&H6A6B65&\fs80\blur1\an5\pos(590,622)}Hot
 Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&H6A6B65&\fs80\blur1\an5\pos(972,622)}Recent
-Dialogue: 0,0:02:15.94,0:02:16.69,Default,,0,0,0,,After one round,
-Dialogue: 0,0:02:16.69,0:02:19.06,Default,,0,0,0,,Samsara leads Blue Rain with a score
-Dialogue: 0,0:02:19.06,0:02:20.19,Default,,0,0,0,,of 7.5 to 2.
+Dialogue: 0,0:02:15.94,0:02:16.69,Default,Announcer,0,0,0,,After one round,
+Dialogue: 0,0:02:16.69,0:02:19.06,Default,Announcer,0,0,0,,Samsara leads Blue Rain with a score
+Dialogue: 0,0:02:19.06,0:02:20.19,Default,Announcer,0,0,0,,of 7.5 to 2.
 Dialogue: 0,0:02:20.31,0:02:21.56,Default,,0,0,0,,What?
 Dialogue: 0,0:02:23.15,0:02:24.90,Default,,0,0,0,,Samsara is so lucky.
 Dialogue: 0,0:02:24.90,0:02:26.02,Default,,0,0,0,,They must have prayed to God.
