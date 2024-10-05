@@ -25,6 +25,7 @@ Style: Default,SourceSans3Uniscribe,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H000000
 Style: Top,SourceSans3Uniscribe,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,23,0,97,1
 Style: Chatbox,SourceSans3Uniscribe,24,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,30,0,69,1
 Style: Chinese,Noto Sans CJK SC,43,&H000000FF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0.25,0,1,0,0,5,0,0,0,1
+Style: Dialog,SourceSans3Uniscribe Medium,43,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: Chat OSD,SourceSans3Uniscribe,43,&H00000000,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: Name OSD,SourceSans3Uniscribe,58,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 
@@ -505,8 +506,17 @@ Dialogue: 0,0:07:24.10,0:07:27.48,Default,Xu Boyuan,0,0,0,,Attacking you was cle
 Dialogue: 0,0:07:27.56,0:07:28.98,Default,Xu Boyuan,0,0,0,,Everyone’s fighting the boss.
 Dialogue: 0,0:07:28.98,0:07:31.10,Default,Xu Boyuan,0,0,0,,You guys are messing it all up.
 Dialogue: 0,0:07:31.10,0:07:33.10,Default,Xu Boyuan,0,0,0,,Why do I get mocked?
-Dialogue: 0,0:07:31.10,0:07:32.10,Default,,0,0,0,,[Waiting for respawn. Do you want to]
-Dialogue: 0,0:07:32.10,0:07:33.10,Default,,0,0,0,,[respawn at the city? Yes/No]
+Comment: 0,0:07:30.52,0:07:32.10,Chinese,,0,0,0,,{=44}{\fax-0.085893\fscx57.37\fscy67.96\frz1.8809\frx0.2510\fry-0.7592\org(1306.55,254.87)\pos(1307.61,254.87)}等待复活中
+Comment: 0,0:07:30.52,0:07:32.10,Chinese,,0,0,0,,{=42}{\fax-0.079906\fscx58.94\fscy69.08\frz1.6384\frx0.2500\fry-0.7580\org(1307.99,355.84)\pos(1309,355.84)}是否回城复活？
+Comment: 0,0:07:30.52,0:07:32.10,Chinese,,0,0,0,,{=42}{\c0\fax-0.078270\fscx47.84\fscy57.92\frz1.3915\frx0.2506\fry-0.7592\org(1239.08,460.34)\pos(1239.88,460.34)}否
+Comment: 0,0:07:30.52,0:07:32.10,Chinese,,0,0,0,,{=39}{\c0\fax-0.081169\fscx46.42\fscy59.61\frz1.3923\frx0.2415\fry-0.7460\org(1360.9,457.13)\pos(1361.71,457.13)}是
+Dialogue: 0,0:07:30.52,0:07:32.10,Dialog,,0,0,0,,{=44}{\fax-0.085893\fscx57.37\fscy67.96\frz1.8809\frx0.2510\fry-0.7592\org(1306.55,254.87)\pos(1316.43,255.87)\bord1.75\blur0.5\c&H030619&\3c&H030619&\fnSourceSans3Uniscribe Semibold}Waiting for respawn…
+Dialogue: 0,0:07:30.52,0:07:32.10,Dialog,,0,0,0,,{=44}{\fax-0.085893\fscx57.37\fscy67.96\frz1.8809\frx0.2510\fry-0.7592\org(1306.55,254.87)\pos(1316.43,255.87)\blur0.3\3c&H030619&\fnSourceSans3Uniscribe Semibold}Waiting for respawn…
+Dialogue: 0,0:07:30.52,0:07:32.10,Dialog,,0,0,0,,{=42}{\fax-0.079906\fscx58.94\fscy69.08\frz1.6384\frx0.2500\fry-0.7580\org(1307.99,355.84)\pos(1309,356.84)\blur0.3\c&HB6BBD0&}Respawn at the city?
+Dialogue: 0,0:07:30.52,0:07:32.10,Dialog,,0,0,0,,{=42}{\fax-0.078270\fscx47.84\fscy57.92\frz1.3915\frx0.2506\fry-0.7592\org(1239.08,460.34)\pos(1239.88,461.34)\bord1.75\blur0.3\3a&HB8\blur0.3}No
+Dialogue: 0,0:07:30.52,0:07:32.10,Dialog,,0,0,0,,{=42}{\fax-0.078270\fscx47.84\fscy57.92\frz1.3915\frx0.2506\fry-0.7592\org(1239.08,460.34)\pos(1239.88,461.34)\blur0.3}No
+Dialogue: 0,0:07:30.52,0:07:32.10,Dialog,,0,0,0,,{=39}{\fax-0.081169\fscx46.42\fscy59.61\frz1.3923\frx0.2415\fry-0.7460\org(1360.9,457.13)\pos(1361.71,458.13)\bord1.75\blur0.3\3a&HB8}Yes
+Dialogue: 0,0:07:30.52,0:07:32.10,Dialog,,0,0,0,,{=39}{\fax-0.081169\fscx46.42\fscy59.61\frz1.3923\frx0.2415\fry-0.7460\org(1360.9,457.13)\pos(1361.71,458.13)\blur0.3}Yes
 Dialogue: 0,0:07:34.85,0:07:38.06,Default,Xu Boyuan,0,0,0,,What was I thinking, going there alone?
 Dialogue: 0,0:07:38.27,0:07:40.31,Default,Xu Boyuan,0,0,0,,Was I really looking to get beaten up?
 Dialogue: 0,0:07:40.56,0:07:41.69,Default,Ye Xiu,0,0,0,,Got any good stuff?
@@ -736,3 +746,17 @@ Data: 25,_aegi_perspective_ambient_plane,e1658.19;312.33#7C1025.52;310.70#7C992.
 Data: 26,_aegi_perspective_ambient_plane,e1658.19;312.33#7C1025.52;310.70#7C992.60;623.54#7C1614.12;595.72
 Data: 27,_aegi_perspective_ambient_plane,e1658.19;312.33#7C1024.79;310.70#7C992.60;623.54#7C1614.12;595.72
 Data: 28,_aegi_perspective_ambient_plane,e1657.83;311.97#7C1024.79;310.70#7C992.60;623.54#7C1614.12;595.72
+Data: 29,_aegi_perspective_ambient_plane,e935.05;363.98#7C989.95;361.98#7C989.95;448.01#7C930.06;447.98
+Data: 30,_aegi_perspective_ambient_plane,e935.05;363.98#7C1480.21;225.98#7C989.95;448.01#7C930.06;447.98
+Data: 31,_aegi_perspective_ambient_plane,e935.05;363.98#7C1480.21;225.98#7C989.95;448.01#7C927.06;438.98
+Data: 32,_aegi_perspective_ambient_plane,e935.05;363.98#7C1480.21;225.98#7C1469.20;496.01#7C927.06;438.98
+Data: 33,_aegi_perspective_ambient_plane,e1142.16;241.98#7C1480.21;225.98#7C1469.20;496.01#7C927.06;438.98
+Data: 34,_aegi_perspective_ambient_plane,e1142.16;241.98#7C1480.21;225.98#7C1469.20;496.01#7C1132.17;501.98
+Data: 35,_aegi_perspective_ambient_plane,e1141.83;238.98#7C1480.21;225.98#7C1469.20;496.01#7C1132.17;501.98
+Data: 36,_aegi_perspective_ambient_plane,e1141.83;238.98#7C1480.21;225.98#7C1467.87;494.34#7C1132.18;501.98
+Data: 37,_aegi_perspective_ambient_plane,e1141.83;238.98#7C1477.87;225.98#7C1467.87;494.34#7C1132.18;501.98
+Data: 38,_aegi_perspective_ambient_plane,e1141.83;238.98#7C1477.87;227.64#7C1467.87;494.34#7C1132.18;501.98
+Data: 39,_aegi_perspective_ambient_plane,e1141.83;238.98#7C1477.87;227.64#7C1467.87;494.34#7C1130.84;501.98
+Data: 41,_aegi_perspective_ambient_plane,e1141.78;238.94#7C1477.90;227.60#7C1467.87;494.34#7C1130.84;501.97
+Data: 42,_aegi_perspective_ambient_plane,e1141.78;238.95#7C1477.89;227.61#7C1467.88;494.34#7C1130.83;501.97
+Data: 44,_aegi_perspective_ambient_plane,e1141.78;238.95#7C1477.89;227.61#7C1467.88;494.34#7C1130.83;501.98
