@@ -15,9 +15,9 @@ Video File: [Q] The King's Avatar S3 - 03 (1080p HBR HEVC).mkv
 Video AR Mode: 4
 Video AR Value: 2.370370
 Video Zoom Percent: 1.000000
-Scroll Position: 303
-Active Line: 595
-Video Position: 16665
+Scroll Position: 344
+Active Line: 627
+Video Position: 17950
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -571,7 +571,7 @@ Dialogue: 0,0:09:39.19,0:09:40.19,Default,Lou Guanning,0,0,0,,All right?
 Dialogue: 0,0:09:40.48,0:09:41.60,Default,Ye Xiu,0,0,0,,He’s not all right.
 Dialogue: 0,0:09:41.73,0:09:42.85,Default,Ye Xiu,0,0,0,,He’s offline.
 Dialogue: 0,0:09:47.27,0:09:48.90,Default,Lou Guanning,0,0,0,,Kill him please.
-Dialogue: 0,0:09:52.52,0:09:55.10,Default,Lou Guanning,0,0,0,,Of our three LV70 overworld boss materials,
+Dialogue: 0,0:09:52.52,0:09:55.10,Default,Lou Guanning,0,0,0,TLC,Of our three LV70 overworld boss materials,{wikia uses "Wild Boss" (title-cased); Tencent here uses "over-world boss". which shall we stick with?}
 Dialogue: 0,0:09:55.10,0:09:56.15,Default,Lou Guanning,0,0,0,,he dropped none.
 Dialogue: 0,0:09:56.60,0:09:58.02,Default,Lou Guanning,0,0,0,,But at least he’s dead,
 Dialogue: 0,0:09:58.02,0:09:59.27,Default,Lou Guanning,0,0,0,,so I feel better.
@@ -619,41 +619,45 @@ Dialogue: 0,0:11:07.69,0:11:09.77,Default,Tang Rou,0,0,0,,We’re a newly formed
 Dialogue: 0,0:11:09.77,0:11:11.65,Default,Tang Rou,0,0,0,,Would you be interested in joining us?
 Dialogue: 0,0:11:11.65,0:11:12.65,Default,Deception,0,0,0,,I’m not interested!
 Dialogue: 0,0:11:16.23,0:11:17.60,Default,Wei Chen,0,0,0,,How rude.
-Dialogue: 0,0:11:18.73,0:11:19.98,Default,Wei Chen,0,0,0,,You’re great!
+Dialogue: 0,0:11:18.73,0:11:19.98,Default,Wei Chen,0,0,0,,You’ve got talent!
 Dialogue: 0,0:11:20.73,0:11:21.35,Default,Wei Chen,0,0,0,,Hey, kid!
 Dialogue: 0,0:11:21.60,0:11:23.10,Default,Wei Chen,0,0,0,,Join {\i1}Team Happy.
 Dialogue: 0,0:11:23.10,0:11:25.23,Default,Wei Chen,0,0,0,,We’ll take you to the pro game.
 Dialogue: 0,0:11:25.69,0:11:26.65,Default,Deception,0,0,0,,You’re so annoying!
 Dialogue: 0,0:11:26.69,0:11:27.81,Default,Deception,0,0,0,,I told you I’m not—
 Dialogue: 0,0:11:27.81,0:11:28.69,Default,,0,0,0,TS,[Player: Su Mucheng.\NHappy.Cleansing Mist. Job: Launcher.]
-Dialogue: 0,0:11:34.35,0:11:35.60,Default,,0,0,0,,He’s so skillful.
-Dialogue: 0,0:11:35.60,0:11:36.98,Default,,0,0,0,,It’s a waste of him being a scavenger.
-Dialogue: 0,0:11:37.10,0:11:39.35,Default,,0,0,0,,He should apply his abilities\Nto better use.
-Dialogue: 0,0:11:39.85,0:11:41.23,Default,,0,0,0,,I’m establishing a team.
-Dialogue: 0,0:11:41.23,0:11:42.35,Default,,0,0,0,,Do you want to join us?
-Dialogue: 0,0:11:42.35,0:11:43.10,Default,,0,0,0,,Salary will be provided.
-Dialogue: 0,0:11:43.10,0:11:44.48,Default,,0,0,0,,There are free meals\Nand accommodation too.
-Dialogue: 0,0:11:45.19,0:11:46.69,Default,,0,0,0,,You’re quite skillful.
-Dialogue: 0,0:11:47.02,0:11:49.27,Default,,0,0,0,,It’s a waste for you to be a scavenger.
-Dialogue: 0,0:11:49.31,0:11:51.31,Default,,0,0,0,,I never collect trash.
-Dialogue: 0,0:11:52.31,0:11:54.19,Default,,0,0,0,,That is because you’ve never\Nseen the true Ultimate materials.
-Dialogue: 0,0:11:54.56,0:11:56.31,Default,,0,0,0,,For instance, my weapon.
-Dialogue: 0,0:11:56.44,0:11:57.81,Default,,0,0,0,,Have you seen it?
-Dialogue: 0,0:11:58.06,0:11:59.69,Default,,0,0,0,,You’re so annoying.
-Dialogue: 0,0:12:00.31,0:12:01.31,Default,,0,0,0,,Calm down.
-Dialogue: 0,0:12:01.31,0:12:02.56,Default,,0,0,0,,I haven’t shown you everything yet.
-Dialogue: 0,0:12:07.02,0:12:08.27,Default,,0,0,0,,He’s dead.
-Dialogue: 0,0:12:08.90,0:12:10.27,Default,,0,0,0,,I was too engrossed in the conversation
-Dialogue: 0,0:12:10.27,0:12:12.02,Default,,0,0,0,,and forgot about his life.
-Dialogue: 0,0:12:13.65,0:12:14.77,Default,,0,0,0,,God Ye.
-Dialogue: 0,0:12:14.77,0:12:17.02,Default,,0,0,0,,There’s a boss\Nin the sewer at Hesin City.
-Dialogue: 0,0:12:17.02,0:12:18.15,Default,,0,0,0,,There’s only a small guild.
-Dialogue: 0,0:12:18.15,0:12:19.52,Default,,0,0,0,,After you join us,\Nwe’ll fire the bullets.
-Dialogue: 0,0:12:19.52,0:12:21.15,Default,,0,0,0,,Small guild?
-Dialogue: 0,0:12:22.60,0:12:24.10,Default,,0,0,0,,I suddenly have an idea.
-Dialogue: 0,0:12:24.52,0:12:25.40,Default,,0,0,0,,[Chatting with Loulan Slash]\NWhat?
-Dialogue: 0,0:12:25.40,0:12:26.65,Default,,0,0,0,,Extend our collaboration.
-Dialogue: 0,0:12:26.65,0:12:28.90,Default,,0,0,0,,[Hesin City’s sewer. LV55 Training Zone]
+Dialogue: 0,0:11:34.35,0:11:35.60,Default,Ye Xiu,0,0,0,,With his skills,
+Dialogue: 0,0:11:35.60,0:11:36.98,Default,Ye Xiu,0,0,0,,scavenging is a waste.
+Dialogue: 0,0:11:37.10,0:11:39.35,Default,Ye Xiu,0,0,0,,He ought to put them to better use.
+Dialogue: 0,0:11:39.85,0:11:41.23,Default,Ye Xiu,0,0,0,,I’m establishing a team.
+Dialogue: 0,0:11:41.23,0:11:42.35,Default,Ye Xiu,0,0,0,,Do you want to join us?
+Dialogue: 0,0:11:42.35,0:11:43.10,Default,Ye Xiu,0,0,0,,It’s a paid job,
+Dialogue: 0,0:11:43.10,0:11:44.48,Default,Ye Xiu,0,0,0,,with food and lodging.
+Dialogue: 0,0:11:45.19,0:11:46.69,Default,Ye Xiu,0,0,0,,You’re quite capable.
+Dialogue: 0,0:11:47.02,0:11:49.27,Default,Ye Xiu,0,0,0,,It’s a pity for you to be picking garbage.
+Dialogue: 0,0:11:49.31,0:11:51.31,Default,Deception,0,0,0,,None of my picks are garbage.
+Dialogue: 0,0:11:52.31,0:11:54.19,Default,Ye Xiu,0,0,0,,You just haven’t seen the real deal.
+Dialogue: 0,0:11:54.56,0:11:56.31,Default,Ye Xiu,0,0,0,,For instance, have you ever seen
+Dialogue: 0,0:11:56.44,0:11:57.81,Default,Ye Xiu,0,0,0,,a weapon like mine?
+Dialogue: 0,0:11:58.06,0:11:59.69,Default,Deception,0,0,0,,You’re so annoying!
+Dialogue: 0,0:12:00.31,0:12:01.31,Default,Ye Xiu,0,0,0,,Calm down.
+Dialogue: 0,0:12:01.31,0:12:02.56,Default,Ye Xiu,0,0,0,,I haven’t really shown it yet.
+Dialogue: 0,0:12:07.02,0:12:08.27,Default,Ye Xiu,0,0,0,,He’s dead.
+Dialogue: 0,0:12:08.90,0:12:10.27,Default,Ye Xiu,0,0,0,,I was so busy talking
+Dialogue: 0,0:12:10.27,0:12:12.02,Default,Ye Xiu,0,0,0,,I forgot about his life.
+Dialogue: 0,0:12:13.65,0:12:14.77,Default,Lou Guanning,0,0,0,,God Ye,
+Dialogue: 0,0:12:14.77,0:12:17.02,Default,Lou Guanning,0,0,0,TLC,there’s a boss in the sewer of Hesin City.{wikia has "Heshin City Sewers", but see the OSD at 12:26.792}
+Dialogue: 0,0:12:17.02,0:12:18.15,Default,Lou Guanning,0,0,0,,There’s only a small guild.
+Dialogue: 0,0:12:18.15,0:12:19.52,Default,Lou Guanning,0,0,0,,We’ll steal it when you get here.
+Dialogue: 0,0:12:19.52,0:12:21.15,Default,Ye Xiu,0,0,0,,Small guild?
+Dialogue: 0,0:12:22.60,0:12:24.10,Default,Ye Xiu,0,0,0,,I’ve just had an idea.
+Dialogue: 0,0:12:24.52,0:12:25.40,Default,Lou Guanning,0,0,0,,What?
+Dialogue: 0,0:12:24.19,0:12:26.77,Chatbox,,0,0,0,TS,[Chatting with Loulan Slash]
+Dialogue: 0,0:12:24.19,0:12:26.77,Chatbox,,0,0,0,TS,I’ve just had an idea.
+Dialogue: 0,0:12:25.06,0:12:26.77,Chatbox,,0,0,0,TS,What?
+Dialogue: 0,0:12:26.06,0:12:26.77,Chatbox,,0,0,0,TS,Extended collaboration.
+Dialogue: 0,0:12:25.40,0:12:26.65,Default,Ye Xiu,0,0,0,,Extended collaboration.
+Dialogue: 0,0:12:26.77,0:12:28.73,Default,,0,0,0,TS,{\fad(0,980)}[Hesin City’s sewer. LV55 Training Zone]
 Dialogue: 0,0:12:27.90,0:12:28.90,Default,,0,0,0,,Hurry up.
 Dialogue: 0,0:12:28.90,0:12:29.90,Default,,0,0,0,,Increase the firepower.
 Dialogue: 0,0:12:29.90,0:12:31.40,Default,,0,0,0,,Else when the big guilds come,\Nwe won’t be able to get anything.
