@@ -15,9 +15,9 @@ Video File: [Q] The King's Avatar S3 - 03 (1080p HBR HEVC).mkv
 Video AR Mode: 4
 Video AR Value: 2.370370
 Video Zoom Percent: 1.000000
-Scroll Position: 251
-Active Line: 539
-Video Position: 14095
+Scroll Position: 303
+Active Line: 595
+Video Position: 16665
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -493,7 +493,7 @@ Dialogue: 0,0:06:56.35,0:06:57.10,Default,Ye Xiu,0,0,0,,Bao.
 Dialogue: 0,0:06:57.40,0:06:58.27,Default,Ye Xiu,0,0,0,,Don’t mind him.
 Dialogue: 0,0:06:58.44,0:06:58.94,Default,Ye Xiu,0,0,0,,Come.
 Dialogue: 0,0:06:59.10,0:07:00.10,Default,Bao Rongxin,0,0,0,,You hear that?
-Dialogue: 0,0:07:00.23,0:07:02.73,Default,Bao Rongxin,0,0,0,,Boss is letting you save face. Be nice.
+Dialogue: 0,0:07:00.23,0:07:02.73,Default,Bao Rongxin,0,0,0,,Captain’s letting you save face. Behave.
 Dialogue: 0,0:07:05.02,0:07:06.23,Default,Xu Boyuan,0,0,0,,Damn.
 Dialogue: 0,0:07:06.52,0:07:07.90,Default,Xu Boyuan,0,0,0,,Stop them!
 Dialogue: 0,0:07:08.52,0:07:10.65,Default,Ye Xiu,0,0,0,,{\alpha&HFF\fscx67}…{\r}Well, if you insist on dying…
@@ -522,7 +522,7 @@ Dialogue: 0,0:07:38.27,0:07:40.31,Default,Xu Boyuan,0,0,0,,Was I really looking 
 Dialogue: 0,0:07:40.56,0:07:41.69,Default,Ye Xiu,0,0,0,,Got any good stuff?
 Dialogue: 0,0:07:42.98,0:07:43.85,Default,Lou Guanning,0,0,0,,Yeah, not bad.
 Dialogue: 0,0:07:43.85,0:07:45.06,Default,Lou Guanning,0,0,0,,There are some materials.
-Dialogue: 0,0:07:45.31,0:07:46.52,Default,,0,0,0,,[Player: Mo Fan. Deception. Job: Ninja]
+Dialogue: 0,0:07:45.31,0:07:46.52,Default,,0,0,0,TS,[Player: Mo Fan. Deception. Job: Ninja]
 Dialogue: 0,0:07:50.40,0:07:51.31,Default,Guy,0,0,0,,Leader’s down!
 Dialogue: 0,0:07:51.31,0:07:52.69,Default,Guy,0,0,0,,He took the materials!
 Comment: 0,0:07:52.69,0:07:53.81,Top,,25,1,1,,{\fs30.5}\N\N{\fnNoto Sans CJK SC\fs69\fsp1.796875\an8}是毁人不倦
@@ -546,15 +546,15 @@ Dialogue: 0,0:08:20.06,0:08:22.31,Top,Background,0,0,0,,Stop!
 Dialogue: 0,0:08:22.81,0:08:24.19,Default,Ye Xiu,0,0,0,,Class: Ninja.
 Dialogue: 0,0:08:24.19,0:08:25.56,Default,Ye Xiu,0,0,0,,Name: Deception.
 Dialogue: 0,0:08:26.15,0:08:27.06,Default,Ye Xiu,0,0,0,,Expert scavenger.
-Dialogue: 0,0:08:27.60,0:08:28.60,Default,Ye Xiu,0,0,0,,Known as a dick.
-Dialogue: 0,0:08:29.10,0:08:30.44,Default,Ye Xiu,0,0,0,,A big dick.
+Dialogue: 0,0:08:27.60,0:08:28.60,Default,Ye Xiu,0,0,0,,Known as a sly one.
+Dialogue: 0,0:08:29.10,0:08:30.44,Default,Ye Xiu,0,0,0,,A very sly one.
 Dialogue: 0,0:08:31.81,0:08:32.94,Default,Ye Xiu,0,0,0,,He’s good!
 Dialogue: 0,0:08:43.98,0:08:44.85,Default,Ye Xiu,0,0,0,,Tryna run?
 Dialogue: 0,0:08:45.73,0:08:46.48,Default,Ye Xiu,0,0,0,,Bao.
 Dialogue: 0,0:08:46.48,0:08:47.15,Default,Ye Xiu,0,0,0,,Tang.
 Dialogue: 0,0:09:05.35,0:09:06.98,Default,Ye Xiu,0,0,0,,You were so busy dodging me
 Dialogue: 0,0:09:07.19,0:09:09.06,Default,Ye Xiu,0,0,0,,that you forgot about the rest of us.
-Dialogue: 0,0:09:12.02,0:09:13.06,Default,Ye Xiu,0,0,0,,You can’t run now.
+Dialogue: 0,0:09:12.02,0:09:13.06,Default,Ye Xiu,0,0,0,,You can’t escape.
 Dialogue: 0,0:09:13.40,0:09:14.31,Default,Ye Xiu,0,0,0,,Hand over the items.
 Dialogue: 0,0:09:16.44,0:09:17.56,Default,Guy,0,0,0,,Run!
 Dialogue: 0,0:09:17.56,0:09:19.06,Default,Guy,0,0,0,,Why aren’t you running?
@@ -571,59 +571,61 @@ Dialogue: 0,0:09:39.19,0:09:40.19,Default,Lou Guanning,0,0,0,,All right?
 Dialogue: 0,0:09:40.48,0:09:41.60,Default,Ye Xiu,0,0,0,,He’s not all right.
 Dialogue: 0,0:09:41.73,0:09:42.85,Default,Ye Xiu,0,0,0,,He’s offline.
 Dialogue: 0,0:09:47.27,0:09:48.90,Default,Lou Guanning,0,0,0,,Kill him please.
-Dialogue: 0,0:09:52.52,0:09:55.10,Default,,0,0,0,,There are three materials\Nfrom the LV70 over-world boss.
-Dialogue: 0,0:09:55.10,0:09:56.15,Default,,0,0,0,,Yet, we got none of it from him.
-Dialogue: 0,0:09:56.60,0:09:58.02,Default,,0,0,0,,However, we’ve killed this person,
-Dialogue: 0,0:09:58.02,0:09:59.27,Default,,0,0,0,,and we’ve taken revenge.
-Dialogue: 0,0:09:59.85,0:10:00.69,Default,,0,0,0,,Don’t worry.
-Dialogue: 0,0:10:00.77,0:10:01.48,Default,,0,0,0,,Your reward
-Dialogue: 0,0:10:01.48,0:10:03.40,Default,,0,0,0,,will not be deducted due to this.
-Dialogue: 0,0:10:03.44,0:10:04.27,Default,,0,0,0,,Well,
-Dialogue: 0,0:10:04.27,0:10:05.65,Default,,0,0,0,,you can pick\Nany three items from me too.
-Dialogue: 0,0:10:05.73,0:10:06.31,Default,,0,0,0,,What’s the matter?
-Dialogue: 0,0:10:06.69,0:10:08.06,Default,,0,0,0,,Are you letting him go that easily?
-Dialogue: 0,0:10:08.06,0:10:08.69,Default,,0,0,0,,Well...
-Dialogue: 0,0:10:08.98,0:10:09.77,Default,,0,0,0,,Let me go after him.
-Dialogue: 0,0:10:10.56,0:10:11.94,Default,,0,0,0,,How would you know where he is?
-Dialogue: 0,0:10:12.65,0:10:14.27,Default,,0,0,0,,His equipment are quite good.
-Dialogue: 0,0:10:14.73,0:10:16.48,Default,,0,0,0,,He doesn’t look\Nlike he’s here to scavenge.
-Dialogue: 0,0:10:16.48,0:10:17.90,Default,,0,0,0,,If anything happens,
-Dialogue: 0,0:10:17.90,0:10:20.77,Default,,0,0,0,,he’ll surely fix the respawn point\Nat the nearest city.
-Dialogue: 0,0:10:20.77,0:10:21.65,Default,,0,0,0,,Isn’t that common sense?
-Dialogue: 0,0:10:22.48,0:10:23.48,Default,,0,0,0,,Besides,
-Dialogue: 0,0:10:23.56,0:10:26.06,Default,,0,0,0,,he lost two agile equipment to us.
-Dialogue: 0,0:10:26.10,0:10:27.60,Default,,0,0,0,,His speed has decreased.
-Dialogue: 0,0:10:29.65,0:10:31.02,Default,,0,0,0,,Can you give me some equipment?
-Dialogue: 0,0:10:31.02,0:10:32.40,Default,,0,0,0,,For speed.
-Dialogue: 0,0:10:32.77,0:10:33.65,Default,,0,0,0,,Sure!
-Dialogue: 0,0:10:33.65,0:10:35.02,Default,,0,0,0,,I have one with me.
-Dialogue: 0,0:10:35.65,0:10:37.27,Default,,0,0,0,,Thanks for that.
-Dialogue: 0,0:10:37.90,0:10:38.52,Default,,0,0,0,,Everyone.
-Dialogue: 0,0:10:38.52,0:10:39.77,Default,,0,0,0,,I announce
-Dialogue: 0,0:10:40.02,0:10:41.52,Default,,0,0,0,,that our current goals
-Dialogue: 0,0:10:42.73,0:10:43.73,Default,,0,0,0,,will be scavenging,
-Dialogue: 0,0:10:43.77,0:10:44.77,Default,,0,0,0,,attacking the bosses,
-Dialogue: 0,0:10:45.15,0:10:46.27,Default,,0,0,0,,and killing Deception.
-Dialogue: 0,0:10:53.94,0:10:54.56,Default,,0,0,0,,Buddy.
-Dialogue: 0,0:10:54.56,0:10:55.52,Default,,0,0,0,,It’s rare
-Dialogue: 0,0:10:55.52,0:10:56.90,Default,,0,0,0,,that our captain likes you.
-Dialogue: 0,0:10:56.90,0:10:57.98,Default,,0,0,0,,Are you interested to join us?
-Dialogue: 0,0:10:58.40,0:10:59.60,Default,,0,0,0,,Why aren’t you talking?
-Dialogue: 0,0:10:59.60,0:11:00.60,Default,,0,0,0,,Are you still considering the offer?
-Dialogue: 0,0:11:00.60,0:11:02.10,Default,,0,0,0,,I’ll count to three. Is this enough?
-Dialogue: 0,0:11:02.10,0:11:02.77,Default,,0,0,0,,Three.
-Dialogue: 0,0:11:05.27,0:11:06.77,Default,,0,0,0,,I don’t understand what you’re saying.
-Dialogue: 0,0:11:07.69,0:11:09.77,Default,,0,0,0,,We’re a new team.
-Dialogue: 0,0:11:09.77,0:11:11.65,Default,,0,0,0,,I’d like to know\Nif you’d be interested to join us.
-Dialogue: 0,0:11:11.65,0:11:12.65,Default,,0,0,0,,I’m not interested.
-Dialogue: 0,0:11:16.23,0:11:17.60,Default,,0,0,0,,That’s quite sleazy.
-Dialogue: 0,0:11:18.73,0:11:19.98,Default,,0,0,0,,A talent.
-Dialogue: 0,0:11:20.73,0:11:21.35,Default,,0,0,0,,Buddy.
-Dialogue: 0,0:11:21.60,0:11:23.10,Default,,0,0,0,,Join Team Happy.
-Dialogue: 0,0:11:23.10,0:11:25.23,Default,,0,0,0,,I’ll lead you to win\Nthe Professional Challenge League.
-Dialogue: 0,0:11:25.69,0:11:26.65,Default,,0,0,0,,You’re so annoying.
-Dialogue: 0,0:11:26.69,0:11:27.81,Default,,0,0,0,,I told you. I’m not...
-Dialogue: 0,0:11:27.81,0:11:28.69,Default,,0,0,0,,[Player: Su Mucheng.\NHappy.Cleansing Mist. Job: Launcher.]
+Dialogue: 0,0:09:52.52,0:09:55.10,Default,Lou Guanning,0,0,0,,Of our three LV70 overworld boss materials,
+Dialogue: 0,0:09:55.10,0:09:56.15,Default,Lou Guanning,0,0,0,,he dropped none.
+Dialogue: 0,0:09:56.60,0:09:58.02,Default,Lou Guanning,0,0,0,,But at least he’s dead,
+Dialogue: 0,0:09:58.02,0:09:59.27,Default,Lou Guanning,0,0,0,,so I feel better.
+Dialogue: 0,0:09:59.85,0:10:00.69,Default,Lou Guanning,0,0,0,,Don’t worry.
+Dialogue: 0,0:10:00.77,0:10:01.48,Default,Lou Guanning,0,0,0,,Your rewards
+Dialogue: 0,0:10:01.48,0:10:03.40,Default,Lou Guanning,0,0,0,,won’t be affected by this.
+Comment: 1,0:10:03.44,0:10:04.27,Default,Lou Guanning,23,0,9,,{\an2\fs69\fsp1.78125\fnNoto Sans CJK SC}然后大{\fsp0}神
+Dialogue: 0,0:10:03.44,0:10:04.27,Default,Lou Guanning,0,0,0,,So, God Ye,
+Comment: 1,0:10:04.27,0:10:05.65,Default,Lou Guanning,31,0,9,,{\an2\fs69\fsp1.8125\fnNoto Sans CJK SC}你再从我这边随意挑三{\fsp0}样
+Dialogue: 0,0:10:04.27,0:10:05.65,Default,Lou Guanning,31,0,0,,take any three items from me.
+Dialogue: 0,0:10:05.73,0:10:06.31,Default,Ye Xiu,0,0,0,,What,
+Dialogue: 0,0:10:06.69,0:10:08.06,Default,Ye Xiu,0,0,0,,you gonna let him off easy?
+Dialogue: 0,0:10:08.06,0:10:08.69,Default,Lou Guanning,0,0,0,,Well...
+Dialogue: 0,0:10:08.98,0:10:09.77,Default,Ye Xiu,0,0,0,,I can go after him.
+Dialogue: 0,0:10:10.56,0:10:11.94,Default,Lou Guanning,0,0,0,,How would you find him?
+Dialogue: 0,0:10:12.65,0:10:14.27,Default,Ye Xiu,0,0,0,,His equipment’s pretty good.
+Dialogue: 0,0:10:14.73,0:10:16.48,Default,Ye Xiu,0,0,0,,I don’t think he came to scavenge.
+Dialogue: 0,0:10:16.48,0:10:17.90,Default,Ye Xiu,0,0,0,,If he has more business here,
+Dialogue: 0,0:10:17.90,0:10:20.77,Default,Ye Xiu,0,0,0,,he’ll use the respawn point at the nearest city.
+Dialogue: 0,0:10:20.77,0:10:21.65,Default,Ye Xiu,0,0,0,,Makes sense, right?
+Dialogue: 0,0:10:22.48,0:10:23.48,Default,Ye Xiu,0,0,0,,Besides,
+Dialogue: 0,0:10:23.56,0:10:26.06,Default,Ye Xiu,0,0,0,,he’s lost two pieces of agility equipment to us.
+Dialogue: 0,0:10:26.10,0:10:27.60,Default,Ye Xiu,0,0,0,,His speed has decreased.
+Dialogue: 0,0:10:29.65,0:10:31.02,Default,Ye Xiu,0,0,0,,Could you spare some gear?
+Dialogue: 0,0:10:31.02,0:10:32.40,Default,Ye Xiu,0,0,0,,For movement speed.
+Dialogue: 0,0:10:32.77,0:10:33.65,Default,Lou Guanning,0,0,0,,Sure!
+Dialogue: 0,0:10:33.65,0:10:35.02,Default,Lou Guanning,0,0,0,,I’ve got just the thing.
+Dialogue: 0,0:10:35.65,0:10:37.27,Default,Ye Xiu,0,0,0,,Thanks, and sorry about that.
+Dialogue: 0,0:10:37.90,0:10:38.52,Default,Ye Xiu,0,0,0,,All right,
+Dialogue: 0,0:10:38.52,0:10:39.77,Default,Ye Xiu,0,0,0,,a little announcement.
+Dialogue: 0,0:10:40.02,0:10:41.52,Default,Ye Xiu,0,0,0,,Our next priorities will be:
+Dialogue: 0,0:10:42.73,0:10:43.73,Default,Ye Xiu,0,0,0,,scavenging,
+Dialogue: 0,0:10:43.77,0:10:44.77,Default,Ye Xiu,0,0,0,,beating bosses,
+Dialogue: 0,0:10:45.15,0:10:46.27,Default,Ye Xiu,0,0,0,,and killing Deception.
+Dialogue: 0,0:10:53.94,0:10:54.56,Default,Bao Rongxin,0,0,0,,Hey, buddy!
+Dialogue: 0,0:10:54.56,0:10:55.52,Default,Bao Rongxin,0,0,0,,It’s quite a feat
+Dialogue: 0,0:10:55.52,0:10:56.90,Default,Bao Rongxin,0,0,0,,to catch our captain’s eye.
+Dialogue: 0,0:10:56.90,0:10:57.98,Default,Bao Rongxin,0,0,0,,Why don’t you join us?
+Dialogue: 0,0:10:58.40,0:10:59.60,Default,Bao Rongxin,0,0,0,,I can’t hear you.
+Dialogue: 0,0:10:59.60,0:11:00.60,Default,Bao Rongxin,0,0,0,,Still considering?
+Dialogue: 0,0:11:00.60,0:11:02.10,Default,Bao Rongxin,0,0,0,,I’ll count to three, okay?
+Dialogue: 0,0:11:02.10,0:11:02.77,Default,Bao Rongxin,0,0,0,,Three!
+Dialogue: 0,0:11:05.27,0:11:06.77,Default,Deception,0,0,0,,I don’t know what you’re talking about.
+Dialogue: 0,0:11:07.69,0:11:09.77,Default,Tang Rou,0,0,0,,We’re a newly formed team.
+Dialogue: 0,0:11:09.77,0:11:11.65,Default,Tang Rou,0,0,0,,Would you be interested in joining us?
+Dialogue: 0,0:11:11.65,0:11:12.65,Default,Deception,0,0,0,,I’m not interested!
+Dialogue: 0,0:11:16.23,0:11:17.60,Default,Wei Chen,0,0,0,,How rude.
+Dialogue: 0,0:11:18.73,0:11:19.98,Default,Wei Chen,0,0,0,,You’re great!
+Dialogue: 0,0:11:20.73,0:11:21.35,Default,Wei Chen,0,0,0,,Hey, kid!
+Dialogue: 0,0:11:21.60,0:11:23.10,Default,Wei Chen,0,0,0,,Join {\i1}Team Happy.
+Dialogue: 0,0:11:23.10,0:11:25.23,Default,Wei Chen,0,0,0,,We’ll take you to the pro game.
+Dialogue: 0,0:11:25.69,0:11:26.65,Default,Deception,0,0,0,,You’re so annoying!
+Dialogue: 0,0:11:26.69,0:11:27.81,Default,Deception,0,0,0,,I told you I’m not—
+Dialogue: 0,0:11:27.81,0:11:28.69,Default,,0,0,0,TS,[Player: Su Mucheng.\NHappy.Cleansing Mist. Job: Launcher.]
 Dialogue: 0,0:11:34.35,0:11:35.60,Default,,0,0,0,,He’s so skillful.
 Dialogue: 0,0:11:35.60,0:11:36.98,Default,,0,0,0,,It’s a waste of him being a scavenger.
 Dialogue: 0,0:11:37.10,0:11:39.35,Default,,0,0,0,,He should apply his abilities\Nto better use.
