@@ -658,37 +658,37 @@ Dialogue: 0,0:12:25.06,0:12:26.77,Chatbox,,0,0,0,TS,What?
 Dialogue: 0,0:12:26.06,0:12:26.77,Chatbox,,0,0,0,TS,Extended collaboration.
 Dialogue: 0,0:12:25.40,0:12:26.65,Default,Ye Xiu,0,0,0,,Extended collaboration.
 Dialogue: 0,0:12:26.77,0:12:28.73,Default,,0,0,0,TS,{\fad(0,980)}[Hesin City’s sewer. LV55 Training Zone]
-Dialogue: 0,0:12:27.90,0:12:28.90,Default,,0,0,0,,Hurry up.
-Dialogue: 0,0:12:28.90,0:12:29.90,Default,,0,0,0,,Increase the firepower.
-Dialogue: 0,0:12:29.90,0:12:31.40,Default,,0,0,0,,Else when the big guilds come,\Nwe won’t be able to get anything.
-Dialogue: 0,0:12:33.85,0:12:34.98,Default,,0,0,0,,Hello there!
-Dialogue: 0,0:12:35.73,0:12:36.85,Default,,0,0,0,,Are you busy?
-Dialogue: 0,0:12:37.48,0:12:38.60,Default,,0,0,0,,Lord Grim?
-Dialogue: 0,0:12:39.15,0:12:41.90,Default,,0,0,0,,Looks like our effort\Nwill go to waste again, Captain.
-Dialogue: 0,0:12:43.65,0:12:47.27,Default,,0,0,0,,I can’t take this anymore.
-Dialogue: 0,0:12:49.02,0:12:49.81,Default,,0,0,0,,There, there.
-Dialogue: 0,0:12:50.15,0:12:51.73,Default,,0,0,0,,We’re here to discuss\Nabout a potential collaboration.
-Dialogue: 0,0:12:52.27,0:12:53.27,Default,,0,0,0,,Do you want to join us?
-Dialogue: 0,0:12:53.69,0:12:55.02,Default,,0,0,0,,Each of you will get the materials.
-Dialogue: 0,0:12:56.10,0:12:59.02,Default,,0,0,0,,The big guilds always get the bosses.
-Dialogue: 0,0:12:59.31,0:13:00.65,Default,,0,0,0,,We couldn’t snatch the bosses\Nfrom the big guilds.
-Dialogue: 0,0:13:00.65,0:13:02.48,Default,,0,0,0,,Only when they are\Nhaving internal disputes
-Dialogue: 0,0:13:02.48,0:13:03.81,Default,,0,0,0,,can we get to oust the boss.
-Dialogue: 0,0:13:03.52,0:13:04.52,Top,,0,0,0,,Hurry up and attack!
-Dialogue: 0,0:13:04.60,0:13:06.48,Default,,0,0,0,,Someone stole the boss.
-Dialogue: 0,0:13:08.52,0:13:10.02,Default,,0,0,0,,Aren’t you upset?
-Dialogue: 0,0:13:13.15,0:13:16.40,Default,,0,0,0,,Why can’t the small guilds\Nget the chance to oust the bosses?
-Dialogue: 0,0:13:16.90,0:13:18.40,Default,,0,0,0,,We can establish
-Dialogue: 0,0:13:18.40,0:13:20.56,Default,,0,0,0,,a competent team.
-Dialogue: 0,0:13:20.90,0:13:22.52,Default,,0,0,0,,Do you want to join us?
-Dialogue: 0,0:13:25.85,0:13:27.48,Default,,0,0,0,,I want to join your team, God Ye.
-Dialogue: 0,0:13:27.48,0:13:28.35,Default,,0,0,0,,Count me in.
-Dialogue: 0,0:13:28.35,0:13:29.60,Default,,0,0,0,,Me too.
-Dialogue: 0,0:13:29.98,0:13:31.48,Default,,0,0,0,,[The Glory Canteen]\NThese are the rewarded materials.
-Dialogue: 0,0:13:31.48,0:13:32.60,Default,,0,0,0,,Please check.
-Dialogue: 0,0:13:32.60,0:13:35.48,Default,,0,0,0,,Looking forward to working with you.
-Dialogue: 0,0:13:36.85,0:13:37.85,Default,,0,0,0,,God Ye.
-Dialogue: 0,0:13:37.85,0:13:40.85,Default,,0,0,0,,Our team has\Nmore members than Blue Brook Guild now.
+Dialogue: 0,0:12:27.90,0:12:28.90,Default,Girl,0,0,0,,Hurry up.
+Dialogue: 0,0:12:28.90,0:12:29.90,Default,Girl,0,0,0,,Increase the firepower.
+Dialogue: 0,0:12:29.90,0:12:31.40,Default,Girl,0,0,0,,Else when the big guilds come,\Nwe won’t be able to get anything.
+Dialogue: 0,0:12:33.85,0:12:34.98,Default,Ye Xiu,0,0,0,,Hello there!
+Dialogue: 0,0:12:35.73,0:12:36.85,Default,Ye Xiu,0,0,0,,Are you busy?
+Dialogue: 0,0:12:37.48,0:12:38.60,Default,Guys,0,0,0,,Lord Grim?
+Dialogue: 0,0:12:39.15,0:12:41.90,Default,Blue-hair guy,0,0,0,,Looks like our effort\Nwill go to waste again, Captain.
+Dialogue: 0,0:12:43.65,0:12:47.27,Default,Blue-hair guy,0,0,0,,I can’t take this anymore.
+Dialogue: 0,0:12:49.02,0:12:49.81,Default,Ye Xiu,0,0,0,,There, there.
+Dialogue: 0,0:12:50.15,0:12:51.73,Default,Ye Xiu,0,0,0,,We’re here to discuss\Nabout a potential collaboration.
+Dialogue: 0,0:12:52.27,0:12:53.27,Default,Ye Xiu,0,0,0,,Do you want to join us?
+Dialogue: 0,0:12:53.69,0:12:55.02,Default,Ye Xiu,0,0,0,,Each of you will get the materials.
+Dialogue: 0,0:12:56.10,0:12:59.02,Default,Ye Xiu,0,0,0,,The big guilds always get the bosses.
+Dialogue: 0,0:12:59.31,0:13:00.65,Default,Ye Xiu,0,0,0,,We couldn’t snatch the bosses\Nfrom the big guilds.
+Dialogue: 0,0:13:00.65,0:13:02.48,Default,Ye Xiu,0,0,0,,Only when they are\Nhaving internal disputes
+Dialogue: 0,0:13:02.48,0:13:03.81,Default,Ye Xiu,0,0,0,,can we get to oust the boss.
+Dialogue: 0,0:13:03.52,0:13:04.52,Top,Background,0,0,0,,Hurry up and attack!
+Dialogue: 0,0:13:04.60,0:13:06.48,Default,Background,0,0,0,,Someone stole the boss.
+Dialogue: 0,0:13:08.52,0:13:10.02,Default,Ye Xiu,0,0,0,,Aren’t you upset?
+Dialogue: 0,0:13:13.15,0:13:16.40,Default,Ye Xiu,0,0,0,,Why can’t the small guilds\Nget the chance to oust the bosses?
+Dialogue: 0,0:13:16.90,0:13:18.40,Default,Ye Xiu,0,0,0,,We can establish
+Dialogue: 0,0:13:18.40,0:13:20.56,Default,Ye Xiu,0,0,0,,a competent team.
+Dialogue: 0,0:13:20.90,0:13:22.52,Default,Ye Xiu,0,0,0,,Do you want to join us?
+Dialogue: 0,0:13:25.85,0:13:27.48,Default,Guys,0,0,0,,I want to join your team, God Ye.
+Dialogue: 0,0:13:27.48,0:13:28.35,Default,Guys,0,0,0,,Count me in.
+Dialogue: 0,0:13:28.35,0:13:29.60,Default,Guys,0,0,0,,Me too.
+Dialogue: 0,0:13:29.98,0:13:31.48,Default,Ye Xiu,0,0,0,,[The Glory Canteen]\NThese are the rewarded materials.
+Dialogue: 0,0:13:31.48,0:13:32.60,Default,Ye Xiu,0,0,0,,Please check.
+Dialogue: 0,0:13:32.60,0:13:35.48,Default,Ye Xiu et al.,0,0,0,,Looking forward to working with you.
+Dialogue: 0,0:13:36.85,0:13:37.85,Default,Lou Guanning,0,0,0,,God Ye.
+Dialogue: 0,0:13:37.85,0:13:40.85,Default,Lou Guanning,0,0,0,,Our team has\Nmore members than Blue Brook Guild now.
 Dialogue: 0,0:13:46.56,0:13:48.40,Default,,0,0,0,,[LV 60. Over-world boss.\NOcean Nightwalker. Gan Lie]
 Dialogue: 0,0:13:48.40,0:13:49.73,Default,,0,0,0,,[Player: Xu Boyuan. Blue Brook Guild.]
 Dialogue: 0,0:13:48.40,0:13:51.06,Default,,0,0,0,,There are a lot of guilds that came today.
