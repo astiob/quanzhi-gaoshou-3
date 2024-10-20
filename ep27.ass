@@ -15,9 +15,9 @@ Video File: [Q] The King's Avatar S3 - 03 (1080p HBR HEVC).mkv
 Video AR Mode: 4
 Video AR Value: 2.370370
 Video Zoom Percent: 1.000000
-Scroll Position: 413
-Active Line: 703
-Video Position: 24000
+Scroll Position: 372
+Active Line: 653
+Video Position: 19437
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -61,7 +61,7 @@ Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HE8ECF0&\3c&HE6EBEA&
 Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HE6E9F0&\3c&HE6EBEA&\an5\bord0\pos(1248,252)\blur0.75\fs54}.
 Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HE6E9F0&\3c&HE6EBEA&\an5\bord0\pos(1248,278)\blur0.75\fs40}.
 Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\blur1\fnSourceSans3Uniscribe Medium\c&H6A6B65&\fs106\an4\pos(533,285.5)}# Team Samsara places first! #
-Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,TS,{\bord0\blur1fnNoto Sans\c&HB5BAB9&\fs70\an4\pos(533,388)}Summary: Samsara wins 1st round of Glory Playoffs!{TODO TS background dots behind this line}
+Dialogue: 0,0:02:15.48,0:02:18.48,Top,,0,0,0,TS,{\bord0\blur1fnNoto Sans\c&HB5BAB9&\fs70\an4\pos(533,388)}Summary: Samsara wins 1st round of Glory Playoffs!{TODO TS background dots behind this line}
 Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HFAFDFF&\an7\p1\pos(266,622)}m -96 -50 l 96 -50 96 50 -96 50
 Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HFAFDFF&\an7\p1\pos(592,622)}m -96 -50 l 96 -50 96 50 -96 50
 Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HFAFDFF&\an7\p1\pos(922,622)}m -96 -50 l 96 -50 96 50 -96 50
@@ -404,7 +404,7 @@ Dialogue: 0,0:02:47.73,0:02:48.48,Default,Ye Xiu,0,0,0,TLC,Guys!{prosubs had "Gr
 Dialogue: 0,0:02:48.48,0:02:49.48,Default,Ye Xiu,0,0,0,,Well done getting it
 Dialogue: 0,0:02:49.48,0:02:50.60,Default,Ye Xiu,0,0,0,,right as the match ended.
 Dialogue: 0,0:02:51.23,0:02:52.48,Default,Lou Guanning,0,0,0,,It appeared earlier,
-Dialogue: 0,0:02:51.90,0:02:54.90,Default,,0,0,0,TS,{same as the dialogue lines: It appeared earlier, but the match was so intense I forgot to watch my game.}
+Dialogue: 0,0:02:51.90,0:02:54.90,Top,,0,0,0,TS,{same as the dialogue lines: It appeared earlier, but the match was so intense I forgot to watch my game.}
 Dialogue: 0,0:02:51.23,0:02:51.85,Default,,0,0,0,,[Player: Lou Guanning. Heavenly Justice.]
 Dialogue: 0,0:02:51.85,0:02:52.48,Default,,0,0,0,,[Loulan Slash. Job: Berserker.]
 Dialogue: 0,0:02:52.48,0:02:53.73,Default,Lou Guanning,0,0,0,,but the match was so intense
@@ -522,7 +522,7 @@ Dialogue: 0,0:07:38.27,0:07:40.31,Default,Xu Boyuan,0,0,0,,Was I really looking 
 Dialogue: 0,0:07:40.56,0:07:41.69,Default,Ye Xiu,0,0,0,,Got any good stuff?
 Dialogue: 0,0:07:42.98,0:07:43.85,Default,Lou Guanning,0,0,0,,Yeah, not bad.
 Dialogue: 0,0:07:43.85,0:07:45.06,Default,Lou Guanning,0,0,0,,There are some materials.
-Dialogue: 0,0:07:45.31,0:07:46.52,Default,,0,0,0,TS,[Player: Mo Fan. Deception. Job: Ninja]
+Dialogue: 0,0:07:45.31,0:07:46.52,Top,,0,0,0,TS,[Player: Mo Fan. Deception. Job: Ninja]
 Dialogue: 0,0:07:50.40,0:07:51.31,Default,Guy,0,0,0,,Leader’s down!
 Dialogue: 0,0:07:51.31,0:07:52.69,Default,Guy,0,0,0,,He took the materials!
 Comment: 0,0:07:52.69,0:07:53.81,Top,,25,1,1,,{\fs30.5}\N\N{\fnNoto Sans CJK SC\fs69\fsp1.796875\an8}是毁人不倦
@@ -625,7 +625,7 @@ Dialogue: 0,0:11:21.60,0:11:23.10,Default,Wei Chen,0,0,0,,Join {\i1}Team Happy.
 Dialogue: 0,0:11:23.10,0:11:25.23,Default,Wei Chen,0,0,0,,We’ll take you to the pro game.
 Dialogue: 0,0:11:25.69,0:11:26.65,Default,Deception,0,0,0,,You’re so annoying!
 Dialogue: 0,0:11:26.69,0:11:27.81,Default,Deception,0,0,0,,I told you I’m not—
-Dialogue: 0,0:11:27.81,0:11:28.69,Default,,0,0,0,TS,[Player: Su Mucheng.\NHappy.Cleansing Mist. Job: Launcher.]
+Dialogue: 0,0:11:27.81,0:11:28.69,Top,,0,0,0,TS,[Player: Su Mucheng.\NHappy.Cleansing Mist. Job: Launcher.]
 Dialogue: 0,0:11:34.35,0:11:35.60,Default,Ye Xiu,0,0,0,,With his skills,
 Dialogue: 0,0:11:35.60,0:11:36.98,Default,Ye Xiu,0,0,0,,scavenging is a waste.
 Dialogue: 0,0:11:37.10,0:11:39.35,Default,Ye Xiu,0,0,0,,He ought to put them to better use.
@@ -657,7 +657,7 @@ Dialogue: 0,0:12:24.19,0:12:26.77,Chatbox,,0,0,0,TS,I’ve just had an idea.
 Dialogue: 0,0:12:25.06,0:12:26.77,Chatbox,,0,0,0,TS,What?
 Dialogue: 0,0:12:26.06,0:12:26.77,Chatbox,,0,0,0,TS,Extended collaboration.
 Dialogue: 0,0:12:25.40,0:12:26.65,Default,Ye Xiu,0,0,0,,Extended collaboration.
-Dialogue: 0,0:12:26.77,0:12:28.73,Default,,0,0,0,TS,{\fad(0,980)}[Hesin City’s sewer. LV55 Training Zone]
+Dialogue: 0,0:12:26.77,0:12:28.73,Top,,0,0,0,TS,{\fad(0,980)}[Hesin City’s sewer. LV55 Training Zone]
 Dialogue: 0,0:12:27.90,0:12:28.90,Default,Girl,0,0,0,,Hurry up!
 Dialogue: 0,0:12:28.90,0:12:29.90,Default,Girl,0,0,0,,More power!
 Dialogue: 0,0:12:29.90,0:12:31.40,Default,Girl,0,0,0,,It’s game over if the big guilds come.
@@ -684,27 +684,27 @@ Dialogue: 0,0:13:20.90,0:13:22.52,Default,Ye Xiu,0,0,0,,Wanna join?
 Dialogue: 0,0:13:25.85,0:13:27.48,Default,Guys,0,0,0,,God Ye, I’ll join you.
 Dialogue: 0,0:13:27.48,0:13:28.35,Default,Guys,0,0,0,,Count me in.
 Dialogue: 0,0:13:28.35,0:13:29.60,Default,Guys,0,0,0,,Me too.
-Dialogue: 0,0:13:29.85,0:13:32.85,Default,,0,0,0,TS,{The Glory Canteen}
+Dialogue: 0,0:13:29.85,0:13:32.85,Top,,0,0,0,TS,[The Glory Canteen]{and more}
 Dialogue: 0,0:13:29.98,0:13:31.48,Default,Ye Xiu,0,0,0,,Here’s today’s plan for materials.
 Dialogue: 0,0:13:31.48,0:13:32.60,Default,Ye Xiu,0,0,0,,Please check.
 Dialogue: 0,0:13:32.60,0:13:35.48,Default,Ye Xiu et al.,0,0,0,,See you soon!
 Dialogue: 0,0:13:36.85,0:13:37.85,Default,Lou Guanning,0,0,0,,God Ye,
 Dialogue: 0,0:13:37.85,0:13:40.85,Default,Lou Guanning,0,0,0,,our team has more members now than {\i1}Blue Brook Guild.
-Dialogue: 0,0:13:46.56,0:13:48.40,Default,,0,0,0,TS,[LV 60. Over-world boss.\NOcean Nightwalker. Gan Lie]
-Dialogue: 0,0:13:48.44,0:13:49.73,Default,,0,0,0,TS,[Player: Xu Boyuan. Blue Brook Guild.]
+Dialogue: 0,0:13:46.56,0:13:48.40,Top,,0,0,0,TS,[LV 60. Over-world boss.\NOcean Nightwalker. Gan Lie]
+Dialogue: 0,0:13:48.44,0:13:49.73,Top,,0,0,0,TS,[Player: Xu Boyuan. Blue Brook Guild.]
 Comment: 0,0:13:48.40,0:13:51.06,Default,,31,0,9,,{\an2\fs69\fsp1.78125\fnNoto Sans CJK SC}今天来的公会可够多{\fsp0}的
 Dialogue: 0,0:13:48.40,0:13:51.06,Default,Xu Boyuan,31,0,0,,A lot of guilds here today.
-Dialogue: 0,0:13:49.73,0:13:51.06,Default,,0,0,0,TS,[Blue Bridge Spring Snow. Job: Blade Master.]
+Dialogue: 0,0:13:49.73,0:13:51.06,Top,,0,0,0,TS,[Blue Bridge Spring Snow. Job: Blade Master.]
 Dialogue: 0,0:13:51.06,0:13:52.73,Default,Xu Boyuan,0,0,0,,This is gonna take some work.
 Dialogue: 0,0:13:53.77,0:13:54.31,Default,Electric Youfeng,0,0,0,,Yo.
-Dialogue: 0,0:13:54.31,0:13:56.65,Default,,0,0,0,TLC;TS,[Chatting with Wandering Peak{Electric Youfeng}]{Tyrannical Ambition}
+Dialogue: 0,0:13:54.31,0:13:56.65,Top,,0,0,0,TLC;TS,[Chatting with Wandering Peak{Electric Youfeng}]{Tyrannical Ambition}
 Dialogue: 0,0:13:54.31,0:13:56.65,Default,Electric Youfeng,0,0,0,,Let’s join forces and trash {\i1}Excellent Dynasty.
-Dialogue: 0,0:13:56.65,0:13:57.90,Default,,0,0,0,TLC;TS,[Chatting with Arisaema{Araceae}]{Herb Garden}
+Dialogue: 0,0:13:56.65,0:13:57.90,Top,,0,0,0,TLC;TS,[Chatting with Arisaema{Araceae}]{Herb Garden}
 Dialogue: 0,0:13:56.65,0:13:57.90,Default,Araceae,0,0,0,,{\i1}Tyranny{\i0} just messaged me
 Dialogue: 0,0:13:57.94,0:13:59.48,Default,Araceae,0,0,0,,asking to team up to attack you.
 Dialogue: 0,0:13:59.48,0:14:01.48,Default,Araceae,0,0,0,,Man, I hate that kinda stuff.
 Dialogue: 0,0:14:01.48,0:14:02.60,Default,Araceae,0,0,0,,Let’s beat them up!
-Dialogue: 0,0:14:02.85,0:14:04.35,Default,,0,0,0,TLC;TS,[Chatting with Moonlight Army]{a Chinese TV character database identifies this with 陈夜辉/Chen Yehui, the guild leader of Excellent Dynasty, says his account name was never given in the web novel, and shows a picture of a player with brown hair, much like in this character avatar. but Wikia identifies Chen Yehui with a blond dude who was among the drunken group from Excellent Era who once came to Happy in the first season}
+Dialogue: 0,0:14:02.85,0:14:04.35,Top,,0,0,0,TLC;TS,[Chatting with Moonlight Army]{a Chinese TV character database identifies this with 陈夜辉/Chen Yehui, the guild leader of Excellent Dynasty, says his account name was never given in the web novel, and shows a picture of a player with brown hair, much like in this character avatar. but Wikia identifies Chen Yehui with a blond dude who was among the drunken group from Excellent Era who once came to Happy in the first season}
 Dialogue: 0,0:14:02.85,0:14:04.35,Default,Moonlight Army,0,0,0,,Hey. Help us out?
 Dialogue: 0,0:14:04.35,0:14:05.73,Default,Moonlight Army,0,0,0,,Let’s take down {\i1}Tyranny.
 Dialogue: 0,0:14:05.85,0:14:06.81,Default,Moonlight Army,0,0,0,,We’ll take the lead.
@@ -718,16 +718,16 @@ Dialogue: 0,0:14:16.31,0:14:21.44,Default,Xu Boyuan,46,0,0,,I really don’t wan
 Dialogue: 0,0:14:22.44,0:14:23.65,Default,Xu Boyuan,0,0,0,,Let’s stall for a bit.
 Dialogue: 0,0:14:23.65,0:14:25.56,Default,Xu Boyuan,0,0,0,,Bide our time until our main force arrives.
 Dialogue: 0,0:14:31.77,0:14:33.27,Default,Xu Boyuan,0,0,0,,Lord Grim!
-Dialogue: 0,0:14:34.56,0:14:36.02,Default,,0,0,0,TLC;TS,[He Wu.Martial Know-it-all]
+Dialogue: 0,0:14:34.56,0:14:36.02,Top,,0,0,0,TLC;TS,[He Wu.Martial Know-it-all]
 Dialogue: 0,0:14:36.48,0:14:37.48,Default,Xu Boyuan,0,0,0,TLC,He Wu.{why are these four lines completely mistimed aaa}
 Dialogue: 0,0:14:37.48,0:14:38.15,Default,Xu Boyuan,0,0,0,TLC,Heavenly Justice.
-Dialogue: 0,0:14:38.15,0:14:39.73,Default,,0,0,0,TLC;TS,[Yue Yun.Yue Ziqin.\NZhao Hua.Flowing Stream]
+Dialogue: 0,0:14:38.15,0:14:39.73,Top,,0,0,0,TLC;TS,[Yue Yun.Yue Ziqin.\NZhao Hua.Flowing Stream]
 Dialogue: 0,0:14:38.52,0:14:39.02,Default,Xu Boyuan,0,0,0,TLC,Yue Yun.
 Dialogue: 0,0:14:39.02,0:14:39.73,Default,Xu Boyuan,0,0,0,TLC,Zhao Hua.
 Dialogue: 0,0:14:39.94,0:14:41.19,Default,Ye Xiu,0,0,0,,My fellow guild leaders.
 Dialogue: 0,0:14:41.56,0:14:43.52,Default,Ye Xiu,0,0,0,,This marks our first collaboration.
 Dialogue: 0,0:14:44.40,0:14:45.65,Default,Ye Xiu,0,0,0,,Let’s make it big!
-Dialogue: 0,0:16:18.98,0:16:21.52,Default,,0,0,0,TS,[Next episode’s preview]
+Dialogue: 0,0:16:18.98,0:16:21.52,Top,,0,0,0,TS,[Next episode’s preview]
 Dialogue: 0,0:16:18.98,0:16:20.23,Default,,0,0,0,,Congratulations to Samsara
 Dialogue: 0,0:16:20.23,0:16:21.52,Default,,0,0,0,,for winning the competition!
 Dialogue: 0,0:16:21.56,0:16:23.35,Default,,0,0,0,,They’ve made history.
