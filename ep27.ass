@@ -71,16 +71,16 @@ Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&H6A6B65&\fs80\blur1\
 Dialogue: 0,0:02:15.94,0:02:16.69,Default,Announcer,0,0,0,,After one round,
 Dialogue: 0,0:02:16.69,0:02:19.06,Default,Announcer,0,0,0,,Samsara leads Blue Rain with a score
 Dialogue: 0,0:02:19.06,0:02:20.19,Default,Announcer,0,0,0,,of 7.5 to 2.
-Dialogue: 0,0:02:20.31,0:02:21.56,Default,,0,0,0,,What?
-Dialogue: 0,0:02:23.15,0:02:24.90,Default,,0,0,0,,Samsara is so lucky.
-Dialogue: 0,0:02:24.90,0:02:26.02,Default,,0,0,0,,They must have prayed to God.
-Dialogue: 0,0:02:26.02,0:02:27.02,Default,,0,0,0,,Bug.
-Dialogue: 0,0:02:27.02,0:02:27.98,Default,,0,0,0,,What a bad sport!
-Dialogue: 0,0:02:27.98,0:02:28.85,Default,,0,0,0,,So annoying!
-Dialogue: 0,0:02:28.98,0:02:30.19,Default,,0,0,0,,Worm.
-Dialogue: 0,0:02:30.19,0:02:31.69,Default,,0,0,0,,They are so unsophisticated.
-Dialogue: 0,0:02:31.73,0:02:33.85,Default,,0,0,0,,They only won once, but they act\Nas if they are the champions.
-Dialogue: 0,0:02:33.85,0:02:36.23,Default,,0,0,0,,I dare you\Nto a one-on-one challenge in the arena.
+Dialogue: 0,0:02:20.31,0:02:21.56,Default,,0,0,0,TLC,What?
+Dialogue: 0,0:02:23.15,0:02:24.90,Default,,0,0,0,TLC,Samsara is so lucky.
+Dialogue: 0,0:02:24.90,0:02:26.02,Default,,0,0,0,TLC,They must have prayed to God.
+Dialogue: 0,0:02:26.02,0:02:27.02,Default,,0,0,0,TLC,Bug.
+Dialogue: 0,0:02:27.02,0:02:27.98,Default,,0,0,0,TLC,What a bad sport!
+Dialogue: 0,0:02:27.98,0:02:28.85,Default,,0,0,0,TLC,So annoying!
+Dialogue: 0,0:02:28.98,0:02:30.19,Default,,0,0,0,TLC,Worm.
+Dialogue: 0,0:02:30.19,0:02:31.69,Default,,0,0,0,TLC,They are so unsophisticated.
+Dialogue: 0,0:02:31.73,0:02:33.85,Default,,0,0,0,TLC,They only won once, but they act as if they are the champions.
+Dialogue: 0,0:02:33.85,0:02:36.23,Default,,0,0,0,TLC,I dare you to a one-on-one challenge in the arena.
 Comment: 0,0:02:35.85,0:02:36.60,Default,,0,0,0,,{\bord0\blur1\c&HFCFFFF&\an5\pos(636.875,607.875)\clip(m 505.67 718.25 l 472.24 673.57 433.94 673.57 434.23 543 827.86 543 827.86 673.5 505.57 674.06)\p1}m 65.76 198 l 32.33 153.32 -5.97 153.32 -5.68 22.75 387.95 22.75 387.95 153.25 65.66 153.81
 Comment: 0,0:02:35.85,0:02:36.60,Default,,0,0,0,,{\bord0\blur1\c&HF7FAFD&\an5\pos(636.875,607.875)\p1}m 65.76 198 l 32.33 153.32 -5.97 153.32 -5.68 22.75 387.95 22.75 387.95 153.25 65.66 153.81
 Comment: 0,0:02:35.85,0:02:36.60,Default,,0,0,0,,{\bord0\blur1\c&HEFF2F5&\an5\pos(636.875,607.875)\p1}m 65.76 198 l 32.33 153.32 -5.97 153.32 -5.68 22.75 387.95 22.75 387.95 153.25 65.66 153.81
