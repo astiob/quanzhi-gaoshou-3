@@ -15,9 +15,9 @@ Video File: [Q] The King's Avatar S3 - 03 (1080p HBR HEVC).mkv
 Video AR Mode: 4
 Video AR Value: 2.370370
 Video Zoom Percent: 1.000000
-Scroll Position: 372
-Active Line: 653
-Video Position: 19437
+Scroll Position: 396
+Active Line: 697
+Video Position: 23496
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -728,7 +728,7 @@ Dialogue: 0,0:14:39.94,0:14:41.19,Default,Ye Xiu,0,0,0,,My fellow guild leaders.
 Dialogue: 0,0:14:41.56,0:14:43.52,Default,Ye Xiu,0,0,0,,This marks our first collaboration.
 Dialogue: 0,0:14:44.40,0:14:45.65,Default,Ye Xiu,0,0,0,,Let’s make it big!
 Dialogue: 0,0:16:18.98,0:16:21.52,Top,,0,0,0,TS,[Next episode’s preview]
-Dialogue: 0,0:16:18.98,0:16:20.23,Default,,0,0,0,,Congratulations to Samsara
+Dialogue: 0,0:16:18.98,0:16:20.23,Default,,0,0,0,,Congratulations to {\i1}Samsara
 Dialogue: 0,0:16:20.23,0:16:21.52,Default,,0,0,0,,for winning the competition!
 Dialogue: 0,0:16:21.56,0:16:23.35,Default,,0,0,0,,They’ve made history.
 Dialogue: 0,0:16:27.98,0:16:29.77,Default,,0,0,0,,Oh, Deception is online.
