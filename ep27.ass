@@ -15,9 +15,9 @@ Video File: [Q] The King's Avatar S3 - 03 (1080p HBR HEVC).mkv
 Video AR Mode: 4
 Video AR Value: 2.370370
 Video Zoom Percent: 1.000000
-Scroll Position: 344
-Active Line: 627
-Video Position: 17950
+Scroll Position: 413
+Active Line: 703
+Video Position: 24000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -648,7 +648,7 @@ Dialogue: 0,0:12:10.27,0:12:12.02,Default,Ye Xiu,0,0,0,,I forgot about his life.
 Dialogue: 0,0:12:13.65,0:12:14.77,Default,Lou Guanning,0,0,0,,God Ye,
 Dialogue: 0,0:12:14.77,0:12:17.02,Default,Lou Guanning,0,0,0,TLC,there’s a boss in the sewer of Hesin City.{wikia has "Heshin City Sewers", but see the OSD at 12:26.792}
 Dialogue: 0,0:12:17.02,0:12:18.15,Default,Lou Guanning,0,0,0,,There’s only a small guild.
-Dialogue: 0,0:12:18.15,0:12:19.52,Default,Lou Guanning,0,0,0,,We’ll steal it when you get here.
+Dialogue: 0,0:12:18.15,0:12:19.52,Default,Lou Guanning,0,0,0,,We’ll steal it once you’re here.
 Dialogue: 0,0:12:19.52,0:12:21.15,Default,Ye Xiu,0,0,0,,Small guild?
 Dialogue: 0,0:12:22.60,0:12:24.10,Default,Ye Xiu,0,0,0,,I’ve just had an idea.
 Dialogue: 0,0:12:24.52,0:12:25.40,Default,Lou Guanning,0,0,0,,What?
@@ -658,75 +658,79 @@ Dialogue: 0,0:12:25.06,0:12:26.77,Chatbox,,0,0,0,TS,What?
 Dialogue: 0,0:12:26.06,0:12:26.77,Chatbox,,0,0,0,TS,Extended collaboration.
 Dialogue: 0,0:12:25.40,0:12:26.65,Default,Ye Xiu,0,0,0,,Extended collaboration.
 Dialogue: 0,0:12:26.77,0:12:28.73,Default,,0,0,0,TS,{\fad(0,980)}[Hesin City’s sewer. LV55 Training Zone]
-Dialogue: 0,0:12:27.90,0:12:28.90,Default,Girl,0,0,0,,Hurry up.
-Dialogue: 0,0:12:28.90,0:12:29.90,Default,Girl,0,0,0,,Increase the firepower.
-Dialogue: 0,0:12:29.90,0:12:31.40,Default,Girl,0,0,0,,Else when the big guilds come,\Nwe won’t be able to get anything.
-Dialogue: 0,0:12:33.85,0:12:34.98,Default,Ye Xiu,0,0,0,,Hello there!
+Dialogue: 0,0:12:27.90,0:12:28.90,Default,Girl,0,0,0,,Hurry up!
+Dialogue: 0,0:12:28.90,0:12:29.90,Default,Girl,0,0,0,,More power!
+Dialogue: 0,0:12:29.90,0:12:31.40,Default,Girl,0,0,0,,It’s game over if the big guilds come.
+Dialogue: 0,0:12:33.85,0:12:34.98,Default,Ye Xiu,0,0,0,,’Sup.
 Dialogue: 0,0:12:35.73,0:12:36.85,Default,Ye Xiu,0,0,0,,Are you busy?
 Dialogue: 0,0:12:37.48,0:12:38.60,Default,Guys,0,0,0,,Lord Grim?
-Dialogue: 0,0:12:39.15,0:12:41.90,Default,Blue-hair guy,0,0,0,,Looks like our effort\Nwill go to waste again, Captain.
+Dialogue: 0,0:12:39.15,0:12:41.90,Default,Blue-hair guy,0,0,0,,Looks like our efforts will be in vain again, Captain.
 Dialogue: 0,0:12:43.65,0:12:47.27,Default,Blue-hair guy,0,0,0,,I can’t take this anymore.
 Dialogue: 0,0:12:49.02,0:12:49.81,Default,Ye Xiu,0,0,0,,There, there.
-Dialogue: 0,0:12:50.15,0:12:51.73,Default,Ye Xiu,0,0,0,,We’re here to discuss\Nabout a potential collaboration.
+Dialogue: 0,0:12:50.15,0:12:51.73,Default,Ye Xiu,0,0,0,,We’re here to discuss collaboration.
 Dialogue: 0,0:12:52.27,0:12:53.27,Default,Ye Xiu,0,0,0,,Do you want to join us?
-Dialogue: 0,0:12:53.69,0:12:55.02,Default,Ye Xiu,0,0,0,,Each of you will get the materials.
-Dialogue: 0,0:12:56.10,0:12:59.02,Default,Ye Xiu,0,0,0,,The big guilds always get the bosses.
-Dialogue: 0,0:12:59.31,0:13:00.65,Default,Ye Xiu,0,0,0,,We couldn’t snatch the bosses\Nfrom the big guilds.
-Dialogue: 0,0:13:00.65,0:13:02.48,Default,Ye Xiu,0,0,0,,Only when they are\Nhaving internal disputes
-Dialogue: 0,0:13:02.48,0:13:03.81,Default,Ye Xiu,0,0,0,,can we get to oust the boss.
-Dialogue: 0,0:13:03.52,0:13:04.52,Top,Background,0,0,0,,Hurry up and attack!
-Dialogue: 0,0:13:04.60,0:13:06.48,Default,Background,0,0,0,,Someone stole the boss.
-Dialogue: 0,0:13:08.52,0:13:10.02,Default,Ye Xiu,0,0,0,,Aren’t you upset?
-Dialogue: 0,0:13:13.15,0:13:16.40,Default,Ye Xiu,0,0,0,,Why can’t the small guilds\Nget the chance to oust the bosses?
-Dialogue: 0,0:13:16.90,0:13:18.40,Default,Ye Xiu,0,0,0,,We can establish
-Dialogue: 0,0:13:18.40,0:13:20.56,Default,Ye Xiu,0,0,0,,a competent team.
-Dialogue: 0,0:13:20.90,0:13:22.52,Default,Ye Xiu,0,0,0,,Do you want to join us?
-Dialogue: 0,0:13:25.85,0:13:27.48,Default,Guys,0,0,0,,I want to join your team, God Ye.
+Dialogue: 0,0:12:53.69,0:12:55.02,Default,Ye Xiu,0,0,0,,Everyone will have their share.
+Dialogue: 0,0:12:56.10,0:12:59.02,Default,Ye Xiu,0,0,0,,We’ve been in the shadow of big guilds’ boss monopoly for too long.{For far too long have the big guilds monopolized bosses.}
+Dialogue: 0,0:12:59.31,0:13:00.65,Default,Ye Xiu,0,0,0,,We can’t compete normally.{lol Mumu as a "baddie"}
+Dialogue: 0,0:13:00.65,0:13:02.48,Default,Ye Xiu,0,0,0,,Only when they’re having internal disputes,
+Dialogue: 0,0:13:02.48,0:13:03.81,Default,Ye Xiu,0,0,0,,do we get a chance at the boss.
+Dialogue: 0,0:13:03.52,0:13:04.52,Top,Background,0,0,0,,Guys, come quick!{大家快打}
+Dialogue: 0,0:13:04.60,0:13:06.48,Default,Background,0,0,0,,He’s trying to steal the boss!
+Dialogue: 0,0:13:08.52,0:13:10.02,Default,Ye Xiu,0,0,0,,Are you really okay with that?
+Dialogue: 0,0:13:13.15,0:13:16.40,Default,Ye Xiu,0,0,0,,Why can’t small guilds get their own shots at killing bosses?
+Dialogue: 0,0:13:16.90,0:13:18.40,Default,Ye Xiu,0,0,0,,We can form our own group
+Dialogue: 0,0:13:18.40,0:13:20.56,Default,Ye Xiu,0,0,0,,that will hold its own for a long time to come.
+Dialogue: 0,0:13:20.90,0:13:22.52,Default,Ye Xiu,0,0,0,,Wanna join?
+Dialogue: 0,0:13:25.85,0:13:27.48,Default,Guys,0,0,0,,God Ye, I’ll join you.
 Dialogue: 0,0:13:27.48,0:13:28.35,Default,Guys,0,0,0,,Count me in.
 Dialogue: 0,0:13:28.35,0:13:29.60,Default,Guys,0,0,0,,Me too.
-Dialogue: 0,0:13:29.98,0:13:31.48,Default,Ye Xiu,0,0,0,,[The Glory Canteen]\NThese are the rewarded materials.
+Dialogue: 0,0:13:29.85,0:13:32.85,Default,,0,0,0,TS,{The Glory Canteen}
+Dialogue: 0,0:13:29.98,0:13:31.48,Default,Ye Xiu,0,0,0,,Here’s today’s plan for materials.
 Dialogue: 0,0:13:31.48,0:13:32.60,Default,Ye Xiu,0,0,0,,Please check.
-Dialogue: 0,0:13:32.60,0:13:35.48,Default,Ye Xiu et al.,0,0,0,,Looking forward to working with you.
-Dialogue: 0,0:13:36.85,0:13:37.85,Default,Lou Guanning,0,0,0,,God Ye.
-Dialogue: 0,0:13:37.85,0:13:40.85,Default,Lou Guanning,0,0,0,,Our team has\Nmore members than Blue Brook Guild now.
-Dialogue: 0,0:13:46.56,0:13:48.40,Default,,0,0,0,,[LV 60. Over-world boss.\NOcean Nightwalker. Gan Lie]
-Dialogue: 0,0:13:48.40,0:13:49.73,Default,,0,0,0,,[Player: Xu Boyuan. Blue Brook Guild.]
-Dialogue: 0,0:13:48.40,0:13:51.06,Default,,0,0,0,,There are a lot of guilds that came today.
-Dialogue: 0,0:13:49.73,0:13:51.06,Default,,0,0,0,,[Blue Bridge Spring Snow. Job: Blade Master.]
-Dialogue: 0,0:13:51.06,0:13:52.73,Default,,0,0,0,,It seems like\Nit requires more effort now.
-Dialogue: 0,0:13:53.77,0:13:54.31,Default,,0,0,0,,Buddy.
-Dialogue: 0,0:13:54.31,0:13:56.65,Default,,0,0,0,,[Chatting with Electric Youfeng]
-Dialogue: 0,0:13:54.31,0:13:56.65,Default,,0,0,0,,Let’s join forces to oust the Excellent Dynasty.
-Dialogue: 0,0:13:56.65,0:13:57.90,Default,,0,0,0,,[Chatting with Araceae]
-Dialogue: 0,0:13:56.65,0:13:57.90,Default,,0,0,0,,Tyranny sent us a message earlier.
-Dialogue: 0,0:13:57.94,0:13:59.48,Default,,0,0,0,,They want to join forces to attack you.
-Dialogue: 0,0:13:59.48,0:14:01.48,Default,,0,0,0,,I don’t really like this act.
-Dialogue: 0,0:14:01.48,0:14:02.60,Default,,0,0,0,,Let’s join forces to oust them then.
-Dialogue: 0,0:14:02.85,0:14:04.35,Default,,0,0,0,,[Chatting with Moonlight Army]\NHelp us out.
-Dialogue: 0,0:14:04.35,0:14:05.73,Default,,0,0,0,,Let’s oust Tyranny together.
-Dialogue: 0,0:14:05.85,0:14:06.81,Default,,0,0,0,,We’ll take the lead.
-Dialogue: 0,0:14:06.81,0:14:07.98,Default,,0,0,0,,You can come in as the support.
-Dialogue: 0,0:14:08.40,0:14:10.06,Default,,0,0,0,,As if I would buy into it.
-Dialogue: 0,0:14:10.06,0:14:11.31,Default,,0,0,0,,No worries.
-Dialogue: 0,0:14:12.56,0:14:13.56,Default,,0,0,0,,Okay.
-Dialogue: 0,0:14:14.44,0:14:15.44,Default,,0,0,0,,Sure.
-Dialogue: 0,0:14:16.31,0:14:21.44,Default,,0,0,0,,That’s why I don’t want\Nto get involved in such disputes.
-Dialogue: 0,0:14:22.44,0:14:23.65,Default,,0,0,0,,Let’s buy some time
-Dialogue: 0,0:14:23.65,0:14:25.06,Default,,0,0,0,,while waiting for\Nthe guild leader’s main force.
-Dialogue: 0,0:14:25.06,0:14:25.56,Default,,0,0,0,,Let’s wait at leisure\Nwhile the enemy labors.
-Dialogue: 0,0:14:31.77,0:14:33.27,Default,,0,0,0,,Lord Grim.
-Dialogue: 0,0:14:34.56,0:14:36.02,Default,,0,0,0,,[He Wu.Martial Know-it-all]
-Dialogue: 0,0:14:36.48,0:14:37.48,Default,,0,0,0,,He Wu.
-Dialogue: 0,0:14:37.48,0:14:38.15,Default,,0,0,0,,Heavenly Justice.
-Dialogue: 0,0:14:38.15,0:14:38.52,Default,,0,0,0,,[Yue Yun.Yue Ziqin.\NZhao Hua.Flowing Stream]
-Dialogue: 0,0:14:38.52,0:14:39.02,Default,,0,0,0,,[Yue Yun.Yue Ziqin.]\NYue Yun.
-Dialogue: 0,0:14:39.02,0:14:39.73,Default,,0,0,0,,[Zhao Hua.Flowing Stream]\NZhao Hua.
-Dialogue: 0,0:14:39.94,0:14:41.19,Default,,0,0,0,,My fellow guild leaders.
-Dialogue: 0,0:14:41.56,0:14:43.52,Default,,0,0,0,,This marks our first collaboration.
-Dialogue: 0,0:14:44.40,0:14:45.65,Default,,0,0,0,,Let’s do something big.
-Dialogue: 0,0:16:18.98,0:16:20.23,Default,,0,0,0,,[Next episode’s preview]\NCongratulations to Samsara
-Dialogue: 0,0:16:20.23,0:16:21.52,Default,,0,0,0,,[Next episode’s preview]\Nfor winning the competition!
-Dialogue: 0,0:16:21.56,0:16:23.35,Default,,0,0,0,,They’ve created history.
+Dialogue: 0,0:13:32.60,0:13:35.48,Default,Ye Xiu et al.,0,0,0,,See you soon!
+Dialogue: 0,0:13:36.85,0:13:37.85,Default,Lou Guanning,0,0,0,,God Ye,
+Dialogue: 0,0:13:37.85,0:13:40.85,Default,Lou Guanning,0,0,0,,our team has more members now than {\i1}Blue Brook Guild.
+Dialogue: 0,0:13:46.56,0:13:48.40,Default,,0,0,0,TS,[LV 60. Over-world boss.\NOcean Nightwalker. Gan Lie]
+Dialogue: 0,0:13:48.44,0:13:49.73,Default,,0,0,0,TS,[Player: Xu Boyuan. Blue Brook Guild.]
+Comment: 0,0:13:48.40,0:13:51.06,Default,,31,0,9,,{\an2\fs69\fsp1.78125\fnNoto Sans CJK SC}今天来的公会可够多{\fsp0}的
+Dialogue: 0,0:13:48.40,0:13:51.06,Default,Xu Boyuan,31,0,0,,A lot of guilds here today.
+Dialogue: 0,0:13:49.73,0:13:51.06,Default,,0,0,0,TS,[Blue Bridge Spring Snow. Job: Blade Master.]
+Dialogue: 0,0:13:51.06,0:13:52.73,Default,Xu Boyuan,0,0,0,,This is gonna take some work.
+Dialogue: 0,0:13:53.77,0:13:54.31,Default,Electric Youfeng,0,0,0,,Yo.
+Dialogue: 0,0:13:54.31,0:13:56.65,Default,,0,0,0,TLC;TS,[Chatting with Wandering Peak{Electric Youfeng}]{Tyrannical Ambition}
+Dialogue: 0,0:13:54.31,0:13:56.65,Default,Electric Youfeng,0,0,0,,Let’s join forces and trash {\i1}Excellent Dynasty.
+Dialogue: 0,0:13:56.65,0:13:57.90,Default,,0,0,0,TLC;TS,[Chatting with Arisaema{Araceae}]{Herb Garden}
+Dialogue: 0,0:13:56.65,0:13:57.90,Default,Araceae,0,0,0,,{\i1}Tyranny{\i0} just messaged me
+Dialogue: 0,0:13:57.94,0:13:59.48,Default,Araceae,0,0,0,,asking to team up to attack you.
+Dialogue: 0,0:13:59.48,0:14:01.48,Default,Araceae,0,0,0,,Man, I hate that kinda stuff.
+Dialogue: 0,0:14:01.48,0:14:02.60,Default,Araceae,0,0,0,,Let’s beat them up!
+Dialogue: 0,0:14:02.85,0:14:04.35,Default,,0,0,0,TLC;TS,[Chatting with Moonlight Army]{a Chinese TV character database identifies this with 陈夜辉/Chen Yehui, the guild leader of Excellent Dynasty, says his account name was never given in the web novel, and shows a picture of a player with brown hair, much like in this character avatar. but Wikia identifies Chen Yehui with a blond dude who was among the drunken group from Excellent Era who once came to Happy in the first season}
+Dialogue: 0,0:14:02.85,0:14:04.35,Default,Moonlight Army,0,0,0,,Hey. Help us out?
+Dialogue: 0,0:14:04.35,0:14:05.73,Default,Moonlight Army,0,0,0,,Let’s take down {\i1}Tyranny.
+Dialogue: 0,0:14:05.85,0:14:06.81,Default,Moonlight Army,0,0,0,,We’ll take the lead.
+Dialogue: 0,0:14:06.81,0:14:07.98,Default,Moonlight Army,0,0,0,,You guys just back us up.
+Dialogue: 0,0:14:08.40,0:14:10.06,Default,Xu Boyuan,0,0,0,,As if I’d buy this.
+Dialogue: 0,0:14:10.06,0:14:11.31,Default,Xu Boyuan,0,0,0,,No problem.
+Dialogue: 0,0:14:12.56,0:14:13.56,Default,Xu Boyuan,0,0,0,,Okay.
+Dialogue: 0,0:14:14.44,0:14:15.44,Default,Xu Boyuan,0,0,0,,Sure.
+Comment: 0,0:14:16.31,0:14:21.44,Default,Xu Boyuan,46,0,9,,{\an2\fs69\fsp1.78125\fnNoto Sans CJK SC}我就是不想参与这种虚与委蛇尔虞我诈的斗争{\fsp0}啊
+Dialogue: 0,0:14:16.31,0:14:21.44,Default,Xu Boyuan,46,0,0,,I really don’t want to have any part in this sham diplomacy.
+Dialogue: 0,0:14:22.44,0:14:23.65,Default,Xu Boyuan,0,0,0,,Let’s stall for a bit.
+Dialogue: 0,0:14:23.65,0:14:25.56,Default,Xu Boyuan,0,0,0,,Bide our time until our main force arrives.
+Dialogue: 0,0:14:31.77,0:14:33.27,Default,Xu Boyuan,0,0,0,,Lord Grim!
+Dialogue: 0,0:14:34.56,0:14:36.02,Default,,0,0,0,TLC;TS,[He Wu.Martial Know-it-all]
+Dialogue: 0,0:14:36.48,0:14:37.48,Default,Xu Boyuan,0,0,0,TLC,He Wu.{why are these four lines completely mistimed aaa}
+Dialogue: 0,0:14:37.48,0:14:38.15,Default,Xu Boyuan,0,0,0,TLC,Heavenly Justice.
+Dialogue: 0,0:14:38.15,0:14:39.73,Default,,0,0,0,TLC;TS,[Yue Yun.Yue Ziqin.\NZhao Hua.Flowing Stream]
+Dialogue: 0,0:14:38.52,0:14:39.02,Default,Xu Boyuan,0,0,0,TLC,Yue Yun.
+Dialogue: 0,0:14:39.02,0:14:39.73,Default,Xu Boyuan,0,0,0,TLC,Zhao Hua.
+Dialogue: 0,0:14:39.94,0:14:41.19,Default,Ye Xiu,0,0,0,,My fellow guild leaders.
+Dialogue: 0,0:14:41.56,0:14:43.52,Default,Ye Xiu,0,0,0,,This marks our first collaboration.
+Dialogue: 0,0:14:44.40,0:14:45.65,Default,Ye Xiu,0,0,0,,Let’s make it big!
+Dialogue: 0,0:16:18.98,0:16:21.52,Default,,0,0,0,TS,[Next episode’s preview]
+Dialogue: 0,0:16:18.98,0:16:20.23,Default,,0,0,0,,Congratulations to Samsara
+Dialogue: 0,0:16:20.23,0:16:21.52,Default,,0,0,0,,for winning the competition!
+Dialogue: 0,0:16:21.56,0:16:23.35,Default,,0,0,0,,They’ve made history.
 Dialogue: 0,0:16:27.98,0:16:29.77,Default,,0,0,0,,Oh, Deception is online.
 Dialogue: 0,0:16:33.94,0:16:35.90,Default,,0,0,0,,Tang, Bao, come on!
 Dialogue: 0,0:16:39.10,0:16:39.94,Default,,0,0,0,,That’s odd.
