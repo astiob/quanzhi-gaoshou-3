@@ -15,9 +15,8 @@ Video File: [Q] The King's Avatar S3 - 03 (1080p HBR HEVC).mkv
 Video AR Mode: 4
 Video AR Value: 2.370370
 Video Zoom Percent: 1.000000
-Scroll Position: 396
-Active Line: 697
-Video Position: 23496
+Active Line: 1
+Video Position: 3172
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,7 +31,7 @@ Style: Name OSD,SourceSans3Uniscribe,58,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:02:09.31,0:02:12.44,Default,Announcer,0,0,0,,This is game\h1 of the 8th\hGrand Finals of Glory,
-Dialogue: 0,0:02:12.15,0:02:12.52,Chatbox,,0,0,0,,All in the world shall be reborn
+Dialogue: 0,0:02:12.15,0:02:12.52,Chatbox,,0,0,0,TS,All in the world shall be reborn
 Comment: 0,0:02:12.15,0:02:12.77,Chatbox,,0,0,0,,{\fs26.71875\fsp-1.0625\pos(287.7,550.125)\c&HF0ECF4&}SAMSARAyyds!{\pos(300,300)}
 Dialogue: 0,0:02:12.15,0:02:12.98,Chatbox,,0,0,0,TS,samsara champ!
 Dialogue: 0,0:02:12.15,0:02:13.31,Chatbox,,0,0,0,TS,samsara goat!
