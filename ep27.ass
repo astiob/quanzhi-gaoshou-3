@@ -30,7 +30,8 @@ Style: Name OSD,SourceSans3Uniscribe,58,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:09.31,0:02:12.44,Default,Announcer,0,0,0,,This is game\h1 of the 8th\hGrand Finals of Glory,
+Comment: 1,0:02:09.31,0:02:12.44,Default,,38,0,9,,{\an2\fs69\fsp1.796875\fnNoto Sans CJK SC}这里是第八届荣耀联盟总决赛第一{\fsp-0.5}场
+Dialogue: 0,0:02:09.31,0:02:12.44,Default,Announcer,38,0,0,,This is game\h1 of the 8th\hGrand Finals of Glory,
 Dialogue: 0,0:02:12.15,0:02:12.52,Chatbox,,0,0,0,TS,All in the world shall be reborn
 Comment: 0,0:02:12.15,0:02:12.77,Chatbox,,0,0,0,,{\fs26.71875\fsp-1.0625\pos(287.7,550.125)\c&HF0ECF4&}SAMSARAyyds!{\pos(300,300)}
 Dialogue: 0,0:02:12.15,0:02:12.98,Chatbox,,0,0,0,TS,samsara champ!
@@ -501,6 +502,7 @@ Dialogue: 0,0:07:14.52,0:07:17.02,Default,Ye Xiu,0,0,0,,Were you always this bra
 Dialogue: 0,0:07:18.52,0:07:20.52,Default,Ye Xiu,0,0,0,,You should know when to back down.
 Dialogue: 0,0:07:21.02,0:07:22.48,Default,Xu Boyuan,0,0,0,,Brash?
 Dialogue: 0,0:07:22.48,0:07:23.85,Default,Xu Boyuan,0,0,0,,What’s that supposed to mean?
+Comment: 1,0:07:24.10,0:07:27.48,Default,,38,0,9,,{\an2\1c0\bord0\fs69\fsp1.796875\fnNoto Sans CJK SC}我来攻击你是完全清醒而且正确的思{\fsp-0.25}路
 Dialogue: 0,0:07:24.10,0:07:27.48,Default,Xu Boyuan,0,0,0,,Attacking you was clearly the best thing I could do.
 Dialogue: 0,0:07:27.56,0:07:28.98,Default,Xu Boyuan,0,0,0,,Everyone’s fighting the boss.
 Dialogue: 0,0:07:28.98,0:07:31.10,Default,Xu Boyuan,0,0,0,,You guys are messing it all up.
@@ -516,6 +518,7 @@ Dialogue: 0,0:07:30.52,0:07:32.10,Dialog,,0,0,0,,{=42}{\fax-0.078270\fscx47.84\f
 Dialogue: 0,0:07:30.52,0:07:32.10,Dialog,,0,0,0,,{=42}{\fax-0.078270\fscx47.84\fscy57.92\frz1.3915\frx0.2506\fry-0.7592\org(1239.08,460.34)\pos(1239.88,461.34)\blur0.3}No
 Dialogue: 0,0:07:30.52,0:07:32.10,Dialog,,0,0,0,,{=39}{\fax-0.081169\fscx46.42\fscy59.61\frz1.3923\frx0.2415\fry-0.7460\org(1360.9,457.13)\pos(1361.71,458.13)\bord1.75\blur0.3\3a&HB8}Yes
 Dialogue: 0,0:07:30.52,0:07:32.10,Dialog,,0,0,0,,{=39}{\fax-0.081169\fscx46.42\fscy59.61\frz1.3923\frx0.2415\fry-0.7460\org(1360.9,457.13)\pos(1361.71,458.13)\blur0.3}Yes
+Comment: 1,0:07:34.85,0:07:38.06,Default,,40,0,9,,{\an2\1c0\bord0\fs69\fsp1.796875\fnNoto Sans CJK SC}我这是哪来的豪气敢一个人冲上去{\fsp-0.}的
 Dialogue: 0,0:07:34.85,0:07:38.06,Default,Xu Boyuan,0,0,0,,What was I thinking, going there alone?
 Dialogue: 0,0:07:38.27,0:07:40.31,Default,Xu Boyuan,0,0,0,,Was I really looking to get beaten up?
 Dialogue: 0,0:07:40.56,0:07:41.69,Default,Ye Xiu,0,0,0,,Got any good stuff?
@@ -577,9 +580,9 @@ Dialogue: 0,0:09:58.02,0:09:59.27,Default,Lou Guanning,0,0,0,,so I feel better.
 Dialogue: 0,0:09:59.85,0:10:00.69,Default,Lou Guanning,0,0,0,,Don’t worry.
 Dialogue: 0,0:10:00.77,0:10:01.48,Default,Lou Guanning,0,0,0,,Your rewards
 Dialogue: 0,0:10:01.48,0:10:03.40,Default,Lou Guanning,0,0,0,,won’t be affected by this.
-Comment: 1,0:10:03.44,0:10:04.27,Default,Lou Guanning,23,0,9,,{\an2\fs69\fsp1.78125\fnNoto Sans CJK SC}然后大{\fsp0}神
+Comment: 1,0:10:03.44,0:10:04.27,Default,,23,0,9,,{\an2\fs69\1c0\bord0\fsp1.78125\fnNoto Sans CJK SC}然后大{\fsp0}神
 Dialogue: 0,0:10:03.44,0:10:04.27,Default,Lou Guanning,0,0,0,,So, God Ye,
-Comment: 1,0:10:04.27,0:10:05.65,Default,Lou Guanning,31,0,9,,{\an2\fs69\fsp1.8125\fnNoto Sans CJK SC}你再从我这边随意挑三{\fsp0}样
+Comment: 1,0:10:04.27,0:10:05.65,Default,,31,0,9,,{\an2\fs69\fsp1.8125\fnNoto Sans CJK SC}你再从我这边随意挑三{\fsp0}样
 Dialogue: 0,0:10:04.27,0:10:05.65,Default,Lou Guanning,31,0,0,,take any three items from me.
 Dialogue: 0,0:10:05.73,0:10:06.31,Default,Ye Xiu,0,0,0,,What,
 Dialogue: 0,0:10:06.69,0:10:08.06,Default,Ye Xiu,0,0,0,,you gonna let him off easy?
@@ -635,6 +638,7 @@ Dialogue: 0,0:11:43.10,0:11:44.48,Default,Ye Xiu,0,0,0,,with food and lodging.
 Dialogue: 0,0:11:45.19,0:11:46.69,Default,Ye Xiu,0,0,0,,You’re quite capable.
 Dialogue: 0,0:11:47.02,0:11:49.27,Default,Ye Xiu,0,0,0,,It’s a pity for you to be picking garbage.
 Dialogue: 0,0:11:49.31,0:11:51.31,Default,Deception,0,0,0,,None of my picks are garbage.
+Comment: 1,0:11:52.31,0:11:54.19,Default,,37,0,9,,{\an2\1c0\bord0\fs69\fsp1.796875\fnNoto Sans CJK SC}那是因为你没有见过真正的极{\fsp-0.}品
 Dialogue: 0,0:11:52.31,0:11:54.19,Default,Ye Xiu,0,0,0,,You just haven’t seen the real deal.
 Dialogue: 0,0:11:54.56,0:11:56.31,Default,Ye Xiu,0,0,0,,For instance, have you ever seen
 Dialogue: 0,0:11:56.44,0:11:57.81,Default,Ye Xiu,0,0,0,,a weapon like mine?
@@ -669,6 +673,7 @@ Dialogue: 0,0:12:49.02,0:12:49.81,Default,Ye Xiu,0,0,0,,There, there.
 Dialogue: 0,0:12:50.15,0:12:51.73,Default,Ye Xiu,0,0,0,,We’re here to discuss collaboration.
 Dialogue: 0,0:12:52.27,0:12:53.27,Default,Ye Xiu,0,0,0,,Do you want to join us?
 Dialogue: 0,0:12:53.69,0:12:55.02,Default,Ye Xiu,0,0,0,,Everyone will have their share.
+Comment: 1,0:12:56.10,0:12:59.02,Default,,42,0,9,,{\an2\1c0\bord0\fs69\fsp1.796875\fnNoto Sans CJK SC}我们在大公会垄断领主的阴影下太久{\fsp-0.75}了
 Dialogue: 0,0:12:56.10,0:12:59.02,Default,Ye Xiu,0,0,0,,We’ve been in the shadow of big guilds’ boss monopoly for too long.{For far too long have the big guilds monopolized bosses.}
 Dialogue: 0,0:12:59.31,0:13:00.65,Default,Ye Xiu,0,0,0,,We can’t compete normally.{lol Mumu as a "baddie"}
 Dialogue: 0,0:13:00.65,0:13:02.48,Default,Ye Xiu,0,0,0,,Only when they’re having internal disputes,
@@ -676,6 +681,7 @@ Dialogue: 0,0:13:02.48,0:13:03.81,Default,Ye Xiu,0,0,0,,do we get a chance at th
 Dialogue: 0,0:13:03.52,0:13:04.52,Top,Background,0,0,0,,Guys, come quick!{大家快打}
 Dialogue: 0,0:13:04.60,0:13:06.48,Default,Background,0,0,0,,He’s trying to steal the boss!
 Dialogue: 0,0:13:08.52,0:13:10.02,Default,Ye Xiu,0,0,0,,Are you really okay with that?
+Comment: 1,0:13:13.15,0:13:16.40,Default,,40,0,9,,{\an2\1c0\bord0\fs69\fsp1.796875\fnNoto Sans CJK SC}为什么小公会就不能得到抢领主的机{\fsp-0.}会
 Dialogue: 0,0:13:13.15,0:13:16.40,Default,Ye Xiu,0,0,0,,Why can’t small guilds get their own shots at killing bosses?
 Dialogue: 0,0:13:16.90,0:13:18.40,Default,Ye Xiu,0,0,0,,We can form our own group
 Dialogue: 0,0:13:18.40,0:13:20.56,Default,Ye Xiu,0,0,0,,that will hold its own for a long time to come.
@@ -707,12 +713,16 @@ Dialogue: 0,0:14:02.85,0:14:04.35,Top,,0,0,0,TLC;TS,[Chatting with Moonlight Arm
 Dialogue: 0,0:14:02.85,0:14:04.35,Default,Moonlight Army,0,0,0,,Hey. Help us out?
 Dialogue: 0,0:14:04.35,0:14:05.73,Default,Moonlight Army,0,0,0,,Let’s take down {\i1}Tyranny.
 Dialogue: 0,0:14:05.85,0:14:06.81,Default,Moonlight Army,0,0,0,,We’ll take the lead.
+Comment: 1,0:14:06.81,0:14:07.98,Default,,27,0,9,,{\an2\1c0\bord0\fs69\fsp1.796875\fnNoto Sans CJK SC}你们给个支援就{\fsp-0.}行
 Dialogue: 0,0:14:06.81,0:14:07.98,Default,Moonlight Army,0,0,0,,You guys just back us up.
 Dialogue: 0,0:14:08.40,0:14:10.06,Default,Xu Boyuan,0,0,0,,As if I’d buy this.
+Comment: 1,0:14:10.06,0:14:11.31,Default,,19,0,9,,{\an2\1c0\bord0\fs69\fsp1.796875\fnNoto Sans CJK SC}没问{\fsp-0.75}题
 Dialogue: 0,0:14:10.06,0:14:11.31,Default,Xu Boyuan,0,0,0,,No problem.
+Comment: 1,0:14:12.56,0:14:13.56,Default,,16,0,9,,{\an2\fs69\fsp1.796875\fnNoto Sans CJK SC}{\fsp-0.75}好
 Dialogue: 0,0:14:12.56,0:14:13.56,Default,Xu Boyuan,0,0,0,,Okay.
+Comment: 1,0:14:14.44,0:14:15.44,Default,,18,0,9,,{\an2\1c0\bord0\fs69\fsp1.796875\fnNoto Sans CJK SC}可{\fsp-0.0}以
 Dialogue: 0,0:14:14.44,0:14:15.44,Default,Xu Boyuan,0,0,0,,Sure.
-Comment: 0,0:14:16.31,0:14:21.44,Default,Xu Boyuan,46,0,9,,{\an2\fs69\fsp1.78125\fnNoto Sans CJK SC}我就是不想参与这种虚与委蛇尔虞我诈的斗争{\fsp0}啊
+Comment: 1,0:14:16.31,0:14:21.44,Default,,46,0,9,,{\an2\fs69\fsp1.78125\fnNoto Sans CJK SC}我就是不想参与这种虚与委蛇尔虞我诈的斗争{\fsp0}啊
 Dialogue: 0,0:14:16.31,0:14:21.44,Default,Xu Boyuan,46,0,0,,I really don’t want to have any part in this sham diplomacy.
 Dialogue: 0,0:14:22.44,0:14:23.65,Default,Xu Boyuan,0,0,0,,Let’s stall for a bit.
 Dialogue: 0,0:14:23.65,0:14:25.56,Default,Xu Boyuan,0,0,0,,Bide our time until our main force arrives.
@@ -723,6 +733,7 @@ Dialogue: 0,0:14:37.48,0:14:38.15,Default,Xu Boyuan,0,0,0,TLC,Heavenly Justice.
 Dialogue: 0,0:14:38.15,0:14:39.73,Top,,0,0,0,TLC;TS,[Yue Yun.Yue Ziqin.\NZhao Hua.Flowing Stream]
 Dialogue: 0,0:14:38.52,0:14:39.02,Default,Xu Boyuan,0,0,0,TLC,Yue Yun.
 Dialogue: 0,0:14:39.02,0:14:39.73,Default,Xu Boyuan,0,0,0,TLC,Zhao Hua.
+Comment: 1,0:14:39.94,0:14:41.19,Default,,21,0,9,,{\an2\1c0\bord0\fs69\fsp1.796875\fnNoto Sans CJK SC}各位会{\fsp0}长
 Dialogue: 0,0:14:39.94,0:14:41.19,Default,Ye Xiu,0,0,0,,My fellow guild leaders.
 Dialogue: 0,0:14:41.56,0:14:43.52,Default,Ye Xiu,0,0,0,,This marks our first collaboration.
 Dialogue: 0,0:14:44.40,0:14:45.65,Default,Ye Xiu,0,0,0,,Let’s make it big!
