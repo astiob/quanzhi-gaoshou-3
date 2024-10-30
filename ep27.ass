@@ -27,6 +27,7 @@ Style: Chinese,Noto Sans CJK SC,43,&H000000FF,&H00000000,&H00000000,&H00000000,0
 Style: Dialog,SourceSans3Uniscribe Medium,43,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: Chat OSD,SourceSans3Uniscribe,43,&H00000000,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: Name OSD,SourceSans3Uniscribe,58,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Sign,SourceSans3Uniscribe,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -54,20 +55,20 @@ Dialogue: 0,0:02:15.02,0:02:15.48,Chatbox,,0,0,0,TS,Samsara is the champion!!
 Dialogue: 0,0:02:15.44,0:02:15.48,Chatbox,,0,0,0,TS,I cried. Has Samsara reached the end?{哭了，这就是轮回的尽头么}
 Dialogue: 0,0:02:12.44,0:02:13.69,Default,Announcer,0,0,0,,and Samsara
 Dialogue: 0,0:02:13.69,0:02:15.94,Default,Announcer,0,0,0,,have just won their home match.
-Comment: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&H6A6B65&\fnNoto Sans CJK SC\fs106\fsp1.1\an4\pos(533,282)}{\fsp-1.5}#{\fsp1.1} 轮回战队夺得第一！#
-Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HFAFDFF&\an4\pos(533,282)\p1}m -15.43 7.69 l 564.96 7.69 573.53 16.84 575.19 36.55 649.88 36.79 657.46 19.1 682.41 18.93 682.5 79.45 693.61 79.14 698.57 15.3 731.47 15.13 731.94 30.52 739.31 39.66 733.54 44.99 734.33 98.07 -15.43 97.5
-Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HFAFDFF&\an4\pos(533,282)\p1}m -9.37 107.38 l 981.76 107.38 981.76 157.01 -9.37 157.01
-Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HE8ECF0&\3c&HE6EBEA&\an5\bord0\pos(1200,255)\blur0.75\fs40}.
-Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HE6E9F0&\3c&HE6EBEA&\an5\bord0\pos(1248,252)\blur0.75\fs54}.
-Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HE6E9F0&\3c&HE6EBEA&\an5\bord0\pos(1248,278)\blur0.75\fs40}.
-Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\blur1\fnSourceSans3Uniscribe Medium\c&H6A6B65&\fs106\an4\pos(533,285.5)}# Team Samsara places first! #
-Dialogue: 0,0:02:15.48,0:02:18.48,Top,,0,0,0,TS,{\bord0\blur1fnNoto Sans\c&HB5BAB9&\fs70\an4\pos(533,388)}Summary: Samsara wins 1st round of Glory Playoffs!{TODO TS background dots behind this line}
-Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HFAFDFF&\an7\p1\pos(266,622)}m -96 -50 l 96 -50 96 50 -96 50
-Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HFAFDFF&\an7\p1\pos(592,622)}m -96 -50 l 96 -50 96 50 -96 50
-Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&HFAFDFF&\an7\p1\pos(922,622)}m -96 -50 l 96 -50 96 50 -96 50
-Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&H6A6B65&\fs80\blur1\an5\pos(263,622)}All
-Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&H6A6B65&\fs80\blur1\an5\pos(590,622)}Hot
-Dialogue: 0,0:02:15.48,0:02:18.48,Default,,0,0,0,,{\bord0\c&H6A6B65&\fs80\blur1\an5\pos(972,622)}Recent
+Comment: 0,0:02:15.48,0:02:18.48,Sign,,0,0,0,,{\c&H6A6B65&\fnNoto Sans CJK SC\fs106\fsp1.1\an4\pos(533,282)}{\fsp-1.5}#{\fsp1.1} 轮回战队夺得第一！#
+Dialogue: 0,0:02:15.48,0:02:15.85,Sign,,0,0,0,,{=60}{\an4\move(533,282,533,-7181.61,20,7895)\c&HFAFDFF&\p1}m -15.43 7.69 l 564.96 7.69 573.53 16.84 575.19 36.55 649.88 36.79 657.46 19.1 682.41 18.93 682.5 79.45 693.61 79.14 698.57 15.3 731.47 15.13 731.94 30.52 739.31 39.66 733.54 44.99 734.33 98.07 -15.43 97.5
+Dialogue: 0,0:02:15.48,0:02:15.94,Sign,,0,0,0,,{=59}{\an4\move(533,282,533,-7181.61,20,7895)\c&HFAFDFF&\p1}m -9.37 107.38 l 981.76 107.38 981.76 157.01 -9.37 157.01
+Dialogue: 0,0:02:15.48,0:02:15.77,Sign,,0,0,0,,{=58}{\move(1200,255,1200,-7208.61,20,7895)\fs40\c&HE8ECF0&\3c&HE6EBEA&\blur0.75}.
+Dialogue: 0,0:02:15.48,0:02:15.77,Sign,,0,0,0,,{=57}{\move(1248,252,1248,-7211.61,20,7895)\fs54\c&HE6E9F0&\3c&HE6EBEA&\blur0.75}.
+Comment: 0,0:02:15.48,0:02:15.81,Sign,,0,0,0,,{=56}{\move(1248,278,1248,-7185.61,20,7895)\fs40\c&HE6E9F0&\3c&HE6EBEA&\blur0.75}.
+Dialogue: 0,0:02:15.48,0:02:15.85,Sign,,0,0,0,,{=55}{\an4\move(533,285.5,533,-7178.11,20,7895)\fnSourceSans3Uniscribe Medium\fs106\c&H6A6B65&\blur1}# Team Samsara places first! #
+Dialogue: 0,0:02:15.48,0:02:15.94,Sign,,0,0,0,TS,{=54}{\an4\move(533,388,533,-7075.61,20,7895)\fs70\c&HB5BAB9&\blur1}Summary: Samsara wins 1st round of Glory Playoffs!
+Dialogue: 0,0:02:15.48,0:02:16.23,Sign,,0,0,0,,{=53}{\move(266,622,266,-6841.61,20,7895)\c&HFAFDFF&\p1}m 0 0 l 192 0 192 100 0 100
+Dialogue: 0,0:02:15.48,0:02:16.23,Sign,,0,0,0,,{=52}{\move(592,622,592,-6841.61,20,7895)\c&HFAFDFF&\p1}m 0 0 l 192 0 192 100 0 100
+Dialogue: 0,0:02:15.48,0:02:16.23,Sign,,0,0,0,,{=51}{\move(922,622,922,-6841.61,20,7895)\c&HFAFDFF&\p1}m 0 0 l 192 0 192 100 0 100
+Dialogue: 0,0:02:15.48,0:02:16.19,Sign,,0,0,0,,{=50}{\move(263,622,263,-6841.61,20,7895)\fs80\c&H6A6B65&\blur1}All
+Dialogue: 0,0:02:15.48,0:02:16.19,Sign,,0,0,0,,{=49}{\move(590,622,590,-6841.61,20,7895)\fs80\c&H6A6B65&\blur1}Hot
+Dialogue: 0,0:02:15.48,0:02:16.19,Sign,,0,0,0,,{=48}{\move(972,622,972,-6841.61,20,7895)\fs80\c&H6A6B65&\blur1}Recent
 Dialogue: 0,0:02:15.94,0:02:16.69,Default,Announcer,0,0,0,,After one round,
 Dialogue: 0,0:02:16.69,0:02:19.06,Default,Announcer,0,0,0,,Samsara leads Blue Rain with a score
 Dialogue: 0,0:02:19.06,0:02:20.19,Default,Announcer,0,0,0,,of 7.5 to 2.
@@ -759,3 +760,16 @@ Data: 28,_aegi_perspective_ambient_plane,e1657.83;311.97#7C1024.79;310.70#7C992.
 Data: 39,_aegi_perspective_ambient_plane,e1141.83;238.98#7C1477.87;227.64#7C1467.87;494.34#7C1130.84;501.98
 Data: 42,_aegi_perspective_ambient_plane,e1141.78;238.95#7C1477.89;227.61#7C1467.88;494.34#7C1130.83;501.97
 Data: 44,_aegi_perspective_ambient_plane,e1141.78;238.95#7C1477.89;227.61#7C1467.88;494.34#7C1130.83;501.98
+Data: 48,a-mo,e{"uuid"#3A"879fb622-4d06-4cb8-9fd8-6df055f6fb3f"#2C"originalText"#3A"{\\c&H6A6B65&\\fs80\\blur1\\pos(972#2C622)}Recent"}
+Data: 49,a-mo,e{"uuid"#3A"7fea4526-8c1f-4988-a5ae-5534563d368a"#2C"originalText"#3A"{\\c&H6A6B65&\\fs80\\blur1\\pos(590#2C622)}Hot"}
+Data: 50,a-mo,e{"uuid"#3A"78a41f2e-4079-4045-9081-6e6c2debaa39"#2C"originalText"#3A"{\\c&H6A6B65&\\fs80\\blur1\\pos(263#2C622)}All"}
+Data: 51,a-mo,e{"uuid"#3A"c1dddcb7-a9fd-490f-9c37-f22cf8808255"#2C"originalText"#3A"{\\c&HFAFDFF&\\an7\\p1\\pos(922#2C622)}m -96 -50 l 96 -50 96 50 -96 50"}
+Data: 52,a-mo,e{"uuid"#3A"257a5f44-8753-472d-987c-f61a35c42c03"#2C"originalText"#3A"{\\c&HFAFDFF&\\an7\\p1\\pos(592#2C622)}m -96 -50 l 96 -50 96 50 -96 50"}
+Data: 53,a-mo,e{"uuid"#3A"d55a6a93-06f7-4e8a-b02c-2fbceaa1799c"#2C"originalText"#3A"{\\c&HFAFDFF&\\an7\\p1\\pos(266#2C622)}m -96 -50 l 96 -50 96 50 -96 50"}
+Data: 54,a-mo,e{"uuid"#3A"e7100468-5235-45ff-a0d7-a34addde39a4"#2C"originalText"#3A"{\\blur1fnNoto Sans\\c&HB5BAB9&\\fs70\\an4\\pos(533#2C388)}Summary#3A Samsara wins 1st round of Glory Playoffs!{TODO TS background dots behind this line}"}
+Data: 55,a-mo,e{"uuid"#3A"b769355d-61ac-4ae3-9a43-7bb9eb39c781"#2C"originalText"#3A"{\\blur1\\fnSourceSans3Uniscribe Medium\\c&H6A6B65&\\fs106\\an4\\pos(533#2C285.5)}#23 Team Samsara places first! #23"}
+Data: 56,a-mo,e{"uuid"#3A"96b92d82-84fc-4f7f-b5ac-bb0edb20e51b"#2C"originalText"#3A"{\\c&HE6E9F0&\\3c&HE6EBEA&\\pos(1248#2C278)\\blur0.75\\fs40}."}
+Data: 57,a-mo,e{"uuid"#3A"53e6154a-ba86-4157-a228-67c50ba99167"#2C"originalText"#3A"{\\c&HE6E9F0&\\3c&HE6EBEA&\\pos(1248#2C252)\\blur0.75\\fs54}."}
+Data: 58,a-mo,e{"uuid"#3A"ad37965b-10f7-46d8-8b18-9d52357a3b6f"#2C"originalText"#3A"{\\c&HE8ECF0&\\3c&HE6EBEA&\\pos(1200#2C255)\\blur0.75\\fs40}."}
+Data: 59,a-mo,e{"uuid"#3A"0e9414f7-8256-409a-ab24-05b8f8607535"#2C"originalText"#3A"{\\c&HFAFDFF&\\an4\\pos(533#2C282)\\p1}m -9.37 107.38 l 981.76 107.38 981.76 157.01 -9.37 157.01"}
+Data: 60,a-mo,e{"uuid"#3A"d64f1302-d259-4ab0-a262-fe560f8dcb2b"#2C"originalText"#3A"{\\c&HFAFDFF&\\an4\\pos(533#2C282)\\p1}m -15.43 7.69 l 564.96 7.69 573.53 16.84 575.19 36.55 649.88 36.79 657.46 19.1 682.41 18.93 682.5 79.45 693.61 79.14 698.57 15.3 731.47 15.13 731.94 30.52 739.31 39.66 733.54 44.99 734.33 98.07 -15.43 97.5"}
