@@ -690,7 +690,9 @@ Dialogue: 0,0:13:20.90,0:13:22.52,Default,Ye Xiu,0,0,0,,Wanna join?
 Dialogue: 0,0:13:25.85,0:13:27.48,Default,Guys,0,0,0,,God Ye, I’ll join you.
 Dialogue: 0,0:13:27.48,0:13:28.35,Default,Guys,0,0,0,,Count me in.
 Dialogue: 0,0:13:28.35,0:13:29.60,Default,Guys,0,0,0,,Me too.
-Dialogue: 0,0:13:29.85,0:13:32.85,Top,,0,0,0,TS,[The Glory Canteen]{and more}
+Dialogue: 0,0:13:29.85,0:13:35.60,Sign,,0,0,0,,{\pos(604,130)\c&HFBFEFF&\p1}m 0 0 l 170 0 170 44 0 44
+Comment: 0,0:13:29.85,0:13:35.60,Chinese,,0,0,0,,{\an4\pos(523.5,128.25)\fs46}荣
+Dialogue: 0,0:13:29.85,0:13:35.60,Chat OSD,,0,0,0,,{\an4\pos(523.5,131.5)\c&H202020&\blur0.4}Glory Canteen
 Dialogue: 0,0:13:29.98,0:13:31.48,Default,Ye Xiu,0,0,0,,Here’s today’s plan for materials.
 Dialogue: 0,0:13:31.48,0:13:32.60,Default,Ye Xiu,0,0,0,,Please check.
 Dialogue: 0,0:13:32.60,0:13:35.48,Default,Ye Xiu et al.,0,0,0,,See you soon!
