@@ -5,385 +5,458 @@ ScriptType: v4.00+
 PlayResX: 1920
 PlayResY: 810
 ScaledBorderAndShadow: yes
-YCbCr Matrix: TV.709
+YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Audio File: [Vampire] The King's Avatar S3 - 06 (1080p HBR HEVC) [10DCD4C1].mkv
-Video File: [Vampire] The King's Avatar S3 - 06 (1080p HBR HEVC) [10DCD4C1].mkv
+Last Style Storage: Default
+Audio File: [Vampire] The King's Avatar S3 - 07 (1080p HBR HEVC) [AD40B762].mkv
+Video File: [Vampire] The King's Avatar S3 - 07 (1080p HBR HEVC) [AD40B762].mkv
 Video AR Mode: 4
 Video AR Value: 2.370370
+Video Zoom Percent: 0.500000
+Scroll Position: 153
+Active Line: 170
+Video Position: 11564
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.8125,0,2,50,50,28,1
+Style: Default,Arial,45,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0.75,2,50,50,71,1
+Style: OP,Averia Serif,49,&H00FFFFFF,&H00FFFFFF,&H008C7CAA,&H008C7CAA,-1,0,0,0,100,100,1,0,1,3,0.375,8,30,30,23,1
+Style: Default - Top,Arial,45,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0.75,8,50,50,94,1
+Style: Title,Baskerville Old Face,120,&H00721C2E,&H0000FFFF,&H00F5CE81,&H00FFFFFF,-1,-1,0,0,100,100,0,0,1,4,3,2,100,50,90,1
+Style: ED-07,Averia Serif,49,&H00FFFFFF,&H00FFFFFF,&H00714A3C,&H00714A3C,-1,0,0,0,100,100,1,0,1,3,0.375,3,30,25,700,1
+Style: TLC,Arial,45,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0.75,2,50,50,71,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:24.50,0:02:25.00,Default,,0,0,0,,小赵
-Dialogue: 0,0:02:25.33,0:02:26.45,Default,,0,0,0,,最近训练忙吗
-Dialogue: 0,0:02:27.33,0:02:28.95,Default,,0,0,0,,放假还在做练习呢
-Dialogue: 0,0:02:29.13,0:02:30.75,Default,,0,0,0,,不愧是最佳新人
-Dialogue: 0,0:02:33.92,0:02:35.46,Default,,0,0,0,,休赛期闲着也是闲着
-Dialogue: 0,0:02:35.79,0:02:37.16,Default,,0,0,0,,经理找我有什么事情吗
-Dialogue: 0,0:02:38.21,0:02:39.04,Default,,0,0,0,,没事
-Dialogue: 0,0:02:40.04,0:02:42.25,Default,,0,0,0,,就是最近网游里面的领主啊
-Dialogue: 0,0:02:42.42,0:02:43.67,Default,,0,0,0,,越来越难抢了
-Dialogue: 0,0:02:43.92,0:02:45.29,Default,,0,0,0,,大家都很愁啊
-Dialogue: 0,0:02:45.96,0:02:48.08,Default,,0,0,0,,网游领主有什么难抢的
-Dialogue: 0,0:02:48.48,0:02:49.25,Default,,0,0,0,,我来帮忙
-Dialogue: 0,0:02:54.58,0:02:55.75,Default,,0,0,0,,稳住领主仇恨
-Dialogue: 0,0:02:56.04,0:02:57.58,Default,,0,0,0,,不要让霸图的给抢了
-Dialogue: 0,0:02:58.58,0:03:00.04,Default,,0,0,0,,你说的可不算
-Dialogue: 0,0:03:07.67,0:03:08.54,Default,,0,0,0,,谁
-Dialogue: 0,0:03:10.29,0:03:11.62,Default,,0,0,0,,上面有个元素法师
-Dialogue: 0,0:03:14.58,0:03:15.62,Default,,0,0,0,,把他给我打下来
-Dialogue: 0,0:03:23.50,0:03:24.42,Default,,0,0,0,,赵大神
-Dialogue: 0,0:03:24.67,0:03:25.88,Default,,0,0,0,,是赵大神来了
-Dialogue: 0,0:03:26.63,0:03:27.59,Default,,0,0,0,,他是谁呀
-Dialogue: 0,0:03:27.88,0:03:29.38,Default,,0,0,0,,赵禹哲啊
-Dialogue: 0,0:03:29.63,0:03:31.25,Default,,0,0,0,,咱们呼啸战队的新人
-Dialogue: 0,0:03:33.08,0:03:35.20,Default,,0,0,0,,今年第一次上职业赛场
-Dialogue: 0,0:03:35.32,0:03:37.93,Default,,0,0,0,,就从众多职业战队新人中脱颖而出
-Dialogue: 0,0:03:38.08,0:03:39.95,Default,,0,0,0,,被评为本届的最佳新人
-Dialogue: 0,0:03:41.08,0:03:42.37,Default,,0,0,0,,最佳新人
-Dialogue: 0,0:03:42.96,0:03:44.42,Default,,0,0,0,,而且小道消息说
-Dialogue: 0,0:03:44.54,0:03:46.79,Default,,0,0,0,,今年林敬言可能要退役
-Dialogue: 0,0:03:47.75,0:03:49.08,Default,,0,0,0,,也不意外吧
-Dialogue: 0,0:03:49.46,0:03:50.50,Default,,0,0,0,,林队他
-Dialogue: 0,0:03:50.50,0:03:51.62,Default,,0,0,0,,年龄不小了
-Dialogue: 0,0:03:51.79,0:03:54.12,Default,,0,0,0,,全明星周末被新秀以下克上
-Dialogue: 0,0:03:54.42,0:03:55.71,Default,,0,0,0,,状态下滑得厉害
-Dialogue: 0,0:03:56.17,0:03:57.38,Default,,0,0,0,,而副队长方锐
-Dialogue: 0,0:03:57.46,0:03:59.25,Default,,0,0,0,,是上不了台面的猥琐流
-Dialogue: 0,0:03:59.71,0:04:00.75,Default,,0,0,0,,要我说啊
-Dialogue: 0,0:04:01.13,0:04:02.84,Default,,0,0,0,,呼啸未来的王牌选手
-Dialogue: 0,0:04:03.63,0:04:05.75,Default,,0,0,0,,还得看咱赵禹哲啊
-Dialogue: 0,0:04:08.88,0:04:10.92,Default,,0,0,0,,职业选手也来网游刷副本
-Dialogue: 0,0:04:10.92,0:04:12.13,Default,,0,0,0,,太耍赖了
-Dialogue: 0,0:04:16.08,0:04:16.95,Default,,0,0,0,,赵大神
-Dialogue: 0,0:04:17.47,0:04:18.22,Default,,0,0,0,,赵大神
-Dialogue: 0,0:04:18.25,0:04:19.71,Default,,0,0,0,,你真是太厉害了
-Dialogue: 0,0:04:20.75,0:04:21.25,Default,,0,0,0,,快快快
-Dialogue: 0,0:04:21.29,0:04:21.96,Default,,0,0,0,,骑士队的
-Dialogue: 0,0:04:21.96,0:04:22.96,Default,,0,0,0,,把领主仇恨拉好
-Dialogue: 0,0:04:22.96,0:04:23.75,Default,,0,0,0,,小意思
-Dialogue: 0,0:04:23.75,0:04:24.96,Default,,0,0,0,,你们只管打领主
-Dialogue: 0,0:04:24.96,0:04:26.08,Default,,0,0,0,,再有来抢领主的
-Dialogue: 0,0:04:26.13,0:04:26.71,Default,,0,0,0,,交给我
-Dialogue: 0,0:04:27.17,0:04:28.42,Default,,0,0,0,,那真是太好了
-Dialogue: 0,0:04:29.29,0:04:31.08,Default,,0,0,0,,其他公会的倒还好
-Dialogue: 0,0:04:31.92,0:04:32.50,Default,,0,0,0,,但是
-Dialogue: 0,0:04:32.52,0:04:33.95,Default,,0,0,0,,一定要小心四公会的
-Dialogue: 0,0:04:33.96,0:04:35.00,Default,,0,0,0,,四公会
-Dialogue: 0,0:04:35.08,0:04:35.91,Default,,0,0,0,,那是什么
-Dialogue: 0,0:04:35.96,0:04:36.98,Default,,0,0,0,,干掉就好了啊
-Dialogue: 0,0:04:37.00,0:04:38.96,Default,,0,0,0,,四公会就是义斩
-Dialogue: 0,0:04:38.96,0:04:39.58,Default,,0,0,0,,越云
-Dialogue: 0,0:04:39.58,0:04:40.62,Default,,0,0,0,,贺武和昭华
-Dialogue: 0,0:04:41.42,0:04:42.21,Default,,0,0,0,,只是
-Dialogue: 0,0:04:42.50,0:04:45.12,Default,,0,0,0,,那帮家伙有叶秋撑腰啊
-Dialogue: 0,0:04:45.25,0:04:46.37,Default,,0,0,0,,叶秋
-Dialogue: 0,0:04:47.33,0:04:49.45,Default,,0,0,0,,是一叶之秋的那个叶秋
-Dialogue: 0,0:04:52.43,0:04:53.50,Default,,0,0,0,,太惨了
-Dialogue: 0,0:04:54.42,0:04:56.38,Default,,0,0,0,,现在抢领主越来越难了
-Dialogue: 0,0:04:58.58,0:05:00.99,Default,,0,0,0,,大神不在根本拿不下来啊
-Dialogue: 0,0:05:05.04,0:05:06.04,Default,,0,0,0,,大神
-Dialogue: 0,0:05:06.71,0:05:07.32,Default,,0,0,0,,是我
-Dialogue: 0,0:05:08.75,0:05:09.87,Default,,0,0,0,,加你好友通过一下
-Dialogue: 0,0:05:11.33,0:05:12.83,Default,,0,0,0,,好破的装备
-Dialogue: 0,0:05:13.25,0:05:15.79,Default,,0,0,0,,大神今天怎么上了个牧师小号呀
-Dialogue: 0,0:05:17.04,0:05:19.12,Default,,0,0,0,,还不是因为最近太高调了嘛
-Dialogue: 0,0:05:19.50,0:05:22.08,Default,,0,0,0,,所以老大让我们都换成了小号
-Dialogue: 0,0:05:23.70,0:05:25.93,Default,,0,0,0,,猥琐啊
-Dialogue: 0,0:05:27.33,0:05:28.54,Default,,0,0,0,,下午好啊
-Dialogue: 0,0:05:37.75,0:05:38.75,Default,,0,0,0,,什么啊
-Dialogue: 0,0:05:38.88,0:05:40.38,Default,,0,0,0,,那帮土匪又来了
-Dialogue: 0,0:05:42.32,0:05:43.30,Default,,0,0,0,,等等
-Dialogue: 0,0:05:43.46,0:05:44.29,Default,,0,0,0,,大神小心
-Dialogue: 0,0:05:44.92,0:05:46.09,Default,,0,0,0,,虽然没看见
-Dialogue: 0,0:05:46.33,0:05:47.16,Default,,0,0,0,,但是叶秋
-Dialogue: 0,0:05:47.17,0:05:48.17,Default,,0,0,0,,可能就混在里面
-Dialogue: 0,0:05:49.92,0:05:52.46,Default,,0,0,0,,没想到刷副本还能遇见老前辈
-Dialogue: 0,0:05:52.63,0:05:54.00,Default,,0,0,0,,这机会可不多见
-Dialogue: 0,0:05:54.71,0:05:56.50,Default,,0,0,0,,也不知道他退役那么久
-Dialogue: 0,0:05:56.50,0:05:57.71,Default,,0,0,0,,还是不是我的对手
-Dialogue: 0,0:06:00.20,0:06:00.87,Default,,0,0,0,,等等
-Dialogue: 0,0:06:00.92,0:06:01.51,Default,,0,0,0,,这
-Dialogue: 0,0:06:08.25,0:06:09.29,Default,,0,0,0,,越云顶住
-Dialogue: 0,0:06:09.50,0:06:10.87,Default,,0,0,0,,义斩贺武集火领主
-Dialogue: 0,0:06:12.79,0:06:13.96,Default,,0,0,0,,后方输出不要停
-Dialogue: 0,0:06:16.42,0:06:17.58,Default,,0,0,0,,叶秋
-Dialogue: 0,0:06:20.92,0:06:21.92,Default,,0,0,0,,你出来
-Dialogue: 0,0:06:22.42,0:06:23.84,Default,,0,0,0,,我要和你决斗
-Dialogue: 0,0:06:24.08,0:06:25.54,Default,,0,0,0,,叶秋出来和我交手
-Dialogue: 0,0:06:26.23,0:06:27.06,Default,,0,0,0,,大神
-Dialogue: 0,0:06:27.08,0:06:28.04,Default,,0,0,0,,有人叫你呢
-Dialogue: 0,0:06:30.58,0:06:31.62,Default,,0,0,0,,我们是杀来领主的
-Dialogue: 0,0:06:32.33,0:06:33.50,Default,,0,0,0,,都集中点注意力
-Dialogue: 0,0:06:34.08,0:06:35.79,Default,,0,0,0,,你们管那神经病叫什么呢
-Dialogue: 0,0:06:40.25,0:06:41.04,Default,,0,0,0,,治疗跟上
-Dialogue: 0,0:06:41.88,0:06:43.00,Default,,0,0,0,,昭华接替贺武
-Dialogue: 0,0:06:43.08,0:06:44.33,Default,,0,0,0,,无视我
-Dialogue: 0,0:06:44.79,0:06:45.75,Default,,0,0,0,,有我在
-Dialogue: 0,0:06:45.75,0:06:46.92,Default,,0,0,0,,别想抢领主
-Dialogue: 0,0:06:49.42,0:06:50.13,Default,,0,0,0,,叶秋
-Dialogue: 0,0:06:50.25,0:06:50.96,Default,,0,0,0,,出来
-Dialogue: 0,0:06:51.35,0:06:51.98,Default,,0,0,0,,出来
-Dialogue: 0,0:06:52.13,0:06:52.96,Default,,0,0,0,,我们决斗
-Dialogue: 0,0:06:54.08,0:06:55.00,Default,,0,0,0,,这人谁啊
-Dialogue: 0,0:06:55.00,0:06:55.92,Default,,0,0,0,,不知道
-Dialogue: 0,0:06:56.29,0:06:57.08,Default,,0,0,0,,不认识
-Dialogue: 0,0:06:57.38,0:06:58.25,Default,,0,0,0,,水平不错
-Dialogue: 0,0:07:02.25,0:07:03.58,Default,,0,0,0,,没见识了吧
-Dialogue: 0,0:07:03.75,0:07:06.42,Default,,0,0,0,,这可是我们呼啸战队的职业选手
-Dialogue: 0,0:07:06.54,0:07:07.71,Default,,0,0,0,,最佳新人
-Dialogue: 0,0:07:07.71,0:07:08.88,Default,,0,0,0,,赵禹暂大神
-Dialogue: 0,0:07:11.46,0:07:13.00,Default,,0,0,0,,纠缠不休的小孩
-Dialogue: 0,0:07:13.29,0:07:14.04,Default,,0,0,0,,干掉吧
-Dialogue: 0,0:07:16.19,0:07:16.88,Default,,0,0,0,,大神
-Dialogue: 0,0:07:16.88,0:07:17.88,Default,,0,0,0,,你要出手了吗
-Dialogue: 0,0:07:18.42,0:07:19.25,Default,,0,0,0,,当然不
-Dialogue: 0,0:07:21.96,0:07:23.46,Default,,0,0,0,,现在我可是奶妈
-Dialogue: 0,0:07:23.79,0:07:25.00,Default,,0,0,0,,是需要保护的存在
-Dialogue: 0,0:07:25.38,0:07:26.67,Default,,0,0,0,,所以应战这种事
-Dialogue: 0,0:07:27.50,0:07:28.50,Default,,0,0,0,,得你们去
-Dialogue: 0,0:07:30.33,0:07:31.58,Default,,0,0,0,,那可是职业选手啊
-Dialogue: 0,0:07:31.92,0:07:32.92,Default,,0,0,0,,我们打得过吗
-Dialogue: 0,0:07:32.96,0:07:33.50,Default,,0,0,0,,怕什么
-Dialogue: 0,0:07:35.21,0:07:36.42,Default,,0,0,0,,现在他跑过来
-Dialogue: 0,0:07:36.59,0:07:38.33,Default,,0,0,0,,我们正好人多欺负人少
-Dialogue: 0,0:07:39.17,0:07:40.00,Default,,0,0,0,,也对
-Dialogue: 0,0:07:42.51,0:07:44.04,Default,,0,0,0,,一群杂鱼
-Dialogue: 0,0:07:58.83,0:08:00.25,Default,,0,0,0,,好快的手速
-Dialogue: 0,0:08:09.42,0:08:10.12,Default,,0,0,0,,快
-Dialogue: 0,0:08:10.25,0:08:11.71,Default,,0,0,0,,趁现在集火领主
-Dialogue: 0,0:08:14.19,0:08:14.96,Default,,0,0,0,,好
-Dialogue: 0,0:08:15.08,0:08:16.08,Default,,0,0,0,,漂亮
-Dialogue: 0,0:08:16.60,0:08:17.71,Default,,0,0,0,,捣乱的干掉了
-Dialogue: 0,0:08:17.96,0:08:19.17,Default,,0,0,0,,领主也抢到了
-Dialogue: 0,0:08:25.80,0:08:27.25,Default,,0,0,0,,一身都是橙装
-Dialogue: 0,0:08:27.29,0:08:28.00,Default,,0,0,0,,不错不错
-Dialogue: 0,0:08:28.00,0:08:29.29,Default,,0,0,0,,叶秋
-Dialogue: 0,0:08:29.33,0:08:30.62,Default,,0,0,0,,有种你别走
-Dialogue: 0,0:08:31.21,0:08:32.38,Default,,0,0,0,,牛啊
-Dialogue: 0,0:08:32.38,0:08:33.17,Default,,0,0,0,,有大神在
-Dialogue: 0,0:08:33.17,0:08:34.25,Default,,0,0,0,,材料管够了
-Dialogue: 0,0:08:36.21,0:08:36.96,Default,,0,0,0,,快看
-Dialogue: 0,0:08:37.33,0:08:38.58,Default,,0,0,0,,那家伙复活了
-Dialogue: 0,0:08:39.38,0:08:40.25,Default,,0,0,0,,小赵啊
-Dialogue: 0,0:08:40.75,0:08:42.04,Default,,0,0,0,,领主已经被杀掉了
-Dialogue: 0,0:08:42.67,0:08:43.84,Default,,0,0,0,,你没看公告吗
-Dialogue: 0,0:08:44.19,0:08:45.46,Default,,0,0,0,,下次加油吧
-Dialogue: 0,0:08:46.54,0:08:47.71,Default,,0,0,0,,我不是来找领主的
-Dialogue: 0,0:08:48.64,0:08:49.91,Default,,0,0,0,,我是来挑战你们的
-Dialogue: 0,0:08:50.29,0:08:51.66,Default,,0,0,0,,我要一个打十个
-Dialogue: 0,0:08:53.14,0:08:53.75,Default,,0,0,0,,哦
-Dialogue: 0,0:08:54.58,0:08:56.33,Default,,0,0,0,,看来刚才死得不服气啊
-Dialogue: 0,0:08:57.18,0:08:58.54,Default,,0,0,0,,你们刚刚趁我不备
-Dialogue: 0,0:08:58.63,0:08:59.46,Default,,0,0,0,,不讲武德
-Dialogue: 0,0:09:00.34,0:09:01.00,Default,,0,0,0,,再来
-Dialogue: 0,0:09:02.92,0:09:04.34,Default,,0,0,0,,十个太少了吧
-Dialogue: 0,0:09:04.50,0:09:06.04,Default,,0,0,0,,直接一百个怎么样
-Dialogue: 0,0:09:09.09,0:09:10.09,Default,,0,0,0,,你
-Dialogue: 0,0:09:10.54,0:09:11.83,Default,,0,0,0,,开玩笑吧你
-Dialogue: 0,0:09:13.42,0:09:14.38,Default,,0,0,0,,你要是不敢
-Dialogue: 0,0:09:14.59,0:09:15.79,Default,,0,0,0,,那就是个玩笑吧
-Dialogue: 0,0:09:16.76,0:09:17.67,Default,,0,0,0,,你要敢呢
-Dialogue: 0,0:09:18.22,0:09:19.04,Default,,0,0,0,,没什么不敢
-Dialogue: 0,0:09:20.51,0:09:21.54,Default,,0,0,0,,但这样的胜负
-Dialogue: 0,0:09:21.76,0:09:22.97,Default,,0,0,0,,你觉得有什么意义吗
-Dialogue: 0,0:09:23.79,0:09:25.00,Default,,0,0,0,,有意义啊
-Dialogue: 0,0:09:26.42,0:09:28.54,Default,,0,0,0,,我看你这身装备还不错
-Dialogue: 0,0:09:30.29,0:09:32.04,Default,,0,0,0,,呼啸不愧是大俱乐部啊
-Dialogue: 0,0:09:32.35,0:09:34.92,Default,,0,0,0,,这一身可比副本领主还要好
-Dialogue: 0,0:09:36.29,0:09:38.62,Default,,0,0,0,,敢情你把我也当领主爆吗
-Dialogue: 0,0:09:38.75,0:09:40.04,Default,,0,0,0,,出橙装概率
-Dialogue: 0,0:09:40.25,0:09:41.30,Default,,0,0,0,,百分之百
-Dialogue: 0,0:09:41.54,0:09:43.04,Default,,0,0,0,,你可太给力了
-Dialogue: 0,0:09:47.23,0:09:48.38,Default,,0,0,0,,等等
-Dialogue: 0,0:10:04.83,0:10:06.58,Default,,0,0,0,,最近野图领主大丰收
-Dialogue: 0,0:10:06.84,0:10:07.63,Default,,0,0,0,,怎么样
-Dialogue: 0,0:10:07.70,0:10:08.90,Default,,0,0,0,,千机伞可以提升了吗
-Dialogue: 0,0:10:09.39,0:10:10.66,Default,,0,0,0,,普通材料齐活了
-Dialogue: 0,0:10:11.19,0:10:12.59,Default,,0,0,0,,稀有材料
-Dialogue: 0,0:10:12.62,0:10:14.13,Default,,0,0,0,,还差一个铁浮磷
-Dialogue: 0,0:10:15.20,0:10:16.02,Default,,0,0,0,,大神
-Dialogue: 0,0:10:16.04,0:10:17.66,Default,,0,0,0,,红带嘉纳刷新了
-Dialogue: 0,0:10:18.92,0:10:20.38,Default,,0,0,0,,红带嘉纳
-Dialogue: 0,0:10:21.56,0:10:23.04,Default,,0,0,0,,想什么来什么
-Dialogue: 0,0:10:24.01,0:10:24.75,Default,,0,0,0,,收到
-Dialogue: 0,0:10:24.89,0:10:26.09,Default,,0,0,0,,正好有需求
-Dialogue: 0,0:10:27.82,0:10:29.14,Default,,0,0,0,,等一下其他公会就来了
-Dialogue: 0,0:10:29.42,0:10:30.42,Default,,0,0,0,,我们赶快过去
-Dialogue: 0,0:10:32.15,0:10:33.21,Default,,0,0,0,,大神
-Dialogue: 0,0:10:33.25,0:10:35.75,Default,,0,0,0,,有一个蓝溪阁的剑客突然冒出来
-Dialogue: 0,0:10:35.77,0:10:37.68,Default,,0,0,0,,十几秒就把我们干掉了
-Dialogue: 0,0:10:38.43,0:10:39.05,Default,,0,0,0,,什么
-Dialogue: 0,0:10:39.29,0:10:40.29,Default,,0,0,0,,这么快
-Dialogue: 0,0:10:40.33,0:10:41.70,Default,,0,0,0,,你们几个技术不差呀
-Dialogue: 0,0:10:44.09,0:10:45.21,Default,,0,0,0,,难道是黄少天
-Dialogue: 0,0:10:46.52,0:10:47.58,Default,,0,0,0,,应该不是
-Dialogue: 0,0:10:47.68,0:10:49.14,Default,,0,0,0,,对方一直没有说话
-Dialogue: 0,0:10:58.14,0:10:59.37,Default,,0,0,0,,黄少天前辈
-Dialogue: 0,0:10:59.38,0:11:01.05,Default,,0,0,0,,为什么突然让我来网游里玩
-Dialogue: 0,0:11:01.25,0:11:02.46,Default,,0,0,0,,现在各公会
-Dialogue: 0,0:11:02.46,0:11:04.71,Default,,0,0,0,,都派了职业选手到网游里抢领主
-Dialogue: 0,0:11:05.54,0:11:07.16,Default,,0,0,0,,咱们蓝溪阁压力很大
-Dialogue: 0,0:11:07.42,0:11:08.13,Default,,0,0,0,,所以
-Dialogue: 0,0:11:08.13,0:11:09.42,Default,,0,0,0,,只好向你们求助啦
-Dialogue: 0,0:11:10.54,0:11:11.96,Default,,0,0,0,,职业选手
-Dialogue: 0,0:11:12.89,0:11:14.33,Default,,0,0,0,,我去找他们切碳一下
-Dialogue: 0,0:11:16.09,0:11:17.00,Default,,0,0,0,,你慢点儿
-Dialogue: 0,0:11:25.46,0:11:27.08,Default,,0,0,0,,怎么这么快就进来了
-Dialogue: 0,0:11:27.68,0:11:29.08,Default,,0,0,0,,卢瀚文没有拦住吗
-Dialogue: 0,0:11:30.75,0:11:32.00,Default,,0,0,0,,好热闹
-Dialogue: 0,0:11:32.75,0:11:33.75,Default,,0,0,0,,蓝溪阁
-Dialogue: 0,0:11:33.79,0:11:34.66,Default,,0,0,0,,霸图
-Dialogue: 0,0:11:35.68,0:11:38.50,Default,,0,0,0,,跑来打网游的职业选手真是越来越多了
-Dialogue: 0,0:11:39.93,0:11:41.25,Default,,0,0,0,,职业选手
-Dialogue: 0,0:11:42.22,0:11:44.33,Default,,0,0,0,,你看霸图会长旁边那个牧师
-Dialogue: 0,0:11:45.04,0:11:46.96,Default,,0,0,0,,他选择的站位十分精准
-Dialogue: 0,0:11:47.25,0:11:48.08,Default,,0,0,0,,我猜
-Dialogue: 0,0:11:48.11,0:11:49.32,Default,,0,0,0,,是张新杰来着
-Dialogue: 0,0:11:50.43,0:11:52.46,Default,,0,0,0,,战术大师张新杰
-Dialogue: 0,0:11:53.18,0:11:55.62,Default,,0,0,0,,现在职业选手都这么拼的吗
-Dialogue: 0,0:11:55.81,0:11:57.91,Default,,0,0,0,,55级领主也来抢
-Dialogue: 0,0:11:58.63,0:12:00.33,Default,,0,0,0,,如果他们经常上线
-Dialogue: 0,0:12:00.50,0:12:02.12,Default,,0,0,0,,那倒是可以练练队伍
-Dialogue: 0,0:12:04.13,0:12:06.00,Default,,0,0,0,,张新杰你真够可以的
-Dialogue: 0,0:12:06.56,0:12:08.96,Default,,0,0,0,,55 级的野图领主也要你来带队抢啊
-Dialogue: 0,0:12:09.39,0:12:11.87,Default,,0,0,0,,给不给我们这些贫民一点活路了
-Dialogue: 0,0:12:14.29,0:12:15.21,Default,,0,0,0,,有需求
-Dialogue: 0,0:12:15.58,0:12:16.58,Default,,0,0,0,,对方是叶秋
-Dialogue: 0,0:12:19.23,0:12:19.77,Default,,0,0,0,,嗯
-Dialogue: 0,0:12:20.35,0:12:21.54,Default,,0,0,0,,这边的需求
-Dialogue: 0,0:12:22.21,0:12:24.00,Default,,0,0,0,,是老韩要换装备了
-Dialogue: 0,0:12:25.92,0:12:26.84,Default,,0,0,0,,各团注意
-Dialogue: 0,0:12:27.21,0:12:29.21,Default,,0,0,0,,随时给我注意霸气雄图的动向
-Dialogue: 0,0:12:29.75,0:12:30.71,Default,,0,0,0,,战队机密
-Dialogue: 0,0:12:30.89,0:12:32.10,Default,,0,0,0,,所有人听我指示
-Dialogue: 0,0:12:32.43,0:12:33.54,Default,,0,0,0,,精英团抢领主仇恨
-Dialogue: 0,0:12:33.93,0:12:34.61,Default,,0,0,0,,是
-Dialogue: 0,0:12:36.80,0:12:37.59,Default,,0,0,0,,其他人
-Dialogue: 0,0:12:37.86,0:12:38.71,Default,,0,0,0,,防守阵型
-Dialogue: 0,0:12:40.08,0:12:41.29,Default,,0,0,0,,霸图要牵走领主
-Dialogue: 0,0:12:41.54,0:12:42.79,Default,,0,0,0,,四个团一起冲
-Dialogue: 0,0:12:42.88,0:12:44.25,Default,,0,0,0,,冲破他们的防御阵型
-Dialogue: 0,0:12:48.54,0:12:49.29,Default,,0,0,0,,等等
-Dialogue: 0,0:12:49.64,0:12:50.33,Default,,0,0,0,,这领主
-Dialogue: 0,0:12:50.33,0:12:52.04,Default,,0,0,0,,不是我们蓝溪阁最先发现的吗
-Dialogue: 0,0:12:52.30,0:12:54.00,Default,,0,0,0,,有职业选手了不起呀
-Dialogue: 0,0:12:55.49,0:12:56.13,Default,,0,0,0,,小卢
-Dialogue: 0,0:12:56.35,0:12:57.29,Default,,0,0,0,,你在哪里
-Dialogue: 0,0:12:57.32,0:12:58.65,Default,,0,0,0,,我刚遇到了叶秋前辈
-Dialogue: 0,0:12:58.67,0:12:59.96,Default,,0,0,0,,但是没能拦住他们
-Dialogue: 0,0:12:59.96,0:13:01.71,Default,,0,0,0,,还被几个骑士拴住了
-Dialogue: 0,0:13:04.01,0:13:05.22,Default,,0,0,0,,拴住了
-Dialogue: 0,0:13:05.65,0:13:07.55,Default,,0,0,0,,是在说骑士的控制技能吗
-Dialogue: 0,0:13:13.14,0:13:13.79,Default,,0,0,0,,你们几个
-Dialogue: 0,0:13:13.88,0:13:14.96,Default,,0,0,0,,去救一下小卢
-Dialogue: 0,0:13:16.32,0:13:17.71,Default,,0,0,0,,只靠线上部署
-Dialogue: 0,0:13:17.94,0:13:19.96,Default,,0,0,0,,始终赶不上霸图支援的速度啊
-Dialogue: 0,0:13:20.85,0:13:21.38,Default,,0,0,0,,包子
-Dialogue: 0,0:13:21.40,0:13:21.91,Default,,0,0,0,,小唐
-Dialogue: 0,0:13:22.11,0:13:22.56,Default,,0,0,0,,一帆
-Dialogue: 0,0:13:22.63,0:13:23.21,Default,,0,0,0,,小手儿
-Dialogue: 0,0:13:24.58,0:13:25.75,Default,,0,0,0,,还有斩楼兰你们几个
-Dialogue: 0,0:13:25.93,0:13:26.66,Default,,0,0,0,,跟我来
-Dialogue: 0,0:13:27.98,0:13:28.96,Default,,0,0,0,,枪炮师开路
-Dialogue: 0,0:13:38.44,0:13:38.91,Default,,0,0,0,,等等
-Dialogue: 0,0:13:43.33,0:13:45.50,Default,,0,0,0,,张新杰你太狡诈了
-Dialogue: 0,0:13:46.50,0:13:48.46,Default,,0,0,0,,想引蓝溪阁来对付我们
-Dialogue: 0,0:13:49.46,0:13:49.96,Default,,0,0,0,,包围
-Dialogue: 0,0:13:51.63,0:13:52.42,Default,,0,0,0,,撤
-Dialogue: 0,0:14:02.17,0:14:03.21,Default,,0,0,0,,我来了
-Dialogue: 0,0:14:07.08,0:14:08.29,Default,,0,0,0,,这么快就脱困了
-Dialogue: 0,0:14:08.60,0:14:09.43,Default,,0,0,0,,少年
-Dialogue: 0,0:14:09.67,0:14:10.79,Default,,0,0,0,,你太有前途了
-Dialogue: 0,0:14:11.06,0:14:13.33,Default,,0,0,0,,是叶秋前辈
-Dialogue: 0,0:14:14.52,0:14:16.12,Default,,0,0,0,,材料有戏了
-Dialogue: 0,0:14:17.06,0:14:18.84,Default,,0,0,0,,想要替蓝溪阁拿下领主吗
-Dialogue: 0,0:14:19.31,0:14:20.08,Default,,0,0,0,,看那边
-Dialogue: 0,0:14:20.08,0:14:22.00,Default,,0,0,0,,霸图带队的可是张新杰
-Dialogue: 0,0:14:22.04,0:14:22.71,Default,,0,0,0,,认识吧
-Dialogue: 0,0:14:22.75,0:14:24.33,Default,,0,0,0,,张新杰前辈
-Dialogue: 0,0:14:25.24,0:14:27.46,Default,,0,0,0,,那我可要使出全力了
-Dialogue: 0,0:14:29.85,0:14:30.96,Default,,0,0,0,,6 个身影
-Dialogue: 0,0:14:32.10,0:14:34.00,Default,,0,0,0,,竟然一眼分不出真假
-Dialogue: 0,0:14:35.57,0:14:36.63,Default,,0,0,0,,这小鬼
-Dialogue: 0,0:14:36.93,0:14:38.13,Default,,0,0,0,,有前途
-Dialogue: 0,0:14:39.09,0:14:40.37,Default,,0,0,0,,多重剑影步
-Dialogue: 0,0:14:40.42,0:14:42.25,Default,,0,0,0,,蓝溪阁请来了黄少天
-Dialogue: 0,0:14:42.98,0:14:43.81,Default,,0,0,0,,话太少
-Dialogue: 0,0:14:43.83,0:14:44.62,Default,,0,0,0,,不是他
-Dialogue: 0,0:14:47.29,0:14:48.75,Default,,0,0,0,,这是什么人
-Dialogue: 0,0:14:50.89,0:14:51.83,Default,,0,0,0,,小卢进队
-Dialogue: 0,0:14:52.50,0:14:53.46,Default,,0,0,0,,我给你治疗
-Dialogue: 0,0:15:10.96,0:15:12.50,Default,,0,0,0,,前辈治疗好差
-Dialogue: 0,0:15:13.63,0:15:14.84,Default,,0,0,0,,这装备不行
-Dialogue: 0,0:15:15.00,0:15:16.25,Default,,0,0,0,,你凑合一下
-Dialogue: 0,0:15:16.67,0:15:17.50,Default,,0,0,0,,小卢
-Dialogue: 0,0:15:17.50,0:15:18.62,Default,,0,0,0,,我们掩护你
-Dialogue: 0,0:15:18.84,0:15:20.50,Default,,0,0,0,,你快去激发领主暴走
-Dialogue: 0,0:15:21.00,0:15:21.96,Default,,0,0,0,,为什么
-Dialogue: 0,0:15:22.75,0:15:23.42,Default,,0,0,0,,不要犹豫
-Dialogue: 0,0:15:23.42,0:15:24.42,Default,,0,0,0,,你可以做到的
-Dialogue: 0,0:15:42.27,0:15:42.92,Default,,0,0,0,,不好
-Dialogue: 0,0:15:43.18,0:15:44.21,Default,,0,0,0,,领主要暴走了
-Dialogue: 0,0:15:45.52,0:15:46.79,Default,,0,0,0,,干掉那个剑客
-Dialogue: 0,0:15:48.90,0:15:49.35,Default,,0,0,0,,小卢
-Dialogue: 0,0:15:49.38,0:15:49.88,Default,,0,0,0,,别动
-Dialogue: 0,0:15:54.85,0:15:56.29,Default,,0,0,0,,又被栓住了
-Dialogue: 0,0:15:57.07,0:15:58.17,Default,,0,0,0,,我故意的
-Dialogue: 0,0:15:58.64,0:15:59.71,Default,,0,0,0,,领主暴走了
-Dialogue: 0,0:15:59.71,0:16:00.50,Default,,0,0,0,,先撤
-Dialogue: 0,0:16:01.05,0:16:02.01,Default,,0,0,0,,什么
-Dialogue: 0,0:16:02.30,0:16:04.00,Default,,0,0,0,,居然这么没义气
-Dialogue: 0,0:16:04.00,0:16:04.96,Default,,0,0,0,,别忘了
-Dialogue: 0,0:16:05.19,0:16:06.42,Default,,0,0,0,,我们也是对手
-Dialogue: 0,0:16:10.08,0:16:11.70,Default,,0,0,0,,你至少告诉我
-Dialogue: 0,0:16:11.71,0:16:13.75,Default,,0,0,0,,他的暴走技能是什么呀
-Dialogue: 0,0:16:13.92,0:16:15.17,Default,,0,0,0,,没时间了
-Dialogue: 0,0:16:15.17,0:16:16.92,Default,,0,0,0,,你自己查攻略吧
-Dialogue: 0,0:16:19.04,0:16:20.00,Default,,0,0,0,,全体避让
-Dialogue: 0,0:16:20.00,0:16:21.08,Default,,0,0,0,,越远越好
-Dialogue: 0,0:16:32.59,0:16:34.17,Default,,0,0,0,,我挂了
-Dialogue: 0,0:16:36.40,0:16:38.00,Default,,0,0,0,,没躲过领主大招
-Dialogue: 0,0:16:38.76,0:16:40.22,Default,,0,0,0,,被叶秋算计了
-Dialogue: 0,0:16:40.50,0:16:42.50,Default,,0,0,0,,领主的暴走是被我触发的
-Dialogue: 0,0:16:44.55,0:16:45.37,Default,,0,0,0,,放心吧
-Dialogue: 0,0:16:45.50,0:16:46.58,Default,,0,0,0,,你不会白死的
-Dialogue: 0,0:16:46.84,0:16:48.00,Default,,0,0,0,,激活领主暴走
-Dialogue: 0,0:16:48.03,0:16:49.51,Default,,0,0,0,,可以制造出大量仇恨
-Dialogue: 0,0:16:49.63,0:16:50.75,Default,,0,0,0,,这个领主
-Dialogue: 0,0:16:51.09,0:16:52.54,Default,,0,0,0,,会被我们拿下的
-Dialogue: 0,0:16:52.93,0:16:53.95,Default,,0,0,0,,那就好
-Dialogue: 0,0:16:57.10,0:16:58.00,Default,,0,0,0,,怎么
-Dialogue: 0,0:16:59.93,0:17:02.25,Default,,0,0,0,,我激活领主暴走的时候
-Dialogue: 0,0:17:02.25,0:17:04.65,Default,,0,0,0,,被叶秋叫到他们队里去了
-Dialogue: 0,0:17:04.71,0:17:06.75,Default,,0,0,0,,说是可以给我刷血
-Dialogue: 0,0:17:08.02,0:17:11.27,Default,,0,0,0,,这个骗子
-Dialogue: 0,0:17:20.14,0:17:20.84,Default,,0,0,0,,等等
-Dialogue: 0,0:17:21.56,0:17:24.17,Default,,0,0,0,,为什么是叶秋他们接手了领主暴走仇恨
-Dialogue: 0,0:17:25.56,0:17:27.13,Default,,0,0,0,,马上又要触发暴走了
-Dialogue: 0,0:17:27.13,0:17:28.13,Default,,0,0,0,,小心一点
-Dialogue: 0,0:17:28.38,0:17:29.42,Default,,0,0,0,,快看
-Dialogue: 0,0:17:32.43,0:17:33.96,Default,,0,0,0,,四公会的骑士
-Dialogue: 0,0:17:34.64,0:17:36.33,Default,,0,0,0,,休想从这里过去
-Dialogue: 0,0:17:38.58,0:17:39.04,Default,,0,0,0,,不好
-Dialogue: 0,0:17:39.48,0:17:40.75,Default,,0,0,0,,击杀那个骑士
-Dialogue: 0,0:17:46.09,0:17:47.39,Default,,0,0,0,,挑衅
-Dialogue: 0,0:17:51.33,0:17:52.20,Default,,0,0,0,,开火
-Dialogue: 0,0:17:56.86,0:17:57.68,Default,,0,0,0,,不好
-Dialogue: 0,0:17:57.71,0:17:58.92,Default,,0,0,0,,暴走了
-Dialogue: 0,0:18:05.43,0:18:05.91,Default,,0,0,0,,谢了
-Dialogue: 0,0:18:05.92,0:18:06.59,Default,,0,0,0,,张副队
-Dialogue: 0,0:18:06.89,0:18:09.17,Default,,0,0,0,,回去代我问老韩同志好哦
-Dialogue: 0,0:18:09.38,0:18:10.58,Default,,0,0,0,,不客气
-Dialogue: 0,0:18:11.54,0:18:13.12,Default,,0,0,0,,恭喜兴欣公会
-Dialogue: 0,0:18:13.15,0:18:14.64,Default,,0,0,0,,成功击杀领主
-Dialogue: 0,0:18:14.67,0:18:15.80,Default,,0,0,0,,红带嘉纳
-Dialogue: 0,0:18:16.38,0:18:18.75,Default,,0,0,0,,最后一个铁浮磷也到手了
-Dialogue: 0,0:18:18.83,0:18:20.25,Default,,0,0,0,,材料齐活
-Dialogue: 0,0:18:21.31,0:18:22.13,Default,,0,0,0,,接下来
-Dialogue: 0,0:18:22.71,0:18:24.41,Default,,0,0,0,,我要提升千机伞了
+Dialogue: 0,0:00:02.69,0:00:05.98,Default - Top,,0,0,0,,Online Drama Distribution License\N(Shanghai) Online Content Review No. 045 (2023)\NIssuing Authority: Shanghai Municipal Radio and Television Bureau{\b1}
+Dialogue: 0,0:00:06.56,0:00:10.52,Default - Top,,0,0,0,,Produced by Tencent Video
+Dialogue: 0,0:00:21.48,0:00:25.56,Title,,0,0,0,,The King's Avatar\NLet great stories live on forever
+Dialogue: 0,0:00:30.60,0:00:31.60,Default,,0,0,0,,Adapted from the novel "The King's Avatar" by Butterfly Blue, an author of Yuewen Group's Qidian Reading.\NOriginal reading platform: {logo:}Qidian Qidian Reading
+Dialogue: 0,0:00:31.60,0:00:32.60,Default,,0,0,0,,{\c&H00FFFF&}This work is adapted from the original novel The King's Avatar by Yuewen Group. All characters, visuals, videos, music, and other elements in the series are the intellectual property of Shanghai Yuewen Film & Television Culture Communication Co., Ltd.\N\NNo individual, organization, or institution may reproduce, modify, record, edit, or use any part of this work in any form without prior written authorization from Yuewen. Any infringement will be pursued to the fullest extent of the law, and violators will be held legally accountable and liable for all resulting economic losses.
+Dialogue: 0,0:01:51.97,0:01:53.14,Title,,0,0,0,,{\pos(1362,716)}The King’s Avatar S3
+Dialogue: 0,0:00:39.64,0:00:42.64,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}It's just starting over again, from the beginning
+Dialogue: 0,0:00:43.39,0:00:46.39,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}The fire of our dreams\Nit illuminating the present
+Dialogue: 0,0:00:46.68,0:00:49.43,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Our passion and resolve\Nremain unchanged
+Dialogue: 0,0:00:49.43,0:00:51.56,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Eagerly looking forward {changed comparing to S4 -- Lynx}
+Dialogue: 0,0:00:53.64,0:00:55.85,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}The journey to the summit begins\Nwith anticipation
+Dialogue: 0,0:00:55.85,0:00:57.56,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Believe, and you will surely overcome every difficulty {changed comparing to S4 --Lynx}
+Dialogue: 0,0:00:57.56,0:00:59.22,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Teamwork has slowly become our habit
+Dialogue: 0,0:01:00.89,0:01:02.97,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Myriad of opportunities\Ngathered under one umbrella
+Dialogue: 0,0:01:02.97,0:01:04.56,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Our skills leave people amazed
+Dialogue: 0,0:01:04.56,0:01:06.31,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}See you there this season
+Dialogue: 0,0:01:07.97,0:01:11.85,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Whether the ending is\Nperfect or not, I call the shots
+Dialogue: 0,0:01:11.85,0:01:15.02,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Enjoying the competition
+Dialogue: 0,0:01:15.02,0:01:18.93,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Chasing after the future in my heart
+Dialogue: 0,0:01:22.06,0:01:24.27,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}I am going against the wind
+Dialogue: 0,0:01:24.27,0:01:25.81,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Lie drunk on the battlefield
+Dialogue: 0,0:01:25.81,0:01:27.06,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Fingertips flying
+Dialogue: 0,0:01:27.06,0:01:29.14,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}The flow of the match ever-changing
+Dialogue: 0,0:01:29.14,0:01:31.31,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Seizing the control\Nof the field in an instant
+Dialogue: 0,0:01:31.31,0:01:33.93,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Confusion in the myriad changes
+Dialogue: 0,0:01:33.93,0:01:36.02,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Victory and defeat are in my hands
+Dialogue: 0,0:01:36.02,0:01:38.52,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}My favourite part is when it gets difficult
+Dialogue: 0,0:01:38.52,0:01:39.97,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Be straightforward
+Dialogue: 0,0:01:39.97,0:01:41.31,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Climb through the thorns
+Dialogue: 0,0:01:41.31,0:01:43.02,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Light up the fire in your heart
+Dialogue: 0,0:01:43.02,0:01:45.31,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Soon, the glory will bloom
+Dialogue: 0,0:01:45.31,0:01:48.06,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Spread your wings and fly
+Dialogue: 0,0:01:48.06,0:01:50.39,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}No one can make me stop
+Dialogue: 0,0:02:13.06,0:02:14.22,Default,,0,0,0,,Captain Xiao.
+Dialogue: 0,0:02:17.39,0:02:18.02,Default,,0,0,0,,Good morning!
+Dialogue: 0,0:02:18.14,0:02:19.31,Default,,0,0,0,,[Excellent Era]\NAre you going home for the holiday?
+Dialogue: 0,0:02:20.14,0:02:20.64,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:02:20.64,0:02:21.64,Default,,0,0,0,,To unwind a bit.
+Dialogue: 0,0:02:22.27,0:02:23.43,Default,,0,0,0,,Xiao Shiqin.
+Dialogue: 0,0:02:23.68,0:02:25.81,Default,,0,0,0,,Are you going to stay in the club the whole summer?
+Dialogue: 0,0:02:27.39,0:02:28.27,Default,,0,0,0,,Well, I just came.{嘛 marking the reason clause --Lynx}
+Dialogue: 0,0:02:28.27,0:02:29.31,Default,,0,0,0,,I want look around and get used to the place.
+Dialogue: 0,0:02:32.89,0:02:33.43,Default,,0,0,0,,Su Mucheng.
+Dialogue: 0,0:02:33.52,0:02:34.27,Default,,0,0,0,,Happy holidays!
+Dialogue: 0,0:02:34.81,0:02:36.27,Default,,0,0,0,,Happy holidays!
+Dialogue: 0,0:02:38.68,0:02:39.68,Default,,0,0,0,,I'm leaving.
+Dialogue: 0,0:02:39.68,0:02:40.56,Default,,0,0,0,,Have fun!
+Dialogue: 0,0:02:40.56,0:02:41.31,Default,,0,0,0,,Goodbye.
+Dialogue: 0,0:02:45.14,0:02:46.02,Default,,0,0,0,,Mucheng.
+Dialogue: 0,0:02:46.02,0:02:47.27,Default,,0,0,0,,Going to Happy?
+Dialogue: 0,0:02:48.52,0:02:49.77,Default,,0,0,0,,You too?
+Dialogue: 0,0:02:51.89,0:02:53.02,Default,,0,0,0,,I'm just taking a stroll.
+Dialogue: 0,0:03:04.10,0:03:04.89,Default,,0,0,0,,Ye.
+Dialogue: 0,0:03:04.89,0:03:05.97,Default,,0,0,0,,There's someone looking for you.
+Dialogue: 0,0:03:13.60,0:03:14.39,Default,,0,0,0,,Oh, you're here.
+Dialogue: 0,0:03:15.31,0:03:16.27,Default,,0,0,0,,Welcome.
+Dialogue: 0,0:03:16.27,0:03:18.89,Default,,0,0,0,,At last, I am fully on holiday!
+Dialogue: 0,0:03:21.77,0:03:22.35,Default,,0,0,0,,Ummm...
+Dialogue: 0,0:03:22.39,0:03:23.72,Default,,0,0,0,,Hello.
+Dialogue: 0,0:03:25.97,0:03:27.35,Default,,0,0,0,,You're here too, Shiqin.{Ye Qiu is absolutely unable to not call Xiao Shiqin "xiao Xiao" --Lynx}
+Dialogue: 0,0:03:28.60,0:03:29.47,Default,,0,0,0,,I have nothing to do.
+Dialogue: 0,0:03:29.47,0:03:30.47,Default,,0,0,0,,So I came to visit.
+Dialogue: 0,0:03:31.60,0:03:33.02,Default,,0,0,0,,You just joined a new team.
+Dialogue: 0,0:03:33.02,0:03:34.14,Default,,0,0,0,,Shouldn't you be bonding with your teammates
+Dialogue: 0,0:03:34.47,0:03:36.18,Default,,0,0,0,,instead of rushing to gather intel on your enemies?
+Dialogue: 0,0:03:36.81,0:03:37.72,Default,,0,0,0,,So dedicated!{"That's what I call dedication!" mb? --Lynx}
+Dialogue: 0,0:03:38.72,0:03:40.47,Default,,0,0,0,,The whole team is gone on a holiday.
+Dialogue: 0,0:03:40.47,0:03:42.22,Default,,0,0,0,,{"I want to, but "}I have no one to bond with.
+Dialogue: 0,0:03:42.22,0:03:44.14,Default,,0,0,0,,{Everybody[, including myself], --Lynx}Do not speak to this guy!
+Dialogue: 0,0:03:44.14,0:03:46.39,Default,,0,0,0,,Be careful, he can steal our information!
+Dialogue: 0,0:03:46.72,0:03:48.72,Default,,0,0,0,,{Fantastic -- honorifi} You're too direct, senior Ye.
+Dialogue: 0,0:03:50.47,0:03:51.64,Default,,0,0,0,,Stealing information?
+Dialogue: 0,0:03:59.97,0:04:01.64,Default,,0,0,0,,You're indeed checking us out.
+Dialogue: 0,0:04:02.10,0:04:02.72,Default,,0,0,0,,No...
+Dialogue: 0,0:04:02.72,0:04:03.77,Default,,0,0,0,,I don't!
+Dialogue: 0,0:04:03.77,0:04:04.85,Default,,0,0,0,,I'm only having a look.
+Dialogue: 0,0:04:13.72,0:04:14.72,Default,,0,0,0,,Senior,
+Dialogue: 0,0:04:14.72,0:04:15.85,Default,,0,0,0,,have a drink.
+Dialogue: 0,0:04:20.14,0:04:21.52,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:04:21.72,0:04:22.60,Default,,0,0,0,,Bun.
+Dialogue: 0,0:04:22.81,0:04:24.60,Default,,0,0,0,,There's nothing to hide.
+Dialogue: 0,0:04:24.72,0:04:25.35,Default,,0,0,0,,Sit down.
+Dialogue: 0,0:04:26.06,0:04:26.72,Default,,0,0,0,,Oh.
+Dialogue: 0,0:04:27.97,0:04:29.39,Default,,0,0,0,,Getting used to Excellent Era?
+Dialogue: 0,0:04:32.22,0:04:32.89,Default,,0,0,0,,I just came,
+Dialogue: 0,0:04:32.89,0:04:33.64,Default,,0,0,0,,Still getting used.
+Dialogue: 0,0:04:33.77,0:04:35.18,Default,,0,0,0,,In the challenge match you'll be facing us.
+Dialogue: 0,0:04:35.27,0:04:36.60,Default,,0,0,0,,Are you confident?{alt. How confident are you? --Lynx}
+Dialogue: 0,0:04:36.89,0:04:38.14,Default,,0,0,0,,I guess so.{I'm rather [confident]}
+Dialogue: 0,0:04:38.60,0:04:39.72,Default,,0,0,0,,If you lose to us,
+Dialogue: 0,0:04:40.10,0:04:41.56,Default,,0,0,0,,that would really be terrible.
+Dialogue: 0,0:04:42.60,0:04:43.72,Default,,0,0,0,,What will you do then?
+Dialogue: 0,0:04:44.35,0:04:45.35,Default,,0,0,0,,You're not joining Excellent Era
+Dialogue: 0,0:04:45.56,0:04:47.43,Default,,0,0,0,,only because you want to play in the challenge league only, right?
+Dialogue: 0,0:04:48.85,0:04:51.14,Default,,0,0,0,,{"Anyways," -- dunno how to express it better --Lynx}I will do my best.
+Dialogue: 0,0:04:52.47,0:04:54.22,Default,,0,0,0,,That's the right attitude.
+Dialogue: 0,0:04:58.72,0:04:59.81,Default,,0,0,0,,What are you doing?
+Dialogue: 0,0:05:00.47,0:05:01.47,Default,,0,0,0,,Killing the boss.
+Dialogue: 0,0:05:02.93,0:05:04.47,Default,,0,0,0,,You are not busy at the moment, right, Xiao?
+Dialogue: 0,0:05:04.68,0:05:05.22,Default,,0,0,0,,Then{ from the previous sentence's reason marker --Lynx}
+Dialogue: 0,0:05:05.22,0:05:05.77,Default,,0,0,0,,lend us a hand.
+Dialogue: 0,0:05:06.60,0:05:07.72,Default,,0,0,0,,This isn't appropriate.
+Dialogue: 0,0:05:09.35,0:05:10.35,Default,,0,0,0,,Never mind, then.
+Dialogue: 0,0:05:11.72,0:05:12.72,Default,,0,0,0,,No.{lit. "not right"}
+Dialogue: 0,0:05:13.10,0:05:14.10,Default,,0,0,0,,This might be
+Dialogue: 0,0:05:14.10,0:05:16.14,Default,,0,0,0,,a chance to observe Happy's abilities.{I don't like how it sounds --Lynx}
+Comment: 0,0:05:18.10,0:05:19.52,Default,,0,0,0,,I don't get the next sentence. lit. "however, quite bor(ing, ed)". I will think about this later. probably. --Lynx
+Dialogue: 0,0:05:18.10,0:05:19.52,Default,,0,0,0,,However, I'm quite bored.
+Dialogue: 0,0:05:19.64,0:05:20.56,Default,,0,0,0,,Let me play a bit.
+Dialogue: 0,0:05:23.10,0:05:24.27,Default,,0,0,0,,Boss,
+Dialogue: 0,0:05:24.35,0:05:26.39,Default,,0,0,0,,bring him a Mechanic account card.{Nope, no politeness/softening markers}
+Dialogue: 0,0:05:30.47,0:05:32.22,Default,,0,0,0,,You know, I'll play for a bit too.
+Dialogue: 0,0:05:32.22,0:05:33.35,Default,,0,0,0,,Sure!
+Dialogue: 0,0:05:33.47,0:05:34.72,Default,,0,0,0,,Mucheng, come sit here then.
+Dialogue: 0,0:05:34.72,0:05:35.97,Default,,0,0,0,,You can use my account.
+Dialogue: 0,0:05:37.10,0:05:38.85,Default,,0,0,0,,I knew it.
+Dialogue: 0,0:05:39.10,0:05:41.22,Default,,0,0,0,,She was waiting for this!
+Dialogue: 0,0:05:41.47,0:05:43.35,Default,,0,0,0,,Did I just end up setting the example?
+Dialogue: 0,0:05:44.22,0:05:45.97,Default,,0,0,0,,She's so cunning.
+Dialogue: 0,0:05:47.39,0:05:48.31,Default,,0,0,0,,[Glory]
+Dialogue: 0,0:05:48.35,0:05:49.97,Default,,0,0,0,,[Level 70 World Boss.\NRed Cloak Warlock Mirworr]
+Dialogue: 0,0:05:51.06,0:05:51.60,Default,,0,0,0,,Captain Zhang.
+Dialogue: 0,0:05:53.14,0:05:53.93,Default,,0,0,0,,Vice-Captain here.
+Dialogue: 0,0:05:54.60,0:05:56.31,Default,,0,0,0,,We have the boss under control.
+Dialogue: 0,0:05:56.35,0:05:58.10,Default,,0,0,0,,Should the mobile unit attack as well?
+Dialogue: 0,0:05:59.31,0:05:59.97,Default,,0,0,0,,Hold on.
+Dialogue: 0,0:06:00.56,0:06:02.47,Default,,0,0,0,,Heavenly Justice, Conquering Clouds, Radiant, and Parade
+Dialogue: 0,0:06:02.85,0:06:04.18,Default,,0,0,0,,Four Guild Alliance is approaching.
+Dialogue: 0,0:06:05.06,0:06:06.93,Default,,0,0,0,,Has anyone seen Ye Qiu?
+Dialogue: 0,0:06:07.43,0:06:09.06,Default,,0,0,0,,We haven't seen Enlightened Lord yet.
+Dialogue: 0,0:06:09.06,0:06:09.72,Default,,0,0,0,,Okay.
+Dialogue: 0,0:06:10.31,0:06:11.72,Default,,0,0,0,,Watch their movements.
+Dialogue: 0,0:06:11.81,0:06:13.06,Default,,0,0,0,,Be careful during the operation.
+Dialogue: 0,0:06:13.93,0:06:15.31,Default,,0,0,0,,If you spot Ye Qiu,
+Dialogue: 0,0:06:15.35,0:06:16.56,Default,,0,0,0,,show no mercy.
+Dialogue: 0,0:06:20.35,0:06:21.60,Default,,0,0,0,,Attack!
+Dialogue: 0,0:06:21.60,0:06:23.27,Default,,0,0,0,,Charge!
+Dialogue: 0,0:06:23.43,0:06:23.97,Default,,0,0,0,,Mobile unit,
+Dialogue: 0,0:06:23.97,0:06:24.81,Default,,0,0,0,,support the right side{way? --Lynx}.
+Dialogue: 0,0:06:26.56,0:06:27.35,Default,,0,0,0,,Come on!
+Dialogue: 0,0:06:28.89,0:06:30.39,Default,,0,0,0,,The defense is broken.
+Dialogue: 0,0:06:30.39,0:06:32.18,Default,,0,0,0,,Their commander is great.
+Dialogue: 0,0:06:32.18,0:06:33.77,Default,,0,0,0,,Take advantage when their defense is down
+Dialogue: 0,0:06:33.77,0:06:34.68,Default,,0,0,0,,and attack them now.
+Dialogue: 0,0:06:35.02,0:06:35.77,Default,,0,0,0,,Over there.
+Dialogue: 0,0:06:35.97,0:06:36.93,Default,,0,0,0,,The retreat is a bit too much.
+Dialogue: 0,0:06:37.10,0:06:37.85,Default,,0,0,0,,No.
+Dialogue: 0,0:06:39.31,0:06:40.97,Default,,0,0,0,,Why on Earth I am so involved?
+Dialogue: 0,0:06:41.31,0:06:43.39,Default,,0,0,0,,I should only be observing Ye Qiu's teammates.
+Dialogue: 0,0:06:46.72,0:06:47.60,Default,,0,0,0,,Don't panic.
+Dialogue: 0,0:06:47.85,0:06:49.31,Default,,0,0,0,,Restore the defense formation.
+Dialogue: 0,0:06:49.68,0:06:51.06,Default,,0,0,0,,There's space to advance and retreat.
+Dialogue: 0,0:06:51.43,0:06:52.93,Default,,0,0,0,,It's so strategic.
+Dialogue: 0,0:06:53.60,0:06:54.81,Default,,0,0,0,,Could it be...
+Dialogue: 0,0:06:55.10,0:06:56.22,Default,,0,0,0,,Who's leading Tyranny?
+Dialogue: 0,0:06:56.60,0:06:57.47,Default,,0,0,0,,Zhang Xinjie.
+Dialogue: 0,0:06:57.68,0:06:58.43,Default,,0,0,0,,Who else?
+Dialogue: 0,0:07:00.81,0:07:02.47,Default,,0,0,0,,The strategies are well-thought-out
+Dialogue: 0,0:07:03.06,0:07:05.35,Default,,0,0,0,,and can create trouble for any team.
+Dialogue: 0,0:07:12.68,0:07:14.18,Default,,0,0,0,,Mechanic.
+Dialogue: 0,0:07:14.97,0:07:15.97,Default,,0,0,0,,Could it be
+Dialogue: 0,0:07:16.64,0:07:17.64,Default,,0,0,0,,Xiao Shiqin?
+Dialogue: 0,0:07:17.93,0:07:20.31,Default,,0,0,0,,How come this guy is with Ye Qiu?
+Dialogue: 0,0:07:21.85,0:07:22.85,Default,,0,0,0,,There's an ace.
+Dialogue: 0,0:07:22.85,0:07:23.93,Default,,0,0,0,,Ace?
+Dialogue: 0,0:07:26.18,0:07:27.06,Default,,0,0,0,,The left side is in danger.
+Dialogue: 0,0:07:28.06,0:07:29.06,Default,,0,0,0,,Is it Ye Qiu?
+Dialogue: 0,0:08:00.85,0:08:01.90,Default,,0,0,0,,{\an7\pos(1150,520)\p1\c&H7138E2&\alpha&H0000000&\bord2\shad0\1c&H6878a4&\3c&H6878a4&}m -0 -0 l -0 21 l 160 21 l 160 -0
+Dialogue: 0,0:08:00.85,0:08:01.90,Default,,0,0,0,,{\an7\pos(1152,510)\fs30\fnArial\1c&Hffffff&\bord0\shad0\i1\b0}Player: Ye Xiu{\i0\b1}
+Dialogue: 0,0:08:00.85,0:08:01.90,Default,,0,0,0,,{\an7\pos(1356,545)\p1\c&H2a00bc&\alpha&H0000000&\bord2\shad0\1c&H2a00bc&\3c&H2a00bc&}m -210 0 b -215 0 -220 5 -220 10 l -220 60 b -220 65 -215 70 -210 70 l 0 70 l 0 0 l -210 0
+Dialogue: 0,0:08:00.85,0:08:01.90,Default,,0,0,0,,{\an7\pos(1356,545)\p1\c&H7138E2&\alpha&H0000000&\bord2\shad0\1c&H7138E2&\3c&H7138E2&}m 0 0 l 210 0 b 215 0 220 5 220 10 l 220 60 b 220 65 215 70 210 70 l 0 70 l 0 0
+Dialogue: 0,0:08:00.85,0:08:01.90,Default,,0,0,0,,{\an7\pos(1152,554)\fs52\fnArial\1c&Hffffff&\bord0\shad0\i1\b1}Let There Be Light{\i0\b0}
+Dialogue: 0,0:08:00.85,0:08:01.90,Default,,0,0,0,,{\an7\pos(1356,619)\p1\c&H7138E2&\alpha&H0000000&\bord2\shad0\1c&H604031&\3c&H604031&}m -0 -0 l -0 21 l 220 21 l 220 -0
+Dialogue: 0,0:08:00.85,0:08:01.90,Default,,0,0,0,,{\an7\pos(1367,615)\fs30\fnArial\1c&Hffffff&\bord0\shad0\i1\b0}Job: Battle Mage{\i0\b1}
+Dialogue: 0,0:08:00.64,0:08:02.06,Default,,0,0,0,,[Player: Ye Xiu. Happy.\NLet There Be Light. Job: Battle Mage]
+Dialogue: 0,0:08:06.52,0:08:07.52,Default,,0,0,0,,This...
+Dialogue: 0,0:08:07.52,0:08:08.77,Default,,0,0,0,,This is...
+Dialogue: 0,0:08:19.56,0:08:22.56,TLC,,0,0,0,,2. Short-Lived Weft {lit. "Die Young, Remnant Cloud" --Lynx}\N3. Singularly Arrogant Smoke {lit. "Arrogant Proud Lone Smoke" --Lynx}\N4. Kurara \N5. Rampant Windrider {lit. "Riding the Wind Unbridled" --Lynx}
+Dialogue: 0,0:08:24.64,0:08:26.81,Default,,0,0,0,,Look at the way these two fight together.
+Dialogue: 0,0:08:28.02,0:08:29.77,Default,,0,0,0,,It must be Ye Qiu and Su Mucheng.
+Dialogue: 0,0:08:30.39,0:08:32.18,Default,,0,0,0,,It can't be anyone else.
+Dialogue: 0,0:08:35.81,0:08:38.02,Default,,0,0,0,,What date is it today?
+Dialogue: 0,0:08:38.02,0:08:38.39,Default,,0,0,0,,[Monday, July 3. Good for meeting friends]
+Dialogue: 0,0:08:38.39,0:08:38.72,Default,,0,0,0,,[and spending time outdoors.\NAvoid other activities.]
+Dialogue: 0,0:08:38.72,0:08:39.10,Default,,0,0,0,,[Do not stay at home\Nor make transactions.]
+Dialogue: 0,0:08:39.10,0:08:39.43,Default,,0,0,0,,[Not suitable for openings, launches,\Nor moving into a new house.]
+Dialogue: 0,0:08:39.43,0:08:41.64,Default,,0,0,0,,Am I playing the online game
+Dialogue: 0,0:08:42.06,0:08:44.14,Default,,0,0,0,,or a Professional Alliance match?
+Dialogue: 0,0:08:44.60,0:08:45.60,Default,,0,0,0,,[System Announcement. Heavenly Justice]\NCongratulations to Heavenly Justice,
+Dialogue: 0,0:08:45.60,0:08:46.56,Default,,0,0,0,,[defeated LV70 World Boss,]\NCongratulations to Heavenly Justice
+Dialogue: 0,0:08:46.56,0:08:48.14,Default,,0,0,0,,[Red Cloak Warlock Mirworr]\Nfor defeating
+Dialogue: 0,0:08:48.14,0:08:50.02,Default,,0,0,0,,Red Cloak Warlock Mirworr.
+Dialogue: 0,0:08:50.27,0:08:51.52,Default,,0,0,0,,Awesome!
+Dialogue: 0,0:08:52.35,0:08:54.27,Default,,0,0,0,,I heard you cheering.
+Dialogue: 0,0:08:54.64,0:08:55.77,Default,,0,0,0,,Of course!
+Dialogue: 0,0:08:56.06,0:08:58.56,Default,,0,0,0,,It drops the material I need to upgrade my Death's Hand.
+Dialogue: 0,0:08:59.52,0:09:00.89,Default,,0,0,0,,Why are you leaving so soon?
+Dialogue: 0,0:09:03.77,0:09:05.14,Default,,0,0,0,,Let's play together a bit more.
+Dialogue: 0,0:09:06.27,0:09:07.52,Default,,0,0,0,,No, thanks.
+Dialogue: 0,0:09:07.52,0:09:08.27,Default,,0,0,0,,I have to go back now.
+Dialogue: 0,0:09:08.27,0:09:09.64,Default,,0,0,0,,I need to prepare a lot of things for the team.
+Dialogue: 0,0:09:10.06,0:09:11.81,Default,,0,0,0,,What you can possibly do with everyone being on holiday?
+Dialogue: 0,0:09:12.02,0:09:12.85,Default,,0,0,0,,Let's do one more.
+Dialogue: 0,0:09:13.14,0:09:14.39,Default,,0,0,0,,Didn't I just join?
+Dialogue: 0,0:09:14.64,0:09:16.39,Default,,0,0,0,,I need to familiarize myself with a lot of things.
+Dialogue: 0,0:09:17.77,0:09:18.64,Default,,0,0,0,,[Zhang Xinjie]
+Dialogue: 0,0:09:20.14,0:09:20.72,Default,,0,0,0,,Hello?
+Dialogue: 0,0:09:28.06,0:09:29.43,Default,,0,0,0,,I've made up my mind.
+Dialogue: 0,0:09:29.43,0:09:31.39,Default,,0,0,0,,I'll spend my holiday at Happy this time.
+Dialogue: 0,0:09:31.64,0:09:32.81,Default,,0,0,0,,Okay, sure!
+Dialogue: 0,0:09:33.02,0:09:34.43,Default,,0,0,0,,Welcome.
+Dialogue: 0,0:09:36.14,0:09:36.68,Default,,0,0,0,,Hello.
+Dialogue: 0,0:09:37.64,0:09:38.56,Default,,0,0,0,,Are you busy?
+Dialogue: 0,0:09:40.81,0:09:42.39,Default,,0,0,0,,Radiant and Parade were led by you,
+Dialogue: 0,0:09:42.39,0:09:43.27,Default,,0,0,0,,weren't they?
+Dialogue: 0,0:09:43.27,0:09:44.14,Default,,0,0,0,,Yes, it was me.
+Dialogue: 0,0:09:44.52,0:09:45.89,Default,,0,0,0,,How come you've joined the battle on their side?
+Dialogue: 0,0:09:47.77,0:09:50.02,Default,,0,0,0,,Well, it's just that we will be facing them \Nin the challenge league.
+Dialogue: 0,0:09:50.27,0:09:51.68,Default,,0,0,0,,I just wanted to check what they really are like.
+Dialogue: 0,0:09:53.27,0:09:54.68,TLC,,0,0,0,,How does he handle them, then?
+Dialogue: 0,0:09:54.89,0:09:56.31,Default,,0,0,0,,They're mostly newbies.
+Dialogue: 0,0:09:56.89,0:09:58.14,Default,,0,0,0,,Newbies?
+Dialogue: 0,0:09:58.89,0:10:00.39,Default,,0,0,0,,[Happy Internet Cafe]\NThen it's really not easy to get a good read of them.{gauge them? I'd use smth shorter here --Lynx}
+Dialogue: 0,0:10:01.27,0:10:02.14,Default,,0,0,0,,However,
+Dialogue: 0,0:10:02.81,0:10:04.64,Default,,0,0,0,,Ye Qiu wouldn't let me see too much of their confidential stuff.
+Dialogue: 0,0:10:05.22,0:10:07.27,Default,,0,0,0,,I didn't see anything related to their systematic training either.
+Dialogue: 0,0:10:07.85,0:10:09.64,Default,,0,0,0,,Seems like Ye Qiu is doing a good job.
+Dialogue: 0,0:10:10.31,0:10:11.52,Default,,0,0,0,,To the point that you got wary
+Dialogue: 0,0:10:11.81,0:10:13.14,Default,,0,0,0,,and had to go check them out in person.
+Dialogue: 0,0:10:15.39,0:10:17.43,Default,,0,0,0,,[Excellent Era]\NExcellent Era's vast collection of assets and accounts
+Dialogue: 0,0:10:17.68,0:10:20.56,Default,,0,0,0,,by right, are not something easy for a makeshift troupe to catch up to.
+Dialogue: 0,0:10:23.43,0:10:24.89,Default,,0,0,0,,However, the problem
+Dialogue: 0,0:10:25.52,0:10:26.68,Default,,0,0,0,,is that within this makeshift troupe,
+Dialogue: 0,0:10:27.02,0:10:28.39,Default,,0,0,0,,there's Ye Qiu, the ace player.
+Dialogue: 0,0:10:29.39,0:10:31.27,Default,,0,0,0,,He is familiar with every aspect of Glory.
+Dialogue: 0,0:10:31.39,0:10:32.27,Default,,0,0,0,,Speaking of this,
+Dialogue: 0,0:10:32.81,0:10:34.77,Default,,0,0,0,,if Su Mucheng doesn't stay at Excellent Era,
+Dialogue: 0,0:10:35.14,0:10:37.14,Default,,0,0,0,,the All-Star account, Dancing Rain,
+Dialogue: 0,0:10:37.52,0:10:38.85,Default,,0,0,0,,might be brought away too.
+Dialogue: 0,0:10:39.97,0:10:41.64,Default,,0,0,0,,If she joins Happy...
+Dialogue: 0,0:10:42.39,0:10:44.02,Default,,0,0,0,,If Dancing Rain joins Happy,
+Dialogue: 0,0:10:44.02,0:10:46.02,Default,,0,0,0,,it'll happen a year later.
+Dialogue: 0,0:10:46.02,0:10:48.18,Default,,0,0,0,,Then, we'll have the results of the Challenge League tournament.
+Dialogue: 0,0:10:48.18,0:10:49.39,Default,,0,0,0,,There's only one winner
+Dialogue: 0,0:10:49.39,0:10:50.39,Default,,0,0,0,,in the fight between Excellent Era and Happy.
+Dialogue: 0,0:10:50.39,0:10:52.68,Default,,0,0,0,,[Xiao Shiqin\NThe call had ended]
+Dialogue: 0,0:10:53.52,0:10:55.52,Default,,0,0,0,,Ye Qiu has been out of the professional alliance
+Dialogue: 0,0:10:55.52,0:10:56.89,Default,,0,0,0,,for seven months now.
+Dialogue: 0,0:11:00.64,0:11:01.68,Default,,0,0,0,,Captain Han.
+Dialogue: 0,0:11:02.35,0:11:03.68,Default,,0,0,0,,Look who I brought here.
+Dialogue: 0,0:11:06.27,0:11:07.52,Default,,0,0,0,,You're finally here.
+Dialogue: 0,0:11:07.81,0:11:09.93,Default,,0,0,0,,[Happy Internet Cafe]
+Dialogue: 0,0:11:10.35,0:11:13.56,TLC,,0,0,0,,[47 days until application day\Nfor the challenge round. All the best!]
+Dialogue: 0,0:11:13.56,0:11:18.02,Default,,0,0,0,,Do the boss first, then go after Zhang Xinjie.
+Dialogue: 0,0:11:18.02,0:11:19.02,Default,,0,0,0,,Sure.
+Dialogue: 0,0:11:19.89,0:11:21.64,Default,,0,0,0,,Tyranny is holding a press conference right now.
+Dialogue: 0,0:11:21.81,0:11:23.14,Default,,0,0,0,,Lin Jingyan has transferred to Tyranny.
+Dialogue: 0,0:11:23.14,0:11:24.52,Default,,0,0,0,,Lin Jingyan?
+Dialogue: 0,0:11:25.06,0:11:26.47,Default,,0,0,0,,[Tyranny]\NI debuted as a professional player
+Dialogue: 0,0:11:26.47,0:11:27.52,Default,,0,0,0,,[Tyranny]\Nin Season 2.
+Dialogue: 0,0:11:27.77,0:11:28.97,Default,,0,0,0,,I didn't shine like other ace players did
+Dialogue: 0,0:11:28.97,0:11:30.64,Default,,0,0,0,,during their rookie years.
+Dialogue: 0,0:11:31.56,0:11:33.93,Default,,0,0,0,,Step by step, I've made it here.
+Dialogue: 0,0:11:33.93,0:11:35.14,Default,,0,0,0,,Perhaps retirement
+Dialogue: 0,0:11:35.27,0:11:36.56,Default,,0,0,0,,is my best option.
+Dialogue: 0,0:11:37.77,0:11:40.02,Default,,0,0,0,,I almost made that decision.
+Dialogue: 0,0:11:40.27,0:11:42.18,Default,,0,0,0,,However, an out-of-the-blue call
+Dialogue: 0,0:11:42.39,0:11:44.52,Default,,0,0,0,,made me change my mind.
+Dialogue: 0,0:11:45.39,0:11:46.89,Default,,0,0,0,,Come join us.
+Dialogue: 0,0:11:47.27,0:11:48.43,Default,,0,0,0,,We have a place for you.
+Dialogue: 0,0:11:49.39,0:11:52.02,Default,,0,0,0,,I, a professional player who almost retired,
+Dialogue: 0,0:11:52.43,0:11:54.43,Default,,0,0,0,,am returning to pursue the championship.
+Dialogue: 0,0:11:54.43,0:11:55.68,Default,,0,0,0,,If there's a team that needs me,
+Dialogue: 0,0:11:56.02,0:11:58.02,Default,,0,0,0,,I am ready to accept the challenge.
+Dialogue: 0,0:11:58.31,0:11:59.72,Default,,0,0,0,,I hereby announce
+Dialogue: 0,0:12:00.27,0:12:01.27,Default,,0,0,0,,that Lin Jingyan
+Dialogue: 0,0:12:01.27,0:12:03.81,Default,,0,0,0,,will be an important part of Tyranny's roster in next season.
+Dialogue: 0,0:12:05.27,0:12:08.02,Default,,0,0,0,,The club right now is preparing{custom-building --Lynx} a new Brawler account for him.
+Dialogue: 0,0:12:09.56,0:12:11.89,Default,,0,0,0,,Our only reason for inviting Lin Jingyan into our team
+Dialogue: 0,0:12:12.77,0:12:13.93,Default,,0,0,0,,is winning the championship.
+Dialogue: 0,0:12:23.77,0:12:24.93,Default,,0,0,0,,How annoying.
+Dialogue: 0,0:12:25.39,0:12:26.64,Default,,0,0,0,,Annoying?
+Dialogue: 0,0:12:27.02,0:12:28.89,Default,,0,0,0,,It has nothing to do with us now.
+Dialogue: 0,0:12:29.68,0:12:31.56,Default,,0,0,0,,Zhang Xinjie personally led the team to kill the boss,
+Dialogue: 0,0:12:32.06,0:12:34.68,Default,,0,0,0,,most likely it's {specifically }for this Brawler account Lin Jingyan is going to use.
+Dialogue: 0,0:12:35.10,0:12:36.02,Default,,0,0,0,,{\an5\move(780,20,780,-800,0,1400)\p1\c&HFFFFFF&\alpha&H0000000&\bord2\shad0\1c&HFFFFFF&\3c&Hffffff&}m -0 280 l -0 400 l 730 400 l 730 280
+Dialogue: 0,0:12:35.10,0:12:36.02,Default,,0,0,0,,{\an5\move(780,300,780,-520,0,1400)\fs45\fnArial\c&H5f5f5f&\bord0\shad0}Wind Howl's Ex-Captain Lin Jingyan \NTransfers to Tyranny
+Dialogue: 0,0:12:35.10,0:12:39.10,Default,,0,0,0,,{\an5\move(860,660,830,60,0,1100)\p1\c&HFFFFFF&\alpha&H0000000&\bord2\shad0\1c&HFFFFFF&\3c&Hffffff&}m -15 135 l -18 60 l 746 60 l 749 135
+Dialogue: 0,0:12:35.10,0:12:39.10,Default,,0,0,0,,{\an5\move(870,700,830,120,0,1100)\fs35\fnArial\c&H5f5f5f&\bord0\shad0}Who's the Successor of God-Level \NAccount, Demon Subduer?
+Dialogue: 0,0:12:36.89,0:12:37.77,Default,,0,0,0,,Lin Jingyan is joining their team.
+Dialogue: 0,0:12:37.77,0:12:39.06,Default,,0,0,0,,Given his personality,
+Dialogue: 0,0:12:39.39,0:12:41.56,Default,,0,0,0,,he wouldn't bear to see Zhang Xinjie working hard for him
+Dialogue: 0,0:12:41.68,0:12:43.14,Default,,0,0,0,,while he sits back and enjoys the results.
+Dialogue: 0,0:12:44.43,0:12:45.93,Default,,0,0,0,,Do you mean that he'll start coming as well?
+Dialogue: 0,0:12:47.14,0:12:48.39,Default,,0,0,0,,Lin Jingyan.
+Dialogue: 0,0:12:48.39,0:12:50.02,Default,,0,0,0,,Did he had a habit of going to sleep on schedule?
+Dialogue: 0,0:12:52.43,0:12:54.77,Default,,0,0,0,,Unbearable!{lit. "to commit a sin", communicative -- exclamation of lament or reproach --Lynx}
+Dialogue: 0,0:12:54.77,0:12:57.06,Default,,0,0,0,,[Hundred Blossoms'\NAll-Star player, Tang Hao,]
+Dialogue: 0,0:12:57.06,0:12:59.35,Default,,0,0,0,,[transfers to Wind Howl for 10 million]
+Dialogue: 0,0:12:59.35,0:13:02.77,Default,,0,0,0,,[Blue Rain's All-Star player, Yu Feng,]
+Dialogue: 0,0:13:02.77,0:13:06.18,Default,,0,0,0,,[transfers to Hundred Blossoms\Nfor six million]
+Dialogue: 0,0:13:06.18,0:13:10.47,Default,,0,0,0,,[For whom will Hundred Blossoms\Nsign the ten million cheque]
+Dialogue: 0,0:13:10.47,0:13:14.77,Default,,0,0,0,,[to become the player\Nof Dazzling Hundred Blossoms?]
+Dialogue: 0,0:13:20.81,0:13:21.68,Default,,0,0,0,,The transfer window
+Dialogue: 0,0:13:21.85,0:13:22.85,Default,,0,0,0,,is closing soon.
+Dialogue: 0,0:13:23.18,0:13:24.81,Default,,0,0,0,,The news these days is quite boring.
+Dialogue: 0,0:13:25.43,0:13:26.43,Default,,0,0,0,,What's the matter?
+Dialogue: 0,0:13:27.02,0:13:28.64,Default,,0,0,0,,I'll have a look.
+Dialogue: 0,0:13:33.52,0:13:35.39,Default,,0,0,0,,The ace account of Hundred Blossoms,
+Dialogue: 0,0:13:35.39,0:13:36.93,Default,,0,0,0,,Spitfire, Dazzling Hundred Blossoms,
+Dialogue: 0,0:13:36.93,0:13:40.02,Default,,0,0,0,,is bought by Tyranny for 16 million?
+Dialogue: 0,0:13:40.39,0:13:41.93,Default,,0,0,0,,Breaking the Glory's historical record.
+Dialogue: 0,0:13:42.14,0:13:43.89,Default,,0,0,0,,Are you serious?
+Dialogue: 0,0:13:44.64,0:13:47.14,Default,,0,0,0,,16 million for an account?
+Dialogue: 0,0:13:47.89,0:13:48.77,Default,,0,0,0,,Not for a player,
+Dialogue: 0,0:13:48.77,0:13:49.81,Default,,0,0,0,,but an account?
+Dialogue: 0,0:13:50.02,0:13:51.27,Default,,0,0,0,,Must be me seeing things.
+Dialogue: 0,0:13:52.06,0:13:53.52,Default,,0,0,0,,What is Tyranny trying to do?
+Dialogue: 0,0:13:55.43,0:13:57.39,Default,,0,0,0,,They sold their core player
+Dialogue: 0,0:13:57.39,0:13:59.56,Default,,0,0,0,,and ace account.
+Dialogue: 0,0:13:59.56,0:14:00.56,Default,,0,0,0,,Next,
+Dialogue: 0,0:14:00.56,0:14:03.56,Default,,0,0,0,,why won't Hundred Blossoms change their name
+Dialogue: 0,0:14:03.56,0:14:06.35,Default,,0,0,0,,and start afresh like a new team to boot?
+Dialogue: 0,0:14:06.35,0:14:07.35,Default - Top,,0,0,0,,This is insane.{lit. "crazy + completeness marker". Mb "Has the world gone mad?" --Lynx}
+Dialogue: 0,0:14:06.35,0:14:07.56,TLC,,0,0,0,,They are literally starting afresh.
+Dialogue: 0,0:14:07.56,0:14:09.31,Default,,0,0,0,,Both teams have gone crazy.
+Dialogue: 0,0:14:19.27,0:14:21.18,Default,,0,0,0,,Tyranny really is spending big.
+Dialogue: 0,0:14:21.39,0:14:23.31,Default,,0,0,0,,They bought all Hundred Blossoms' poster figures.{all "faces" --Lynx}
+Dialogue: 0,0:14:24.35,0:14:25.81,Default,,0,0,0,,Hundred Blossoms' fans
+Dialogue: 0,0:14:25.81,0:14:27.22,Default,,0,0,0,,must be heartbroken.
+Dialogue: 0,0:14:27.89,0:14:29.52,Default,,0,0,0,,That's for Zhang Jiale.
+Dialogue: 0,0:14:31.06,0:14:32.64,Default,,0,0,0,,He's joining Tyranny as well?
+Dialogue: 0,0:14:32.64,0:14:34.47,Default,,0,0,0,,Zhang Jiale is joining to chase the champion's title.
+Dialogue: 0,0:14:35.18,0:14:37.35,Default,,0,0,0,,He wants to join the team with real prospects\Nof winning the tournament.
+Dialogue: 0,0:14:38.39,0:14:39.93,Default,,0,0,0,,And in the alliance, the teams who has such a potential
+Dialogue: 0,0:14:40.64,0:14:41.52,Default,,0,0,0,,by any count
+Dialogue: 0,0:14:41.64,0:14:42.64,Default,,0,0,0,,are not that many.{are but a handful? --Lynx}
+Dialogue: 0,0:14:44.60,0:14:45.39,Default,,0,0,0,,Han Wenqing.
+Dialogue: 0,0:14:45.39,0:14:46.14,Default,,0,0,0,,Lin Jingyan.
+Dialogue: 0,0:14:46.14,0:14:46.93,Default,,0,0,0,,Zhang Jiale.
+Dialogue: 0,0:14:47.60,0:14:49.27,Default,,0,0,0,,Are all running out of time.
+Dialogue: 0,0:14:50.77,0:14:53.64,Default,,0,0,0,,But they desire to become the champion more than anything else.
+Dialogue: 0,0:14:55.18,0:14:57.10,Default,,0,0,0,,There is no way out for them anymore.{I don't understand. But maybe you do --Lynx}
+Dialogue: 0,0:14:58.39,0:14:59.35,Default,,0,0,0,,This team.{The nerve of this team? --Lynx}
+Dialogue: 0,0:15:00.02,0:15:00.77,Default,,0,0,0,,Seriously.{I don't understand these two lines either --Lynx}
+Dialogue: 0,0:15:04.14,0:15:05.64,Default,,0,0,0,,Did this bunch
+Dialogue: 0,0:15:05.64,0:15:07.72,Default,,0,0,0,,had this already planned from the beginning?
+Dialogue: 0,0:15:07.85,0:15:10.10,Default,,0,0,0,,Zhang Jiale has been with Hundred Blossoms for six years.
+Dialogue: 0,0:15:10.39,0:15:10.60,Default,,0,0,0,,How could he...
+Dialogue: 0,0:15:10.60,0:15:11.77,Default - Top,,0,0,0,,It's so unexpected.
+Dialogue: 0,0:15:10.60,0:15:11.77,Default,,0,0,0,,How could Zhang Jiale do this?
+Dialogue: 0,0:15:12.10,0:15:13.68,Default,,0,0,0,,We have one more piece of great news to announce today.
+Dialogue: 0,0:15:13.68,0:15:14.18,Default - Top,,0,0,0,,Look, look!
+Dialogue: 0,0:15:13.68,0:15:14.18,Default,,0,0,0,,We have one more piece of great news to announce today.
+Dialogue: 0,0:15:16.10,0:15:17.77,Default,,0,0,0,,An ace player has joined us in the venue today.
+Dialogue: 0,0:15:17.60,0:15:18.39,Default - Top,,0,0,0,,What?
+Dialogue: 0,0:15:17.77,0:15:20.02,Default,,0,0,0,,He's about to join Tyranny.
+Dialogue: 0,0:15:18.39,0:15:19.39,Default - Top,,0,0,0,,It's Zhang Jiale.
+Dialogue: 0,0:15:19.39,0:15:20.39,Default - Top,,0,0,0,,They must be joking.
+Dialogue: 0,0:15:20.64,0:15:22.18,Default,,0,0,0,,He's joining Tyranny?!
+Dialogue: 0,0:15:22.27,0:15:23.89,Default,,0,0,0,,I've never heard anything about it.
+Dialogue: 0,0:15:24.02,0:15:25.43,Default,,0,0,0,,Are they for real?
+Dialogue: 0,0:15:29.85,0:15:31.68,Default,,0,0,0,,I'll be making a comeback in the new season.
+Dialogue: 0,0:15:32.31,0:15:34.64,Default,,0,0,0,,I've already signed the contract with Tyranny.
+Dialogue: 0,0:15:35.89,0:15:37.02,Default,,0,0,0,,In the new season,
+Dialogue: 0,0:15:37.27,0:15:38.93,Default,,0,0,0,,I'll be playing for Tyranny
+Dialogue: 0,0:15:40.77,0:15:42.31,Default,,0,0,0,,Are Hundred Blossoms brain-dead or what?
+Dialogue: 0,0:15:42.60,0:15:43.68,Default,,0,0,0,,How could they give up on Dazzling Hundred Blossoms?
+Dialogue: 0,0:15:43.68,0:15:44.89,Default,,0,0,0,,They're disrespecting the fans.
+Dialogue: 0,0:15:45.64,0:15:47.14,TLC,,0,0,0,,If I were you, I couldn't accept it either.
+Dialogue: 0,0:15:47.27,0:15:49.85,Default,,0,0,0,,The club owes the fans a proper explanation.
+Dialogue: 0,0:15:49.85,0:15:50.43,Default,,0,0,0,,I have a question.
+Dialogue: 0,0:15:50.97,0:15:53.22,Default,,0,0,0,,Speaking for loyal Hundred Blossoms fans,
+Dialogue: 0,0:15:53.43,0:15:55.60,Default,,0,0,0,,the club has sold off their most beloved character,
+Dialogue: 0,0:15:55.77,0:15:57.10,Default,,0,0,0,,and their favourite player
+Dialogue: 0,0:15:57.10,0:15:58.39,Default,,0,0,0,,has transferred to another team.
+Dialogue: 0,0:15:58.89,0:16:01.60,Default,,0,0,0,,Do you have anything you want to say to the fans who have been supporting you?
+Dialogue: 0,0:16:08.35,0:16:09.10,Default,,0,0,0,,[Hundred Blossoms]
+Dialogue: 0,0:16:11.35,0:16:14.06,Default,,0,0,0,,I apologise for retiring irresponsibly in the previous season.
+Dialogue: 0,0:16:14.77,0:16:16.18,Default,,0,0,0,,I also apologize for making a comeback this season
+Dialogue: 0,0:16:16.27,0:16:17.81,Default,,0,0,0,,with a team
+Dialogue: 0,0:16:18.56,0:16:19.85,Default,,0,0,0,,other than Hundred Blossoms.
+Dialogue: 0,0:16:20.72,0:16:21.72,Default,,0,0,0,,An apology and nothing else?
+Dialogue: 0,0:16:22.64,0:16:24.52,Default,,0,0,0,,Your retirement and comeback both were rushed and sudden.
+Dialogue: 0,0:16:25.02,0:16:26.47,Default,,0,0,0,,It took a lot of people by surprise.
+Dialogue: 0,0:16:26.64,0:16:28.52,Default,,0,0,0,,You {also }broke the hearts of Hundred Blossoms' fans.
+Dialogue: 0,0:16:30.97,0:16:32.60,Default,,0,0,0,,Why did you make such a decision?
+Dialogue: 0,0:17:28.56,0:17:29.39,Default,,0,0,0,,Because
+Dialogue: 0,0:17:31.35,0:17:32.27,TLC,,0,0,0,,I want to become a champion.
+Dialogue: 0,0:17:44.47,0:17:46.60,Default,,0,0,0,,Lin Jingyan, who has never made it to the finals.
+Dialogue: 0,0:17:47.31,0:17:49.64,Default,,0,0,0,,Zhang Jiale, who has lost three finals out of three.
+Dialogue: 0,0:17:50.93,0:17:53.35,Default,,0,0,0,,And Han Wenqing, who never gives up.
+Dialogue: 0,0:17:55.27,0:17:56.60,Default,,0,0,0,,They have no time.
+Dialogue: 0,0:17:57.18,0:17:58.39,TLC,,0,0,0,,They have no opportunity.{Don't understand --Lynx}
+Dialogue: 0,0:17:59.27,0:18:00.35,Default,,0,0,0,,They have no way out.
+Dialogue: 0,0:18:04.93,0:18:06.81,Default,,0,0,0,,Their only desire is to become the champions.
+Dialogue: 0,0:18:07.35,0:18:09.56,Default,,0,0,0,,Only then they chose to burn everything {go all out, bet everything? --Lynx?}in this last attempt{there is no "attempt" or anything, really, "for this lastness"}.
+Dialogue: 0,0:18:10.39,0:18:12.22,Default,,0,0,0,,Their desire to win surpasses everything else.
+Dialogue: 0,0:18:12.93,0:18:14.68,Default,,0,0,0,,Just like all Glory Professional Alliance players
+Dialogue: 0,0:18:15.56,0:18:16.27,Default,,0,0,0,,{down? --Lynx}To a man.
+Dialogue: 0,0:18:46.97,0:18:49.56,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\pos(1895,110)}The battle is spiraling out of control
+Dialogue: 0,0:18:49.56,0:18:53.77,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\pos(1895,158)}The Blue is stunned, surrounded on all sides, struggle is useless{no idea what "幽蓝" could mean other than literal deep blue, no hits for QZGS in Google or elsewhere}
+Dialogue: 0,0:18:53.77,0:18:56.60,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\pos(1895,110)}Caught in a trap
+Dialogue: 0,0:19:09.64,0:19:12.18,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\pos(1895,110)}The cold rain approaches in full fury
+Dialogue: 0,0:19:12.18,0:19:16.14,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\pos(1895,158)}The lonely knight waves his sword\Nfighting for his dream
+Dialogue: 0,0:19:16.14,0:19:19.14,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\pos(1895,158)}There's surely a loophole\Nin the encirclement
+Dialogue: 0,0:19:19.85,0:19:22.18,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\pos(1895,110)}Invisible shadow, shaking earth
+Dialogue: 0,0:19:22.18,0:19:24.27,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\pos(1895,110)}The continuous cheer is deafening
+Dialogue: 0,0:19:24.27,0:19:29.47,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\pos(1895,110)}The prey disappears in a flash!
+Dialogue: 0,0:19:29.93,0:19:31.06,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\pos(1895,110)}This deed
+Dialogue: 0,0:19:31.06,0:19:32.39,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\3c&H3F3B86&\4c&H3F3B86&\pos(1895,110)}Failure is not an option
+Dialogue: 0,0:19:32.39,0:19:34.31,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\3c&H3F3B86&\4c&H3F3B86&\pos(1895,110)}Who will become a champion?{Will reign supreme --Lynx}
+Dialogue: 0,0:19:34.31,0:19:36.39,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\3c&H3F3B86&\4c&H3F3B86&\pos(1895,110)}In a blink of an eye
+Dialogue: 0,0:19:36.39,0:19:38.18,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\3c&H3F3B86&\4c&H3F3B86&\pos(1895,110)}Leaving behind all the rivals?
+Dialogue: 0,0:19:38.18,0:19:40.10,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\3c&H3F3B86&\4c&H3F3B86&\pos(1895,110)}Let the fingertips fly
+Dialogue: 0,0:19:40.10,0:19:41.97,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\3c&H3F3B86&\4c&H3F3B86&\pos(1895,110)}Slashing through the sky
+Dialogue: 0,0:19:41.97,0:19:44.52,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\3c&H3F3B86&\4c&H3F3B86&\pos(1895,110)}Riding on the wind
+Dialogue: 0,0:19:44.52,0:19:46.77,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\3c&H3F3B86&\4c&H3F3B86&\pos(1895,158)}Breaking all limits and rules
+Dialogue: 0,0:19:46.77,0:19:48.18,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\3c&H3F3B86&\4c&H3F3B86&\pos(1895,110)}No regret
+Dialogue: 0,0:19:48.18,0:19:49.47,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\3c&H3F3B86&\4c&H3F3B86&\pos(1895,158)}If we're drawn to meet\Nat the battlefield
+Dialogue: 0,0:19:49.47,0:19:51.02,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\3c&H3F3B86&\4c&H3F3B86&\pos(1895,110)}We'll still take it easy
+Dialogue: 0,0:19:51.02,0:19:52.10,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\3c&H3F3B86&\4c&H3F3B86&\pos(1895,110)}Come on
+Dialogue: 0,0:19:52.10,0:19:54.56,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\3c&H3F3B86&\4c&H3F3B86&\pos(1895,110)}Come where the light reflects on a sword's surface
+Dialogue: 0,0:19:54.56,0:19:56.02,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\3c&H3F3B86&\4c&H3F3B86&\pos(1895,110)}Charge towards the target
+Dialogue: 0,0:19:56.02,0:19:56.97,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\3c&H3F3B86&\4c&H3F3B86&\pos(1895,110)}And attack
+Dialogue: 0,0:19:56.97,0:19:58.31,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\3c&H3F3B86&\4c&H3F3B86&\pos(1895,110)}Strive for success
+Dialogue: 0,0:19:58.31,0:19:59.68,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\3c&H3F3B86&\4c&H3F3B86&\pos(1895,110)}Let's forget
+Dialogue: 0,0:19:59.68,0:20:01.18,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\3c&H3F3B86&\4c&H3F3B86&\pos(1895,110)}All the pain
+Dialogue: 0,0:20:01.18,0:20:02.47,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\3c&H3F3B86&\4c&H3F3B86&\pos(1895,110)}For the winner is the king
+Dialogue: 0,0:20:02.52,0:20:05.27,ED-07,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))\3c&H3F3B86&\4c&H3F3B86&\pos(1895,110)}Who will claim victory?
+Dialogue: 0,0:18:46.27,0:18:48.27,Default,,0,0,0,,
