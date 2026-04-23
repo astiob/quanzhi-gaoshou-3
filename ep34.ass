@@ -14,9 +14,9 @@ Video File: [Vampire] The King's Avatar S3 - 10 (1080p HBR HEVC) [8EBF7E50].mkv
 Video AR Mode: 4
 Video AR Value: 2.370370
 Video Zoom Percent: 0.625000
-Scroll Position: 375
-Active Line: 480
-Video Position: 24672
+Scroll Position: 27
+Active Line: 29
+Video Position: 3380
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -24,7 +24,16 @@ Style: Default,Arial,45,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100
 Style: OP,Averia Serif,49,&H00FFFFFF,&H00FFFFFF,&H008C7CAA,&H008C7CAA,-1,0,0,0,100,100,1,0,1,3,0.375,8,30,30,23,1
 Style: Default - Top,Arial,45,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0.75,8,50,50,94,1
 Style: Title,Baskerville Old Face,120,&H00721C2E,&H0000FFFF,&H00F5CE81,&H00FFFFFF,-1,-1,0,0,100,100,0,0,1,4,3,2,100,50,90,1
+Style: Plaque_Green,Noto Sans CJK SC,44,&H00FFFFFF,&H000000FF,&H00333333,&H806ADB7F,0,0,0,0,100,100,0,0,3,1,0,2,10,10,10,1
+Style: Plaque_Magenta,Noto Sans CJK SC,44,&H00FFFFFF,&H000000FF,&H00333333,&H80B15DFF,0,0,0,0,100,100,0,0,3,1,0,2,10,10,10,1
+Style: Chatbox,SourceSans3Uniscribe,24,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,30,0,69,1
+Style: Chinese,Noto Sans CJK SC,43,&H000000FF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0.25,0,1,0,0,5,0,0,0,1
 Style: ED-10,Averia Serif,49,&H00FFFFFF,&H00FFFFFF,&H00587B39,&H00587B39,-1,0,0,0,100,100,1,0,1,3,0.375,2,25,30,700,1
+Style: Dialog,SourceSans3Uniscribe Medium,43,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Chat OSD,SourceSans3Uniscribe,43,&H00000000,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Name OSD,SourceSans3Uniscribe,58,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Sign,SourceSans3Uniscribe,58,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Box,SourceSans3Uniscribe,58,&H00FFFFFF,&H00FFFFFF,&H00FAFDFF,&H00000000,0,0,0,0,100,100,0,0,3,10,0,2,23,0,69,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -56,25 +65,60 @@ Dialogue: 0,0:01:41.31,0:01:43.02,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\bl
 Dialogue: 0,0:01:43.02,0:01:45.31,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Soon, the glory will bloom
 Dialogue: 0,0:01:45.31,0:01:48.06,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}Spread your wings and fly
 Dialogue: 0,0:01:48.06,0:01:50.39,OP,,0,0,0,,{\blur0.75\fad(200,200)\t(0,200,\blur3\bord6\shad1.125\fade(0,1))\t(0,200,\shad0.375)\t(200,400,\shad0.375\blur1.5\bord3\fade(0,0.5))}No one can stop me
-Comment: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,[Contestant Info]
-Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(700, 302)\p1\bord0\shad0\1c&HE6E6E6&} m 0 0 l 380 0 l 380 48 l 0 48 l 0 0
-Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(736, 310)\bord0\shad0\1c&000000&\fs30}Glory Challenge League
-Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(700, 358)\p1\bord0\shad0\1c&HE6E6E6&} m 0 0 l 380 0 l 380 48 l 0 48 l 0 0
-Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(736, 366)\bord0\shad0\1c&000000&\fs30}Glory Challenge League
-Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(700, 412)\p1\bord0\shad0\1c&HE6E6E6&} m 0 0 l 380 0 l 380 48 l 0 48 l 0 0
-Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(736, 420)\bord0\shad0\1c&000000&\fs30}Glory Challenge League
-Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(700, 466)\p1\bord0\shad0\1c&HE6E6E6&} m 0 0 l 380 0 l 380 48 l 0 48 l 0 0
-Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(736, 474)\bord0\shad0\1c&000000&\fs30}Glory Challenge League
-Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(700, 522)\p1\bord0\shad0\1c&HE6E6E6&} m 0 0 l 380 0 l 380 46 l 0 46 l 0 0
-Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(736, 530)\bord0\shad0\1c&000000&\fs30}Glory Challenge League
-Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(700, 574)\p1\bord0\shad0\1c&HE6E6E6&} m 0 0 l 380 0 l 380 46 l 0 46 l 0 0
-Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(736, 582)\bord0\shad0\1c&000000&\fs30}Glory Challenge League
-Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(700, 630)\p1\bord0\shad0\1c&HE6E6E6&} m 0 0 l 380 0 l 380 46 l 0 46 l 0 0
-Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(736, 638)\bord0\shad0\1c&000000&\fs30}Glory Challenge League
-Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(700, 684)\p1\bord0\shad0\1c&HE6E6E6&} m 0 0 l 380 0 l 380 46 l 0 46 l 0 0
-Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(736, 692)\bord0\shad0\1c&000000&\fs30}Glory Challenge League
-Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(700, 736)\p1\bord0\shad0\1c&HE6E6E6&} m 0 0 l 380 0 l 380 46 l 0 46 l 0 0
-Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(736, 744)\bord0\shad0\1c&000000&\fs30}Glory Challenge League
+Comment: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,[Contestant Info]\N Online Match Roster
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(958,0)\p1\bord0\shad0\1c&H282729&\b0} m 10 0 l 450 0 l 440 92 l 0 92 l 10 0
+Dialogue: 1,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(958,0)\p1\bord0\shad0\1c&H282729&\b0} m 10 0 l 450 0 l 440 92 l 0 92 l 10 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(546,171)\p1\bord0\shad0\1c&HFFFFFF&\b0} m 0 0 l 70 0 l 70 23 l 0 23 l 0 0
+Dialogue: 1,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(546,170)\bord0\shad0\1c&H252238&\fs25\b1\i1}Individual{\i0}
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(685,171)\p1\bord0\shad0\1c&HFFFFFF&\b0} m 0 0 l 70 0 l 70 23 l 0 23 l 0 0
+Dialogue: 1,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(685,170)\bord0\shad0\1c&H252238&\fs25\b1\i1}Group{\i0}
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(824,171)\p1\bord0\shad0\1c&HFFFFFF&\b0} m 0 0 l 70 0 l 70 23 l 0 23 l 0 0
+Dialogue: 1,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(824,170)\bord0\shad0\1c&H252238&\fs25\b1\i1}Team{\i0}
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(546,171)\p1\bord0\shad0\1c&HFFFFFF&\b0} m 0 0 l 70 0 l 70 23 l 0 23 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(538,240)\p1\bord0\shad0\1c&H1A1727&\b0} m 0 0 l 240 0 l 240  46 l 0 46 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(538,242)\bord0\shad0\1c&HFFFFFF&\fs38\b1\i1}Team Name{\i0}
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(904,240)\p1\bord0\shad0\1c&H1A1727&\b0} m 0 0 l 240 0 l 240  46 l 0 46 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(871,242)\bord0\shad0\1c&HFFFFFF&\fs38\b1\i1}Event Type{\i0}
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1369,240)\p1\bord0\shad0\1c&H1A1727&\b0} m 0 0 l 240 0 l 240  46 l 0 46 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1369,242)\bord0\shad0\1c&HFFFFFF&\fs38\b1\i1}Phone No.{\i0}
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1144,240)\p1\bord0\shad0\1c&H1A1727&\b0} m 0 0 l 240 0 l 240  46 l 0 46 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1144,242)\bord0\shad0\1c&HFFFFFF&\fs38\b1\i1}Contact Person{\i0}
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(700,302)\p1\bord0\shad0\1c&HE6E6E6&\b0} m 0 0 l 380 0 l 380 48 l 0 48 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(736,310)\bord0\shad0\1c&000000&\fs30\b0}Glory Challenge League
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(700,358)\p1\bord0\shad0\1c&HE6E6E6&\b0} m 0 0 l 380 0 l 380 48 l 0 48 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(736,366)\bord0\shad0\1c&000000&\fs30\b0}Glory Challenge League
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(700,412)\p1\bord0\shad0\1c&HE6E6E6&\b0} m 0 0 l 380 0 l 380 48 l 0 48 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(736,420)\bord0\shad0\1c&000000&\fs30\b0}Glory Challenge League
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(700,466)\p1\bord0\shad0\1c&HE6E6E6&\b0} m 0 0 l 380 0 l 380 48 l 0 48 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(736,474)\bord0\shad0\1c&000000&\fs30\b0}Glory Challenge League
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(700,522)\p1\bord0\shad0\1c&HE6E6E6&\b0} m 0 0 l 380 0 l 380 46 l 0 46 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(736,530)\bord0\shad0\1c&000000&\fs30\b0}Glory Challenge League
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(700,574)\p1\bord0\shad0\1c&HE6E6E6&\b0} m 0 0 l 380 0 l 380 46 l 0 46 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(736,582)\bord0\shad0\1c&000000&\fs30\b0}Glory Challenge League
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(700,630)\p1\bord0\shad0\1c&HE6E6E6&\b0} m 0 0 l 380 0 l 380 46 l 0 46 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(736,638)\bord0\shad0\1c&000000&\fs30\b0}Glory Challenge League
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(700,684)\p1\bord0\shad0\1c&HE6E6E6&\b0} m 0 0 l 380 0 l 380 46 l 0 46 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(736,692)\bord0\shad0\1c&000000&\fs30\b0}Glory Challenge League
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(700,736)\p1\bord0\shad0\1c&HE6E6E6&\b0} m 0 0 l 380 0 l 380 46 l 0 46 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an7\pos(736,744)\bord0\shad0\1c&000000&\fs30\b0}Glory Challenge League
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1144,302)\p1\bord0\shad0\1c&HE6E6E6&\b0} m 0 0 l  240 0 l 240 48 l 0 48 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1144,310)\bord0\shad0\1c&000000&\fs30\b0}Manager Wang
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1144,358)\p1\bord0\shad0\1c&HE6E6E6&\b0} m 0 0 l 240 0 l 240  48 l 0 48 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1144,366)\bord0\shad0\1c&000000&\fs30\b0}Manager Qi
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1144,412)\p1\bord0\shad0\1c&HE6E6E6&\b0} m 0 0 l 240 0 l 240  48 l 0 48 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1144,420)\bord0\shad0\1c&000000&\fs30\b0}Manager Zhang
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1144,466)\p1\bord0\shad0\1c&HE6E6E6&\b0} m 0 0 l 240 0 l 240  48 l 0 48 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1144,474)\bord0\shad0\1c&000000&\fs30\b0}Manager Lu
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1144,522)\p1\bord0\shad0\1c&HE6E6E6&\b0} m 0 0 l 240 0 l 240  46 l 0 46 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1144,530)\bord0\shad0\1c&000000&\fs30\b0}Manager Li
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1144,574)\p1\bord0\shad0\1c&HE6E6E6&\b0} m 0 0 l 240 0 l 240  46 l 0 46 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1144,582)\bord0\shad0\1c&000000&\fs30\b0}Manager Fan
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1144,630)\p1\bord0\shad0\1c&HE6E6E6&\b0} m 0 0 l 240 0 l 240  46 l 0 46 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1144,638)\bord0\shad0\1c&000000&\fs30\b0}Manager Zhu
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1144,684)\p1\bord0\shad0\1c&HE6E6E6&\b0} m 0 0 l 240 0 l 240  46 l 0 46 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1144,692)\bord0\shad0\1c&000000&\fs30\b0}Manager Wu
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1144,736)\p1\bord0\shad0\1c&HE6E6E6&\b0} m 0 0 l 240 0 l 240  46 l 0 46 l 0 0
+Dialogue: 0,0:02:10.00,0:02:11.22,Default,,0,0,0,,{\an8\pos(1144,744)\bord0\shad0\1c&000000&\fs30\b0}Manager Li
 Dialogue: 0,0:02:11.22,0:02:12.72,Default,,0,0,0,,[Team name]\NThere are so many teams with names similar to ours. {From what I can see, in subs they use "named 兴欣", but in the table, it's sorted by pinyin, there's 新星 in the middle, for example --Lynx}
 Dialogue: 0,0:02:12.72,0:02:13.30,Default,,0,0,0,,We're done for. {alt. We're screwed --Lynx}
 Dialogue: 0,0:02:14.18,0:02:15.51,Default,,0,0,0,,Did we forget to sign up?
